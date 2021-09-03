@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SmRomNumFive" format="2">
+  <advance width="1104"/>
+  <unicode hex="2174"/>
+  <anchor x="565" y="1100" name="U"/>
+  <outline>
+    <component base="LtnSmV"/>
+  </outline>
+</glyph>

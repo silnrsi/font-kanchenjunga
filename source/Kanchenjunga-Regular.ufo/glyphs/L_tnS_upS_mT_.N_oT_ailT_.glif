@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmT.NoTailT" format="2">
+  <advance width="521"/>
+  <anchor x="255" y="615" name="L"/>
+  <anchor x="255" y="1605" name="U"/>
+  <outline>
+    <component base="LtnSmT.NoTailT" xScale="0.65" yScale="0.65" xOffset="7" yOffset="680"/>
+  </outline>
+</glyph>

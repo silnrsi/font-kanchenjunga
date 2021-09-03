@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtBtmSqrBrac" format="2">
+  <advance width="790"/>
+  <unicode hex="23A6"/>
+  <outline>
+    <contour>
+      <point x="405" y="-297" type="line"/>
+      <point x="150" y="-297" type="line"/>
+      <point x="150" y="-447" type="line"/>
+      <point x="590" y="-447" type="line"/>
+      <point x="590" y="2504" type="line"/>
+      <point x="405" y="2504" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupNine" format="2">
+  <advance width="840"/>
+  <unicode hex="2079"/>
+  <anchor x="420" y="615" name="L"/>
+  <anchor x="420" y="1675" name="U"/>
+  <outline>
+    <component base="DigitNine" xScale="0.7" yScale="0.65" yOffset="680"/>
+  </outline>
+</glyph>

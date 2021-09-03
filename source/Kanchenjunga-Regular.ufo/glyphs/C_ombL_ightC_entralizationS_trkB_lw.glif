@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLightCentralizationStrkBlw" format="2">
+  <unicode hex="1AB9"/>
+  <anchor x="-500" y="-600" name="L"/>
+  <anchor x="-500" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-985" y="-549" type="line"/>
+      <point x="-882" y="-549" type="line"/>
+      <point x="-676" y="16" type="line"/>
+      <point x="-769" y="45" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblCircum" format="2">
+  <unicode hex="1DCD"/>
+  <anchor x="0" y="1635" name="U"/>
+  <outline>
+    <contour>
+      <point x="-825" y="1580" type="line"/>
+      <point x="0" y="1870" type="line"/>
+      <point x="825" y="1580" type="line"/>
+      <point x="1025" y="1580" type="line"/>
+      <point x="85" y="2010" type="line"/>
+      <point x="-85" y="2010" type="line"/>
+      <point x="-1025" y="1580" type="line"/>
+    </contour>
+  </outline>
+</glyph>

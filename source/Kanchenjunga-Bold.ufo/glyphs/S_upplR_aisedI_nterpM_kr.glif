@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupplRaisedInterpMkr" format="2">
+  <advance width="905"/>
+  <unicode hex="2E06"/>
+  <outline>
+    <contour>
+      <point x="90" y="1460" type="line"/>
+      <point x="90" y="1300" type="line"/>
+      <point x="373" y="1300" type="line"/>
+      <point x="373" y="810" type="line"/>
+      <point x="532" y="810" type="line"/>
+      <point x="532" y="1300" type="line"/>
+      <point x="815" y="1300" type="line"/>
+      <point x="815" y="1460" type="line"/>
+    </contour>
+  </outline>
+</glyph>

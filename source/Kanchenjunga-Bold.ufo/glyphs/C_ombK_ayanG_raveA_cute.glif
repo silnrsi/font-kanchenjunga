@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombKayanGraveAcute" format="2">
+  <anchor x="-590" y="1635" name="U"/>
+  <anchor x="-590" y="1100" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-1315" y="1600" type="line"/>
+      <point x="-915" y="1200" type="line"/>
+      <point x="-675" y="1200" type="line"/>
+      <point x="-965" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="-205" y="1600" type="line"/>
+      <point x="-495" y="1200" type="line"/>
+      <point x="-255" y="1200" type="line"/>
+      <point x="145" y="1600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

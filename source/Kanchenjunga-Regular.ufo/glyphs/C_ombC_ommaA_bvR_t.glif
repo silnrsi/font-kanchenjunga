@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombCommaAbvRt" format="2">
+  <advance width="250"/>
+  <unicode hex="0315"/>
+  <anchor x="0" y="1000" name="R_"/>
+  <outline>
+    <contour>
+      <point x="65" y="1600" type="line"/>
+      <point x="0" y="1170" type="line"/>
+      <point x="120" y="1170" type="line"/>
+      <point x="250" y="1600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtBtmParen" format="2">
+  <advance width="795"/>
+  <unicode hex="23A0"/>
+  <outline>
+    <contour>
+      <point x="490" y="621" type="line"/>
+      <point x="489" y="267"/>
+      <point x="399" y="-29"/>
+      <point x="165" y="-233" type="curve"/>
+      <point x="240" y="-388" type="line"/>
+      <point x="504" y="-193"/>
+      <point x="679" y="187"/>
+      <point x="680" y="621" type="curve"/>
+      <point x="680" y="2500" type="line"/>
+      <point x="490" y="2500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

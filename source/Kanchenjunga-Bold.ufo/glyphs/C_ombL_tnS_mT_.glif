@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLtnSmT" format="2">
+  <unicode hex="036D"/>
+  <anchor x="-623" y="2135" name="U"/>
+  <anchor x="-530" y="1175" name="_U"/>
+  <outline>
+    <component base="LtnSupSmT" xOffset="-871" yOffset="560"/>
+  </outline>
+</glyph>

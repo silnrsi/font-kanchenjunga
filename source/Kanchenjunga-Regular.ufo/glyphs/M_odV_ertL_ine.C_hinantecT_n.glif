@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModVertLine.ChinantecTn" format="2">
+  <advance width="220"/>
+  <outline>
+    <contour>
+      <point x="175" y="1005" type="line"/>
+      <point x="175" y="1645" type="line"/>
+      <point x="45" y="1645" type="line"/>
+      <point x="45" y="1005" type="line"/>
+    </contour>
+  </outline>
+</glyph>

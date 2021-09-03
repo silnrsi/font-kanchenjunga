@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombShortStrkOverlay" format="2">
+  <unicode hex="0335"/>
+  <outline>
+    <contour>
+      <point x="-210" y="440" type="line"/>
+      <point x="-210" y="580" type="line"/>
+      <point x="-930" y="580" type="line"/>
+      <point x="-930" y="440" type="line"/>
+    </contour>
+  </outline>
+</glyph>

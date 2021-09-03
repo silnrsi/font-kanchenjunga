@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapOOgonek" format="2">
+  <advance width="1500"/>
+  <unicode hex="01EA"/>
+  <anchor x="740" y="0" name="H"/>
+  <anchor x="911" y="-430" name="L"/>
+  <anchor x="1480" y="1200" name="R"/>
+  <anchor x="740" y="1530" name="U"/>
+  <outline>
+    <component base="LtnCapO"/>
+    <component base="CombOgonek" xOffset="1326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

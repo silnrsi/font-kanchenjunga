@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmKomiTje" format="2">
+  <advance width="1220"/>
+  <unicode hex="050F"/>
+  <anchor x="650" y="-100" name="L"/>
+  <anchor x="532" y="1100" name="U"/>
+  <outline>
+    <contour>
+      <point x="1000" y="875" type="line"/>
+      <point x="1000" y="1020" type="line"/>
+      <point x="65" y="1020" type="line"/>
+      <point x="65" y="875" type="line"/>
+      <point x="440" y="875" type="line"/>
+      <point x="440" y="300" type="line" smooth="yes"/>
+      <point x="440" y="91"/>
+      <point x="577" y="-25"/>
+      <point x="795" y="-25" type="curve" smooth="yes"/>
+      <point x="989" y="-25"/>
+      <point x="1135" y="102"/>
+      <point x="1135" y="300" type="curve" smooth="yes"/>
+      <point x="1135" y="620" type="line"/>
+      <point x="950" y="620" type="line"/>
+      <point x="950" y="320" type="line" smooth="yes"/>
+      <point x="950" y="193"/>
+      <point x="888" y="140"/>
+      <point x="800" y="140" type="curve" smooth="yes"/>
+      <point x="702" y="140"/>
+      <point x="625" y="180"/>
+      <point x="625" y="320" type="curve" smooth="yes"/>
+      <point x="625" y="875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

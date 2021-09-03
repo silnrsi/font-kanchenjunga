@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MathLftWhiteSqrBrac" format="2">
+  <advance width="1068"/>
+  <unicode hex="27E6"/>
+  <outline>
+    <contour>
+      <point x="915" y="-410" type="line"/>
+      <point x="915" y="-240" type="line"/>
+      <point x="670" y="-240" type="line"/>
+      <point x="670" y="1430" type="line"/>
+      <point x="915" y="1430" type="line"/>
+      <point x="915" y="1600" type="line"/>
+      <point x="150" y="1600" type="line"/>
+      <point x="150" y="-410" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="1430" type="line"/>
+      <point x="495" y="1430" type="line"/>
+      <point x="495" y="-240" type="line"/>
+      <point x="325" y="-240" type="line"/>
+    </contour>
+  </outline>
+</glyph>

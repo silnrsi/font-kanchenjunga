@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblVertLineAbv" format="2">
+  <unicode hex="030E"/>
+  <anchor x="-570" y="1635" name="U"/>
+  <anchor x="-570" y="1100" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-645" y="1170" type="line"/>
+      <point x="-645" y="1600" type="line"/>
+      <point x="-745" y="1600" type="line"/>
+      <point x="-745" y="1170" type="line"/>
+    </contour>
+    <contour>
+      <point x="-395" y="1170" type="line"/>
+      <point x="-395" y="1600" type="line"/>
+      <point x="-495" y="1600" type="line"/>
+      <point x="-495" y="1170" type="line"/>
+    </contour>
+  </outline>
+</glyph>

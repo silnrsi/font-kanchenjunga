@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModRtArrwhd" format="2">
+  <advance width="1085"/>
+  <unicode hex="02C3"/>
+  <outline>
+    <contour>
+      <point x="985" y="1210" type="line"/>
+      <point x="985" y="1320" type="line"/>
+      <point x="100" y="1620" type="line"/>
+      <point x="100" y="1515" type="line"/>
+      <point x="830" y="1265" type="line"/>
+      <point x="100" y="1015" type="line"/>
+      <point x="100" y="910" type="line"/>
+    </contour>
+  </outline>
+</glyph>

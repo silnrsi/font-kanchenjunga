@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTurnedT.NoTailT" format="2">
+  <advance width="795"/>
+  <anchor x="397" y="-455" name="L"/>
+  <anchor x="386" y="1100" name="U"/>
+  <outline>
+    <contour>
+      <point x="295" y="1020" type="line"/>
+      <point x="295" y="-355" type="line"/>
+      <point x="480" y="-355" type="line"/>
+      <point x="480" y="1020" type="line"/>
+    </contour>
+    <contour>
+      <point x="745" y="145" type="line"/>
+      <point x="30" y="145" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="745" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmOOgonekMacron.sc" format="2">
+  <advance width="1400"/>
+  <anchor x="687" y="0" name="H"/>
+  <anchor x="839" y="-430" name="L"/>
+  <anchor x="1368" y="1003" name="R"/>
+  <anchor x="687" y="1629" name="U"/>
+  <outline>
+    <component base="LtnSmO.sc"/>
+    <component base="CombMacron" xOffset="1257" yOffset="179"/>
+    <component base="CombOgonek" xOffset="1254"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

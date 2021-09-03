@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnBilabialClick" format="2">
+  <advance width="1720"/>
+  <unicode hex="0298"/>
+  <anchor x="860" y="-100" name="L"/>
+  <anchor x="860" y="1560" name="U"/>
+  <outline>
+    <contour>
+      <point x="1625" y="745" type="curve" smooth="yes"/>
+      <point x="1625" y="1183"/>
+      <point x="1299" y="1515"/>
+      <point x="860" y="1515" type="curve" smooth="yes"/>
+      <point x="422" y="1515"/>
+      <point x="95" y="1182"/>
+      <point x="95" y="745" type="curve" smooth="yes"/>
+      <point x="95" y="310"/>
+      <point x="424" y="-25"/>
+      <point x="860" y="-25" type="curve" smooth="yes"/>
+      <point x="1297" y="-25"/>
+      <point x="1625" y="308"/>
+    </contour>
+    <contour>
+      <point x="1015" y="755" type="curve" smooth="yes"/>
+      <point x="1015" y="840"/>
+      <point x="947" y="905"/>
+      <point x="860" y="905" type="curve" smooth="yes"/>
+      <point x="775" y="905"/>
+      <point x="710" y="840"/>
+      <point x="710" y="755" type="curve" smooth="yes"/>
+      <point x="710" y="668"/>
+      <point x="775" y="595"/>
+      <point x="860" y="595" type="curve" smooth="yes"/>
+      <point x="947" y="595"/>
+      <point x="1015" y="668"/>
+    </contour>
+    <contour>
+      <point x="1435" y="745" type="curve" smooth="yes"/>
+      <point x="1435" y="416"/>
+      <point x="1189" y="165"/>
+      <point x="860" y="165" type="curve" smooth="yes"/>
+      <point x="531" y="165"/>
+      <point x="280" y="417"/>
+      <point x="280" y="745" type="curve" smooth="yes"/>
+      <point x="280" y="1075"/>
+      <point x="530" y="1330"/>
+      <point x="860" y="1330" type="curve" smooth="yes"/>
+      <point x="1191" y="1330"/>
+      <point x="1435" y="1075"/>
+    </contour>
+  </outline>
+</glyph>

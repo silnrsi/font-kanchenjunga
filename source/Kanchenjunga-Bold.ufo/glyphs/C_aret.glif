@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Caret" format="2">
+  <advance width="550"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="550" y="-275" type="line"/>
+      <point x="345" y="30" type="line"/>
+      <point x="205" y="30" type="line"/>
+      <point x="0" y="-275" type="line"/>
+      <point x="135" y="-275" type="line"/>
+      <point x="275" y="-105" type="line"/>
+      <point x="415" y="-275" type="line"/>
+    </contour>
+  </outline>
+</glyph>

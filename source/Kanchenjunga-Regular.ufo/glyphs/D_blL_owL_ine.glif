@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DblLowLine" format="2">
+  <advance width="1450"/>
+  <unicode hex="2017"/>
+  <outline>
+    <contour>
+      <point x="0" y="-570" type="line"/>
+      <point x="1450" y="-570" type="line"/>
+      <point x="1450" y="-420" type="line"/>
+      <point x="0" y="-420" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-320" type="line"/>
+      <point x="1450" y="-320" type="line"/>
+      <point x="1450" y="-170" type="line"/>
+      <point x="0" y="-170" type="line"/>
+    </contour>
+  </outline>
+</glyph>

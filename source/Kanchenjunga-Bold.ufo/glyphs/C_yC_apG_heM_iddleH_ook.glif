@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapGheMiddleHook" format="2">
+  <advance width="1375"/>
+  <unicode hex="0494"/>
+  <anchor x="750" y="-500" name="L"/>
+  <anchor x="625" y="1530" name="U"/>
+  <outline>
+    <contour>
+      <point x="450" y="565" type="line"/>
+      <point x="518" y="610"/>
+      <point x="617" y="655"/>
+      <point x="750" y="655" type="curve" smooth="yes"/>
+      <point x="962" y="655"/>
+      <point x="1000" y="395"/>
+      <point x="1000" y="210" type="curve" smooth="yes"/>
+      <point x="1000" y="-79"/>
+      <point x="902" y="-230"/>
+      <point x="780" y="-230" type="curve" smooth="yes"/>
+      <point x="738" y="-230"/>
+      <point x="684" y="-222"/>
+      <point x="660" y="-205" type="curve"/>
+      <point x="555" y="-430" type="line"/>
+      <point x="588" y="-452"/>
+      <point x="696" y="-470"/>
+      <point x="760" y="-470" type="curve" smooth="yes"/>
+      <point x="1049" y="-470"/>
+      <point x="1285" y="-220"/>
+      <point x="1285" y="255" type="curve" smooth="yes"/>
+      <point x="1285" y="559"/>
+      <point x="1160" y="905"/>
+      <point x="780" y="905" type="curve" smooth="yes"/>
+      <point x="619" y="905"/>
+      <point x="537" y="864"/>
+      <point x="450" y="815" type="curve"/>
+      <point x="450" y="1230" type="line"/>
+      <point x="674" y="1230" type="line" smooth="yes"/>
+      <point x="871" y="1230"/>
+      <point x="1030" y="1229"/>
+      <point x="1110" y="1215" type="curve"/>
+      <point x="1110" y="1460" type="line"/>
+      <point x="150" y="1460" type="line"/>
+      <point x="165" y="1380"/>
+      <point x="165" y="1222"/>
+      <point x="165" y="1025" type="curve" smooth="yes"/>
+      <point x="165" y="435" type="line" smooth="yes"/>
+      <point x="165" y="238"/>
+      <point x="165" y="80"/>
+      <point x="150" y="0" type="curve"/>
+      <point x="450" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

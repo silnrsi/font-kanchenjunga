@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmDblBarredLDep" format="2">
+  <advance width="855"/>
+  <unicode hex="F20E"/>
+  <anchor x="427" y="-100" name="L"/>
+  <anchor x="427" y="1635" name="U"/>
+  <outline>
+    <contour>
+      <point x="85" y="-30" type="line"/>
+      <point x="770" y="-30" type="line"/>
+      <point x="770" y="1630" type="line"/>
+      <point x="85" y="1630" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="710" type="line"/>
+      <point x="335" y="710" type="line"/>
+      <point x="335" y="895" type="line"/>
+      <point x="115" y="895" type="line"/>
+      <point x="115" y="1040" type="line"/>
+      <point x="335" y="1040" type="line"/>
+      <point x="335" y="1130" type="line" smooth="yes"/>
+      <point x="335" y="1324"/>
+      <point x="328" y="1485"/>
+      <point x="315" y="1600" type="curve"/>
+      <point x="520" y="1600" type="line"/>
+      <point x="520" y="1040" type="line"/>
+      <point x="740" y="1040" type="line"/>
+      <point x="740" y="895" type="line"/>
+      <point x="520" y="895" type="line"/>
+      <point x="520" y="710" type="line"/>
+      <point x="740" y="710" type="line"/>
+      <point x="740" y="565" type="line"/>
+      <point x="520" y="565" type="line"/>
+      <point x="520" y="475" type="line" smooth="yes"/>
+      <point x="520" y="346"/>
+      <point x="527" y="109"/>
+      <point x="540" y="0" type="curve"/>
+      <point x="335" y="0" type="line"/>
+      <point x="335" y="565" type="line"/>
+      <point x="115" y="565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

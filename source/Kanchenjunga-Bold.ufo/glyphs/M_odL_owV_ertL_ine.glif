@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModLowVertLine" format="2">
+  <advance width="470"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="310" y="-590" type="line"/>
+      <point x="310" y="100" type="line"/>
+      <point x="160" y="100" type="line"/>
+      <point x="160" y="-590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

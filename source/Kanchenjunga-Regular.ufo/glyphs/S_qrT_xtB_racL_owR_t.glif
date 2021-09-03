@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SqrTxtBracLowRt" format="2">
+  <advance width="800"/>
+  <unicode hex="230B"/>
+  <outline>
+    <contour>
+      <point x="600" y="-220" type="line"/>
+      <point x="600" y="1040" type="line"/>
+      <point x="500" y="1040" type="line"/>
+      <point x="500" y="-120" type="line"/>
+      <point x="200" y="-120" type="line"/>
+      <point x="200" y="-220" type="line"/>
+    </contour>
+  </outline>
+</glyph>

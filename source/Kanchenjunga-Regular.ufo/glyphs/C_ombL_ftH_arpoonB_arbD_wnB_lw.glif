@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLftHarpoonBarbDwnBlw" format="2">
+  <unicode hex="20ED"/>
+  <anchor x="-580" y="-500" name="L"/>
+  <anchor x="-580" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-255" y="-215" type="line"/>
+      <point x="-955" y="-215" type="line"/>
+      <point x="-800" y="-410" type="line"/>
+      <point x="-785" y="-390" type="line"/>
+      <point x="-815" y="-305" type="line"/>
+      <point x="-255" y="-305" type="line"/>
+    </contour>
+  </outline>
+</glyph>

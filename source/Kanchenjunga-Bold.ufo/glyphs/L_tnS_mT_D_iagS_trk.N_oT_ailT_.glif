@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTDiagStrk.NoTailT" format="2">
+  <advance width="1039"/>
+  <anchor x="419" y="0" name="H"/>
+  <anchor x="408" y="-200" name="L"/>
+  <anchor x="1039" y="1000" name="R"/>
+  <anchor x="408" y="1415" name="U"/>
+  <outline>
+    <contour>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="226" type="line"/>
+      <point x="536" y="412" type="line"/>
+      <point x="536" y="1375" type="line"/>
+      <point x="266" y="1375" type="line"/>
+      <point x="266" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="1020" type="line"/>
+      <point x="37" y="815" type="line"/>
+      <point x="782" y="815" type="line"/>
+      <point x="782" y="1020" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="1130" type="line"/>
+      <point x="212" y="-115" type="line"/>
+      <point x="422" y="-115" type="line"/>
+      <point x="1002" y="1130" type="line"/>
+    </contour>
+  </outline>
+</glyph>

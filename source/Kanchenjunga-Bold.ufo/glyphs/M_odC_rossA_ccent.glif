@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCrossAccent" format="2">
+  <advance width="834"/>
+  <unicode hex="02DF"/>
+  <outline>
+    <contour>
+      <point x="663" y="1570" type="line"/>
+      <point x="419" y="1326" type="line"/>
+      <point x="175" y="1570" type="line"/>
+      <point x="33" y="1428" type="line"/>
+      <point x="277" y="1184" type="line"/>
+      <point x="30" y="937" type="line"/>
+      <point x="171" y="795" type="line"/>
+      <point x="419" y="1043" type="line"/>
+      <point x="663" y="799" type="line"/>
+      <point x="804" y="940" type="line"/>
+      <point x="560" y="1184" type="line"/>
+      <point x="804" y="1428" type="line"/>
+    </contour>
+  </outline>
+</glyph>

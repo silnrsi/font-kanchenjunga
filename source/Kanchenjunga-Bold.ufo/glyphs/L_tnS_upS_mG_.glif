@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmG" format="2">
+  <advance width="800"/>
+  <anchor x="379" y="300" name="L"/>
+  <anchor x="367" y="1395" name="U"/>
+  <outline>
+    <component base="LtnSmG" xScale="0.7" yScale="0.65" xOffset="-16" yOffset="680"/>
+  </outline>
+</glyph>

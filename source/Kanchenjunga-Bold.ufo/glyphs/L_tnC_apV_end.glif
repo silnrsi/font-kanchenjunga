@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapVend" format="2">
+  <advance width="1214"/>
+  <unicode hex="A768"/>
+  <anchor x="310" y="-500" name="L"/>
+  <anchor x="640" y="1530" name="U"/>
+  <outline>
+    <contour>
+      <point x="150" y="1460" type="line"/>
+      <point x="165" y="1380"/>
+      <point x="165" y="1211"/>
+      <point x="165" y="1015" type="curve" smooth="yes"/>
+      <point x="165" y="45" type="line" smooth="yes"/>
+      <point x="165" y="-152"/>
+      <point x="165" y="-360"/>
+      <point x="150" y="-490" type="curve"/>
+      <point x="465" y="-490" type="line"/>
+      <point x="450" y="-363"/>
+      <point x="450" y="-179"/>
+      <point x="450" y="95" type="curve" smooth="yes"/>
+      <point x="450" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="209" type="line"/>
+      <point x="216" y="-70" type="line"/>
+      <point x="450" y="-70" type="line"/>
+      <point x="984" y="1069" type="line" smooth="yes"/>
+      <point x="1034" y="1176"/>
+      <point x="1100" y="1304"/>
+      <point x="1169" y="1460" type="curve"/>
+      <point x="864" y="1460" type="line"/>
+      <point x="312" y="209" type="line"/>
+    </contour>
+  </outline>
+</glyph>

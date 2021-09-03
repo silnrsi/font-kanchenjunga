@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmZheBreve.sc" format="2">
+  <advance width="1878"/>
+  <anchor x="935" y="-76" name="L"/>
+  <anchor x="935" y="1838" name="U"/>
+  <outline>
+    <component base="CySmZhe.sc"/>
+    <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1650" yOffset="-152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

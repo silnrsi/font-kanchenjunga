@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapILonga" format="2">
+  <advance width="1045"/>
+  <unicode hex="A7FE"/>
+  <anchor x="515" y="0" name="H"/>
+  <anchor x="515" y="-100" name="L"/>
+  <anchor x="710" y="0" name="O"/>
+  <anchor x="850" y="1100" name="R"/>
+  <anchor x="515" y="1635" name="U"/>
+  <outline>
+    <contour>
+      <point x="130" y="1600" type="line"/>
+      <point x="130" y="1395" type="line"/>
+      <point x="370" y="1395" type="line"/>
+      <point x="370" y="205" type="line"/>
+      <point x="130" y="205" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="895" y="0" type="line"/>
+      <point x="895" y="205" type="line"/>
+      <point x="655" y="205" type="line"/>
+      <point x="655" y="1395" type="line"/>
+      <point x="895" y="1395" type="line"/>
+      <point x="895" y="1600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

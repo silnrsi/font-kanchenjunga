@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmTe" format="2">
+  <advance width="1165"/>
+  <unicode hex="0442"/>
+  <anchor x="582" y="-100" name="L"/>
+  <anchor x="582" y="1100" name="U"/>
+  <outline>
+    <contour>
+      <point x="1110" y="1020" type="line"/>
+      <point x="55" y="1020" type="line"/>
+      <point x="55" y="805" type="line"/>
+      <point x="443" y="805" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="723" y="0" type="line"/>
+      <point x="723" y="805" type="line"/>
+      <point x="1110" y="805" type="line"/>
+    </contour>
+  </outline>
+</glyph>

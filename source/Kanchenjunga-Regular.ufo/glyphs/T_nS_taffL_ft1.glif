@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TnStaffLft1" format="2">
+  <advance width="180"/>
+  <anchor x="200" y="35" name="TL"/>
+  <outline>
+    <component base="TnLtrSpcFlatLeft"/>
+    <component base="TnLtrBar" xOffset="180"/>
+  </outline>
+</glyph>
