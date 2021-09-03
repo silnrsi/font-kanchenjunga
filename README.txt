@@ -1,4 +1,3 @@
-
 # Kanchenjunga 
 
 Kanchenjunga Test A is a font in development for the Kirat Rai script. **Please note that this is a work in progress so glyph shapes, metrics, and encoding will change.**
