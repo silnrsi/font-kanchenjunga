@@ -2,10 +2,10 @@
 
 echo "-----Normalizing Regular UFO..."
 echo "-----Updating production names in Regular..."
-#psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -x
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Kanchenjunga-Regular.ufo -x
 
 echo "-----Updating glyph orders in Regular..."
-#psfsetglyphorder -q --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo -p backup=False -x
+psfsetglyphorder -q --header sort_design -i source/glyph_data.csv source/Kanchenjunga-Regular.ufo -p backup=False -x
 
 echo "-----Normalizing other UFOs..."
 psfnormalize -p checkfix=fix source/Kanchenjunga-Regular.ufo       &
