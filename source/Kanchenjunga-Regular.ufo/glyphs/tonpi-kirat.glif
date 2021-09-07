@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonpi-kirat" format="2">
+  <advance width="1310"/>
+  <unicode hex="16D6A"/>
+  <anchor x="270" y="0" name="H"/>
+  <anchor x="695" y="-100" name="L"/>
+  <anchor x="650" y="1530" name="U"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

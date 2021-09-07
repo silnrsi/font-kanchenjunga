@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gha-kirat" format="2">
+  <advance width="1430"/>
+  <unicode hex="16D44"/>
+  <anchor x="320" y="0" name="H"/>
+  <anchor x="740" y="-100" name="L"/>
+  <anchor x="725" y="1530" name="U"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four-kirat" format="2">
+  <advance width="1200"/>
+  <unicode hex="16D74"/>
+  <anchor x="605" y="-100" name="L"/>
+  <anchor x="605" y="1530" name="U"/>
+  <outline>
+    <component base="zero"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

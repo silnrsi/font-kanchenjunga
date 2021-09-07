@@ -62,6 +62,64 @@
   </dict>
   <key>public.glyphOrder</key>
   <array>
+    <string>a-kirat</string>
+    <string>ka-kirat</string>
+    <string>kha-kirat</string>
+    <string>ga-kirat</string>
+    <string>gha-kirat</string>
+    <string>nga-kirat</string>
+    <string>ca-kirat</string>
+    <string>cha-kirat</string>
+    <string>ja-kirat</string>
+    <string>jha-kirat</string>
+    <string>nya-kirat</string>
+    <string>tta-kirat</string>
+    <string>ttha-kirat</string>
+    <string>dda-kirat</string>
+    <string>ddha-kirat</string>
+    <string>ta-kirat</string>
+    <string>tha-kirat</string>
+    <string>da-kirat</string>
+    <string>dha-kirat</string>
+    <string>na-kirat</string>
+    <string>pa-kirat</string>
+    <string>pha-kirat</string>
+    <string>ba-kirat</string>
+    <string>bha-kirat</string>
+    <string>ma-kirat</string>
+    <string>ya-kirat</string>
+    <string>ra-kirat</string>
+    <string>la-kirat</string>
+    <string>va-kirat</string>
+    <string>sa-kirat</string>
+    <string>sha-kirat</string>
+    <string>ha-kirat</string>
+    <string>aaMatra-kirat</string>
+    <string>iMatra-kirat</string>
+    <string>uMatra-kirat</string>
+    <string>ueMatra-kirat</string>
+    <string>eMatra-kirat</string>
+    <string>aiMatra-kirat</string>
+    <string>oMatra-kirat</string>
+    <string>auMatra-kirat</string>
+    <string>halant-kirat</string>
+    <string>anusvara-kirat</string>
+    <string>tonpi-kirat</string>
+    <string>visarga-kirat</string>
+    <string>saat-kirat</string>
+    <string>yupi-kirat</string>
+    <string>danda-kirat</string>
+    <string>doubleDanda-kirat</string>
+    <string>zero-kirat</string>
+    <string>one-kirat</string>
+    <string>two-kirat</string>
+    <string>three-kirat</string>
+    <string>four-kirat</string>
+    <string>five-kirat</string>
+    <string>six-kirat</string>
+    <string>seven-kirat</string>
+    <string>eight-kirat</string>
+    <string>nine-kirat</string>
     <string>space</string>
     <string>exclam</string>
     <string>quotedbl</string>
@@ -404,20 +462,54 @@
     <string>uniFE07</string>
     <key>VS9</key>
     <string>uniFE08</string>
+    <key>a-kirat</key>
+    <string>u16D40</string>
+    <key>aaMatra-kirat</key>
+    <string>u16D60</string>
+    <key>aiMatra-kirat</key>
+    <string>u16D65</string>
+    <key>anusvara-kirat</key>
+    <string>u16D69</string>
+    <key>auMatra-kirat</key>
+    <string>u16D67</string>
+    <key>ba-kirat</key>
+    <string>u16D56</string>
+    <key>bha-kirat</key>
+    <string>u16D57</string>
     <key>bulletoperator</key>
     <string>uni2219</string>
+    <key>ca-kirat</key>
+    <string>u16D46</string>
     <key>caroncomb</key>
     <string>uni030C</string>
     <key>cedillacomb</key>
     <string>uni0327</string>
+    <key>cha-kirat</key>
+    <string>u16D47</string>
     <key>circumflexcomb</key>
     <string>uni0302</string>
+    <key>da-kirat</key>
+    <string>u16D51</string>
+    <key>danda-kirat</key>
+    <string>u16D6E</string>
+    <key>dda-kirat</key>
+    <string>u16D4D</string>
+    <key>ddha-kirat</key>
+    <string>u16D4E</string>
+    <key>dha-kirat</key>
+    <string>u16D52</string>
     <key>dieresiscomb</key>
     <string>uni0308</string>
     <key>divisionslash</key>
     <string>uni2215</string>
     <key>dottedCircle</key>
     <string>uni25CC</string>
+    <key>doubleDanda-kirat</key>
+    <string>u16D6F</string>
+    <key>eMatra-kirat</key>
+    <string>u16D64</string>
+    <key>eight-kirat</key>
+    <string>u16D78</string>
     <key>emquad</key>
     <string>uni2001</string>
     <key>emspace</key>
@@ -430,56 +522,138 @@
     <string>Euro</string>
     <key>figurespace</key>
     <string>uni2007</string>
+    <key>five-kirat</key>
+    <string>u16D75</string>
+    <key>four-kirat</key>
+    <string>u16D74</string>
     <key>fourperemspace</key>
     <string>uni2005</string>
     <key>foursuperior</key>
     <string>uni2074</string>
+    <key>ga-kirat</key>
+    <string>u16D43</string>
+    <key>gha-kirat</key>
+    <string>u16D44</string>
     <key>graphemejoinercomb</key>
     <string>uni034F</string>
     <key>guillemetleft</key>
     <string>guillemotleft</string>
     <key>guillemetright</key>
     <string>guillemotright</string>
+    <key>ha-kirat</key>
+    <string>u16D5F</string>
     <key>hairspace</key>
     <string>uni200A</string>
+    <key>halant-kirat</key>
+    <string>u16D68</string>
     <key>horizontalbar</key>
     <string>uni2015</string>
     <key>hyphenationpoint</key>
     <string>uni2027</string>
     <key>hyphentwo</key>
     <string>uni2010</string>
+    <key>iMatra-kirat</key>
+    <string>u16D61</string>
     <key>idotless</key>
     <string>dotlessi</string>
+    <key>ja-kirat</key>
+    <string>u16D48</string>
+    <key>jha-kirat</key>
+    <string>u16D49</string>
+    <key>ka-kirat</key>
+    <string>u16D41</string>
+    <key>kha-kirat</key>
+    <string>u16D42</string>
+    <key>la-kirat</key>
+    <string>u16D5B</string>
     <key>lineseparator</key>
     <string>uni2028</string>
+    <key>ma-kirat</key>
+    <string>u16D58</string>
     <key>micro</key>
     <string>uni00B5</string>
+    <key>na-kirat</key>
+    <string>u16D53</string>
     <key>narrownbspace</key>
     <string>uni202F</string>
     <key>nbspace</key>
     <string>uni00A0</string>
+    <key>nga-kirat</key>
+    <string>u16D45</string>
+    <key>nine-kirat</key>
+    <string>u16D79</string>
     <key>nonbreakinghyphen</key>
     <string>uni2011</string>
+    <key>nya-kirat</key>
+    <string>u16D4A</string>
+    <key>oMatra-kirat</key>
+    <string>u16D66</string>
     <key>objectReplacementCharacter</key>
     <string>uniFFFC</string>
+    <key>one-kirat</key>
+    <string>u16D71</string>
+    <key>pa-kirat</key>
+    <string>u16D54</string>
     <key>paragraphseparator</key>
     <string>uni2029</string>
+    <key>pha-kirat</key>
+    <string>u16D55</string>
     <key>punctuationspace</key>
     <string>uni2008</string>
+    <key>ra-kirat</key>
+    <string>u16D5A</string>
     <key>replacementCharacter</key>
     <string>uniFFFD</string>
     <key>ringcomb</key>
     <string>uni030A</string>
+    <key>sa-kirat</key>
+    <string>u16D5D</string>
+    <key>saat-kirat</key>
+    <string>u16D6C</string>
+    <key>seven-kirat</key>
+    <string>u16D77</string>
+    <key>sha-kirat</key>
+    <string>u16D5E</string>
+    <key>six-kirat</key>
+    <string>u16D76</string>
     <key>sixperemspace</key>
     <string>uni2006</string>
     <key>softhyphen</key>
     <string>uni00AD</string>
+    <key>ta-kirat</key>
+    <string>u16D4F</string>
+    <key>tha-kirat</key>
+    <string>u16D50</string>
     <key>thinspace</key>
     <string>uni2009</string>
+    <key>three-kirat</key>
+    <string>u16D73</string>
     <key>threeperemspace</key>
     <string>uni2004</string>
+    <key>tonpi-kirat</key>
+    <string>u16D6A</string>
+    <key>tta-kirat</key>
+    <string>u16D4B</string>
+    <key>ttha-kirat</key>
+    <string>u16D4C</string>
+    <key>two-kirat</key>
+    <string>u16D72</string>
+    <key>uMatra-kirat</key>
+    <string>u16D62</string>
+    <key>ueMatra-kirat</key>
+    <string>u16D63</string>
+    <key>va-kirat</key>
+    <string>u16D5C</string>
+    <key>visarga-kirat</key>
+    <string>u16D6B</string>
     <key>wordjoiner</key>
     <string>uni2060</string>
+    <key>ya-kirat</key>
+    <string>u16D59</string>
+    <key>yupi-kirat</key>
+    <string>u16D6D</string>
+    <key>zero-kirat</key>
+    <string>u16D70</string>
     <key>zeroWidthNoBreakSpace</key>
     <string>uniFEFF</string>
     <key>zerowidthjoiner</key>
