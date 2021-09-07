@@ -65,229 +65,229 @@
     <string>.notdef</string>
     <string>.null</string>
     <string>nonmarkingreturn</string>
-    <string>Space</string>
-    <string>ExclamationMrk</string>
-    <string>QuotMrk</string>
-    <string>NumSgn</string>
-    <string>DollarSgn</string>
-    <string>PercentSgn</string>
-    <string>Ampersand</string>
-    <string>Apos</string>
-    <string>LftParen</string>
-    <string>RtParen</string>
-    <string>Asterisk</string>
-    <string>PlusSgn</string>
-    <string>Comma</string>
-    <string>HyphenMinus</string>
-    <string>FullStop</string>
-    <string>Solidus</string>
-    <string>DigitZero</string>
-    <string>DigitOne</string>
-    <string>DigitTwo</string>
-    <string>DigitThree</string>
-    <string>DigitFour</string>
-    <string>DigitFive</string>
-    <string>DigitSix</string>
-    <string>DigitSeven</string>
-    <string>DigitEight</string>
-    <string>DigitNine</string>
-    <string>Colon</string>
-    <string>Semicolon</string>
-    <string>LTSgn</string>
-    <string>EqSgn</string>
-    <string>GTSgn</string>
-    <string>QstnMrk</string>
-    <string>AtSgn</string>
-    <string>LtnCapA</string>
-    <string>LtnCapB</string>
-    <string>LtnCapC</string>
-    <string>LtnCapD</string>
-    <string>LtnCapE</string>
-    <string>LtnCapF</string>
-    <string>LtnCapG</string>
-    <string>LtnCapH</string>
-    <string>LtnCapI</string>
-    <string>LtnCapJ</string>
-    <string>LtnCapK</string>
-    <string>LtnCapL</string>
-    <string>LtnCapM</string>
-    <string>LtnCapN</string>
-    <string>LtnCapO</string>
-    <string>LtnCapP</string>
-    <string>LtnCapQ</string>
-    <string>LtnCapR</string>
-    <string>LtnCapS</string>
-    <string>LtnCapT</string>
-    <string>LtnCapU</string>
-    <string>LtnCapV</string>
-    <string>LtnCapW</string>
-    <string>LtnCapX</string>
-    <string>LtnCapY</string>
-    <string>LtnCapZ</string>
-    <string>LftSqrBrac</string>
-    <string>ReverseSolidus</string>
-    <string>RtSqrBrac</string>
-    <string>CircumAccent</string>
-    <string>LowLine</string>
-    <string>GraveAccent</string>
-    <string>LtnSmA.SngStory</string>
-    <string>LtnSmB</string>
-    <string>LtnSmC</string>
-    <string>LtnSmD</string>
-    <string>LtnSmE</string>
-    <string>LtnSmF</string>
-    <string>LtnSmG.SngBowl</string>
-    <string>LtnSmH</string>
-    <string>LtnSmI</string>
-    <string>LtnSmJ</string>
-    <string>LtnSmK</string>
-    <string>LtnSmL</string>
-    <string>LtnSmM</string>
-    <string>LtnSmN</string>
-    <string>LtnSmO</string>
-    <string>LtnSmP</string>
-    <string>LtnSmQ</string>
-    <string>LtnSmR</string>
-    <string>LtnSmS</string>
-    <string>LtnSmT</string>
-    <string>LtnSmU</string>
-    <string>LtnSmV</string>
-    <string>LtnSmW</string>
-    <string>LtnSmX</string>
-    <string>LtnSmY</string>
-    <string>LtnSmZ</string>
-    <string>LftCurlyBrac</string>
-    <string>VertLine</string>
-    <string>RtCurlyBrac</string>
-    <string>Tilde</string>
-    <string>LtnCapADiaer</string>
-    <string>LtnCapARingAbv</string>
-    <string>LtnCapCCedilla</string>
-    <string>LtnCapEAcute</string>
-    <string>LtnCapNTilde</string>
-    <string>LtnCapODiaer</string>
-    <string>LtnCapUDiaer</string>
+    <string>space</string>
+    <string>exclam</string>
+    <string>quotedbl</string>
+    <string>numbersign</string>
+    <string>dollar</string>
+    <string>percent</string>
+    <string>ampersand</string>
+    <string>quotesingle</string>
+    <string>parenleft</string>
+    <string>parenright</string>
+    <string>asterisk</string>
+    <string>plus</string>
+    <string>comma</string>
+    <string>hyphen</string>
+    <string>period</string>
+    <string>slash</string>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+    <string>colon</string>
+    <string>semicolon</string>
+    <string>less</string>
+    <string>equal</string>
+    <string>greater</string>
+    <string>question</string>
+    <string>at</string>
+    <string>A</string>
+    <string>B</string>
+    <string>C</string>
+    <string>D</string>
+    <string>E</string>
+    <string>F</string>
+    <string>G</string>
+    <string>H</string>
+    <string>I</string>
+    <string>J</string>
+    <string>K</string>
+    <string>L</string>
+    <string>M</string>
+    <string>N</string>
+    <string>O</string>
+    <string>P</string>
+    <string>Q</string>
+    <string>R</string>
+    <string>S</string>
+    <string>T</string>
+    <string>U</string>
+    <string>V</string>
+    <string>W</string>
+    <string>X</string>
+    <string>Y</string>
+    <string>Z</string>
+    <string>bracketleft</string>
+    <string>backslash</string>
+    <string>bracketright</string>
+    <string>asciicircum</string>
+    <string>underscore</string>
+    <string>grave</string>
+    <string>a</string>
+    <string>b</string>
+    <string>c</string>
+    <string>d</string>
+    <string>e</string>
+    <string>f</string>
+    <string>g</string>
+    <string>h</string>
+    <string>i</string>
+    <string>j</string>
+    <string>k</string>
+    <string>l</string>
+    <string>m</string>
+    <string>n</string>
+    <string>o</string>
+    <string>p</string>
+    <string>q</string>
+    <string>r</string>
+    <string>s</string>
+    <string>t</string>
+    <string>u</string>
+    <string>v</string>
+    <string>w</string>
+    <string>x</string>
+    <string>y</string>
+    <string>z</string>
+    <string>braceleft</string>
+    <string>bar</string>
+    <string>braceright</string>
+    <string>asciitilde</string>
+    <string>Adieresis</string>
+    <string>Aring</string>
+    <string>Ccedilla</string>
+    <string>Eacute</string>
+    <string>Ntilde</string>
+    <string>Odieresis</string>
+    <string>Udieresis</string>
     <string>LtnSmAAcute</string>
     <string>LtnSmAGrave</string>
     <string>LtnSmACircum</string>
     <string>LtnSmADiaer</string>
     <string>LtnSmATilde</string>
     <string>LtnSmARingAbv</string>
-    <string>LtnSmCCedilla</string>
-    <string>LtnSmEAcute</string>
-    <string>LtnSmEGrave</string>
-    <string>LtnSmECircum</string>
-    <string>LtnSmEDiaer</string>
-    <string>LtnSmIAcute</string>
-    <string>LtnSmIGrave</string>
-    <string>LtnSmICircum</string>
-    <string>LtnSmIDiaer</string>
-    <string>LtnSmNTilde</string>
-    <string>LtnSmOAcute</string>
-    <string>LtnSmOGrave</string>
-    <string>LtnSmOCircum</string>
-    <string>LtnSmODiaer</string>
-    <string>LtnSmOTilde</string>
-    <string>LtnSmUAcute</string>
-    <string>LtnSmUGrave</string>
-    <string>LtnSmUCircum</string>
-    <string>LtnSmUDiaer</string>
-    <string>Dagger</string>
-    <string>DegreeSgn</string>
-    <string>CentSgn</string>
-    <string>PoundSgn</string>
-    <string>SectionSgn</string>
-    <string>Bullet</string>
-    <string>PilcrowSgn</string>
-    <string>LtnSmSharpS</string>
-    <string>RegisteredSgn</string>
-    <string>CopyrightSgn</string>
-    <string>TradeMrkSgn</string>
-    <string>AcuteAccent</string>
-    <string>Diaer</string>
-    <string>NotEqTo</string>
-    <string>LtnCapAe</string>
-    <string>LtnCapOStrk</string>
-    <string>Infinity</string>
-    <string>PlusMinusSgn</string>
-    <string>LTOrEqTo</string>
-    <string>GTOrEqTo</string>
-    <string>YenSgn</string>
-    <string>MicroSgn</string>
-    <string>PartialDiff</string>
-    <string>NArySummation</string>
-    <string>NAryProduct</string>
-    <string>GrSmPi</string>
-    <string>Integral</string>
-    <string>FemOrdIndicator</string>
-    <string>MascOrdIndicator</string>
-    <string>OhmSgn</string>
-    <string>LtnSmAe</string>
-    <string>LtnSmOStrk</string>
-    <string>InvQstnMrk</string>
-    <string>InvExclamationMrk</string>
-    <string>NotSgn</string>
-    <string>SqrRoot</string>
-    <string>LtnSmFHook</string>
-    <string>AlmostEqTo</string>
-    <string>Increment</string>
-    <string>LftPtngDblAngQuotMrk</string>
-    <string>RtPtngDblAngQuotMrk</string>
-    <string>HorizEllipsis</string>
-    <string>NoBreakSpace</string>
-    <string>LtnCapAGrave</string>
-    <string>LtnCapATilde</string>
-    <string>LtnCapOTilde</string>
-    <string>LtnCapLigOe</string>
-    <string>LtnSmLigOe</string>
-    <string>EnDash</string>
-    <string>EmDash</string>
-    <string>LftDblQuotMrk</string>
-    <string>RtDblQuotMrk</string>
-    <string>LftSglQuotMrk</string>
-    <string>RtSglQuotMrk</string>
-    <string>DivSgn</string>
-    <string>Lozenge</string>
-    <string>LtnSmYDiaer</string>
-    <string>LtnCapYDiaer</string>
-    <string>FracSlash</string>
-    <string>CurrSgn</string>
-    <string>SglLftPtngAngQuotMrk</string>
-    <string>SglRtPtngAngQuotMrk</string>
-    <string>LtnSmLigFi</string>
-    <string>LtnSmLigFl</string>
-    <string>DblDagger</string>
-    <string>MiddleDot</string>
-    <string>SglLow9QuotMrk</string>
-    <string>DblLow9QuotMrk</string>
-    <string>PerMilleSgn</string>
-    <string>LtnCapACircum</string>
-    <string>LtnCapECircum</string>
-    <string>LtnCapAAcute</string>
-    <string>LtnCapEDiaer</string>
-    <string>LtnCapEGrave</string>
-    <string>LtnCapIAcute</string>
-    <string>LtnCapICircum</string>
-    <string>LtnCapIDiaer</string>
-    <string>LtnCapIGrave</string>
-    <string>LtnCapOAcute</string>
-    <string>LtnCapOCircum</string>
-    <string>DottedCirc</string>
-    <string>LtnCapOGrave</string>
-    <string>LtnCapUAcute</string>
-    <string>LtnCapUCircum</string>
-    <string>LtnCapUGrave</string>
-    <string>LtnSmDotlessI</string>
-    <string>ModCircumAccent</string>
-    <string>SmTilde</string>
-    <string>Macron</string>
-    <string>Breve</string>
-    <string>DotAbv</string>
-    <string>RingAbv</string>
-    <string>Cedilla</string>
-    <string>DblAcuteAccent</string>
-    <string>Ogonek</string>
-    <string>Caron</string>
+    <string>ccedilla</string>
+    <string>eacute</string>
+    <string>egrave</string>
+    <string>ecircumflex</string>
+    <string>edieresis</string>
+    <string>iacute</string>
+    <string>igrave</string>
+    <string>icircumflex</string>
+    <string>idieresis</string>
+    <string>ntilde</string>
+    <string>oacute</string>
+    <string>ograve</string>
+    <string>ocircumflex</string>
+    <string>odieresis</string>
+    <string>otilde</string>
+    <string>uacute</string>
+    <string>ugrave</string>
+    <string>ucircumflex</string>
+    <string>udieresis</string>
+    <string>dagger</string>
+    <string>degree</string>
+    <string>cent</string>
+    <string>sterling</string>
+    <string>section</string>
+    <string>bullet</string>
+    <string>paragraph</string>
+    <string>germandbls</string>
+    <string>registered</string>
+    <string>copyright</string>
+    <string>trademark</string>
+    <string>acute</string>
+    <string>dieresis</string>
+    <string>notequal</string>
+    <string>AE</string>
+    <string>Oslash</string>
+    <string>infinity</string>
+    <string>plusminus</string>
+    <string>lessequal</string>
+    <string>greaterequal</string>
+    <string>yen</string>
+    <string>micro</string>
+    <string>partialdiff</string>
+    <string>summation</string>
+    <string>product</string>
+    <string>pi</string>
+    <string>integral</string>
+    <string>ordfeminine</string>
+    <string>ordmasculine</string>
+    <string>Ohm</string>
+    <string>ae</string>
+    <string>oslash</string>
+    <string>questiondown</string>
+    <string>exclamdown</string>
+    <string>logicalnot</string>
+    <string>radical</string>
+    <string>florin</string>
+    <string>approxequal</string>
+    <string>Delta</string>
+    <string>guillemetleft</string>
+    <string>guillemetright</string>
+    <string>ellipsis</string>
+    <string>nbspace</string>
+    <string>Agrave</string>
+    <string>Atilde</string>
+    <string>Otilde</string>
+    <string>OE</string>
+    <string>oe</string>
+    <string>endash</string>
+    <string>emdash</string>
+    <string>quotedblleft</string>
+    <string>quotedblright</string>
+    <string>quoteleft</string>
+    <string>quoteright</string>
+    <string>divide</string>
+    <string>lozenge</string>
+    <string>ydieresis</string>
+    <string>Ydieresis</string>
+    <string>fraction</string>
+    <string>currency</string>
+    <string>guilsinglleft</string>
+    <string>guilsinglright</string>
+    <string>fi</string>
+    <string>fl</string>
+    <string>daggerdbl</string>
+    <string>periodcentered</string>
+    <string>quotesinglbase</string>
+    <string>quotedblbase</string>
+    <string>perthousand</string>
+    <string>Acircumflex</string>
+    <string>Ecircumflex</string>
+    <string>Aacute</string>
+    <string>Edieresis</string>
+    <string>Egrave</string>
+    <string>Iacute</string>
+    <string>Icircumflex</string>
+    <string>Idieresis</string>
+    <string>Igrave</string>
+    <string>Oacute</string>
+    <string>Ocircumflex</string>
+    <string>dottedCircle</string>
+    <string>Ograve</string>
+    <string>Uacute</string>
+    <string>Ucircumflex</string>
+    <string>Ugrave</string>
+    <string>idotless</string>
+    <string>circumflex</string>
+    <string>tilde</string>
+    <string>macron</string>
+    <string>breve</string>
+    <string>dotaccent</string>
+    <string>ring</string>
+    <string>cedilla</string>
+    <string>hungarumlaut</string>
+    <string>ogonek</string>
+    <string>caron</string>
     <string>LtnSmA.2StorySItal</string>
     <string>CySmA</string>
     <string>LtnSubSmA</string>
@@ -360,10 +360,10 @@
     <string>LtnSmBarredAlpha</string>
     <string>LtnSmAStrk.2StorySItal</string>
     <string>LtnSmA</string>
-    <string>LtnSmAAcute.SngStory</string>
-    <string>LtnSmAGrave.SngStory</string>
+    <string>aacute</string>
+    <string>agrave</string>
     <string>LtnSmADblGrave.SngStory</string>
-    <string>LtnSmACircum.SngStory</string>
+    <string>acircumflex</string>
     <string>LtnSmACircumDotBlw.SngStory</string>
     <string>LtnSmACircumAcute.SngStory</string>
     <string>LtnSmACircumAcute.SngStory.VN</string>
@@ -385,13 +385,13 @@
     <string>LtnSmABreveHookAbv.SngStory</string>
     <string>LtnSmABreveHookAbv.SngStory.VN</string>
     <string>LtnSmACaron.SngStory</string>
-    <string>LtnSmATilde.SngStory</string>
+    <string>atilde</string>
     <string>LtnSmAMacron.SngStory</string>
-    <string>LtnSmADiaer.SngStory</string>
+    <string>adieresis</string>
     <string>LtnSmADiaerMacron.SngStory</string>
     <string>LtnSmADotAbv.SngStory</string>
     <string>LtnSmADotAbvMacron.SngStory</string>
-    <string>LtnSmARingAbv.SngStory</string>
+    <string>aring</string>
     <string>LtnSmARingAbvAcute.SngStory</string>
     <string>LtnSmARtHalfRing.SngStory</string>
     <string>LtnSmAHookAbv.SngStory</string>
@@ -589,7 +589,7 @@
     <string>LtnCapCBar</string>
     <string>LtnCapCStrk</string>
     <string>LtnCapCHook</string>
-    <string>EuroSgn</string>
+    <string>euro</string>
     <string>ColonSgn</string>
     <string>EuroCurrSgn</string>
     <string>CruzeiroSgn</string>
@@ -640,7 +640,7 @@
     <string>LtnSmDelta</string>
     <string>GrSmDelta</string>
     <string>ModSmDelta</string>
-    <string>LtnSmEth</string>
+    <string>eth</string>
     <string>ModSmEth</string>
     <string>RomNumFiveHundred</string>
     <string>ModCapD</string>
@@ -651,7 +651,7 @@
     <string>LtnCapDLineBlw</string>
     <string>LtnCapDDotBlw</string>
     <string>LtnCapDCedilla</string>
-    <string>LtnCapEth</string>
+    <string>Eth</string>
     <string>LtnCapDStrk</string>
     <string>LtnCapAfricanD</string>
     <string>LtnSmCapEth</string>
@@ -1507,7 +1507,7 @@
     <string>LtnSmPLowStrk</string>
     <string>CySmErTick</string>
     <string>LtnSmPMiddleTilde</string>
-    <string>LtnSmThorn</string>
+    <string>thorn</string>
     <string>LtnSmPHook</string>
     <string>LtnSmPHook.BowlHook</string>
     <string>LtnSmThornHighStrk</string>
@@ -1542,7 +1542,7 @@
     <string>RubleSgn</string>
     <string>PesoSgn</string>
     <string>PesetaSgn</string>
-    <string>LtnCapThorn</string>
+    <string>Thorn</string>
     <string>LtnCapThornHighStrk</string>
     <string>LtnCapThornLowStrk</string>
     <string>LtnCapWynn</string>
@@ -1638,7 +1638,7 @@
     <string>LtnSmSAcute</string>
     <string>LtnSmSAcuteDotAbv</string>
     <string>LtnSmSCircum</string>
-    <string>LtnSmSCaron</string>
+    <string>scaron</string>
     <string>LtnSmSCaronDotAbv</string>
     <string>LtnSmSDotAbv</string>
     <string>LtnSmSDotBlw</string>
@@ -1663,7 +1663,7 @@
     <string>LtnCapSAcute</string>
     <string>LtnCapSAcuteDotAbv</string>
     <string>LtnCapSCircum</string>
-    <string>LtnCapSCaron</string>
+    <string>Scaron</string>
     <string>LtnCapSCaronDotAbv</string>
     <string>LtnCapSDotAbv</string>
     <string>LtnCapSDotBlw</string>
@@ -1928,7 +1928,7 @@
     <string>LtnCapChi</string>
     <string>CySmU</string>
     <string>ModSmY</string>
-    <string>LtnSmYAcute</string>
+    <string>yacute</string>
     <string>CySmUDblAcute</string>
     <string>LtnSmYGrave</string>
     <string>LtnSmYCircum</string>
@@ -1961,7 +1961,7 @@
     <string>CyCapStraightU</string>
     <string>LtnSmCapY</string>
     <string>LtnSupSmCapY</string>
-    <string>LtnCapYAcute</string>
+    <string>Yacute</string>
     <string>LtnCapYGrave</string>
     <string>LtnCapYCircum</string>
     <string>LtnCapYTilde</string>
@@ -1993,7 +1993,7 @@
     <string>LtnSmZAcute.SItal</string>
     <string>LtnSmZCircum</string>
     <string>LtnSmZCircum.SItal</string>
-    <string>LtnSmZCaron</string>
+    <string>zcaron</string>
     <string>LtnSmZCaron.SItal</string>
     <string>LtnSmZDotAbv</string>
     <string>LtnSmZDotAbv.SItal</string>
@@ -2015,7 +2015,7 @@
     <string>LtnSmCapZ</string>
     <string>LtnCapZAcute</string>
     <string>LtnCapZCircum</string>
-    <string>LtnCapZCaron</string>
+    <string>Zcaron</string>
     <string>LtnCapZDotAbv</string>
     <string>LtnCapZLineBlw</string>
     <string>LtnCapZDotBlw</string>
@@ -2073,15 +2073,15 @@
     <string>SubZero</string>
     <string>SupZero</string>
     <string>SubOne</string>
-    <string>SupOne</string>
+    <string>onesuperior</string>
     <string>SubTwo</string>
-    <string>SupTwo</string>
+    <string>twosuperior</string>
     <string>LtnTwoStrk</string>
     <string>VulgFracZeroThirds</string>
     <string>SubThree</string>
-    <string>SupThree</string>
+    <string>threesuperior</string>
     <string>SubFour</string>
-    <string>SupFour</string>
+    <string>foursuperior</string>
     <string>LtnCapCuatrillo</string>
     <string>LtnCapCuatrilloComma</string>
     <string>LtnSmCuatrillo</string>
@@ -2105,9 +2105,9 @@
     <string>ModOpenNine</string>
     <string>FracNumtrOne</string>
     <string>VulgFracOneTenth</string>
-    <string>VulgFracOneHalf</string>
+    <string>onehalf</string>
     <string>VulgFracOneThird</string>
-    <string>VulgFracOneQuarter</string>
+    <string>onequarter</string>
     <string>VulgFracOneFifth</string>
     <string>VulgFracOneSixth</string>
     <string>VulgFracOneSeventh</string>
@@ -2115,7 +2115,7 @@
     <string>VulgFracOneNinth</string>
     <string>VulgFracTwoThirds</string>
     <string>VulgFracTwoFifths</string>
-    <string>VulgFracThreeQuarters</string>
+    <string>threequarters</string>
     <string>VulgFracThreeFifths</string>
     <string>VulgFracThreeEighths</string>
     <string>VulgFracFourFifths</string>
@@ -2148,8 +2148,8 @@
     <string>ModTriangularColon</string>
     <string>ModHalfTriangularColon</string>
     <string>GrAnoTeleia</string>
-    <string>HyphenationPt</string>
-    <string>BulletOperator</string>
+    <string>hyphenationpoint</string>
+    <string>bulletoperator</string>
     <string>LtnSinolDot</string>
     <string>SubLftParen</string>
     <string>SupLftParen</string>
@@ -2205,21 +2205,21 @@
     <string>SupersetOf</string>
     <string>SupersetOfEqTo</string>
     <string>NotSupersetOf</string>
-    <string>BrokenBar</string>
+    <string>brokenbar</string>
     <string>ModLowVertLine</string>
     <string>ModVertLine</string>
     <string>CombShortSolidusOverlay</string>
     <string>CombLngSolidusOverlay</string>
     <string>CombLngReverseSolidusOverlay</string>
     <string>CaretInsPt</string>
-    <string>Hyphen</string>
-    <string>NonBreakingHyphen</string>
-    <string>Hyphen_Soft</string>
-    <string>FigureDash</string>
+    <string>hyphentwo</string>
+    <string>nonbreakinghyphen</string>
+    <string>softhyphen</string>
+    <string>figuredash</string>
     <string>TwoEmDash</string>
     <string>ThreeEmDash</string>
-    <string>HorizBar</string>
-    <string>MinusSgn</string>
+    <string>horizontalbar</string>
+    <string>minus</string>
     <string>ModMinusSgn</string>
     <string>SubMinus</string>
     <string>SupMinus</string>
@@ -2244,7 +2244,7 @@
     <string>ModLowAcuteAccent</string>
     <string>CombAcuteBlw</string>
     <string>ModAcuteAccent</string>
-    <string>CombAcute</string>
+    <string>acutecomb</string>
     <string>Prime</string>
     <string>ModPrime</string>
     <string>DblPrime</string>
@@ -2257,7 +2257,7 @@
     <string>CombGraveBlw</string>
     <string>ModMiddleGraveAccent</string>
     <string>ModGraveAccent</string>
-    <string>CombGrave</string>
+    <string>gravecomb</string>
     <string>RevPrime</string>
     <string>RevDblPrime</string>
     <string>ModMiddleDblGraveAccent</string>
@@ -2266,7 +2266,7 @@
     <string>Caret</string>
     <string>CombCircumBlw</string>
     <string>ModLowCircum</string>
-    <string>CombCircum</string>
+    <string>circumflexcomb</string>
     <string>CombCircumAcute.VN</string>
     <string>CombCircumGrave.VN</string>
     <string>CombCircumTilde.VN</string>
@@ -2302,7 +2302,7 @@
     <string>CombDblCircum</string>
     <string>ModVoicing</string>
     <string>CombCaronBlw</string>
-    <string>CombCaron</string>
+    <string>caroncomb</string>
     <string>CombAcute_Macron</string>
     <string>CombMacron_Acute</string>
     <string>CombMacron_Breve</string>
@@ -2314,7 +2314,7 @@
     <string>ModLowTilde</string>
     <string>CombTildeBlw</string>
     <string>CombTildeOverlay</string>
-    <string>CombTilde</string>
+    <string>tildecomb</string>
     <string>CombNotTildeAbv</string>
     <string>CombTildeOverlay.Lrg</string>
     <string>TildeOperator</string>
@@ -2332,7 +2332,7 @@
     <string>CombXBlw</string>
     <string>ModCrossAccent</string>
     <string>CombXAbv</string>
-    <string>MultSgn</string>
+    <string>multiply</string>
     <string>CombXXBlw</string>
     <string>CombInvDblArchBlw</string>
     <string>CombSeagullBlw</string>
@@ -2356,9 +2356,9 @@
     <string>SupEqSgn</string>
     <string>QuestionedEqTo</string>
     <string>IdenticalTo</string>
-    <string>MinusPlusSgn</string>
+    <string>divisionslash</string>
     <string>CombDiaerBlw</string>
-    <string>CombDiaer</string>
+    <string>dieresiscomb</string>
     <string>CombDiaer.UU</string>
     <string>CombDiaer.LL</string>
     <string>CombDiaer.UL</string>
@@ -2375,7 +2375,7 @@
     <string>CombHorn</string>
     <string>ModLowRing</string>
     <string>CombRingBlw</string>
-    <string>CombRingAbv</string>
+    <string>ringcomb</string>
     <string>CombDblRingBlw</string>
     <string>CombInfinity</string>
     <string>CombLftHalfRingBlw</string>
@@ -2423,7 +2423,7 @@
     <string>ModOpnShelf</string>
     <string>ModShelf</string>
     <string>LtnBidentalPercussive</string>
-    <string>CombCedilla</string>
+    <string>cedillacomb</string>
     <string>CombOgonek</string>
     <string>CombOgonek.Lrg</string>
     <string>CombOgonek.RetroHook</string>
@@ -2436,7 +2436,7 @@
     <string>CombBridgeBlw</string>
     <string>CombBridgeAbv</string>
     <string>CombInvBridgeBlw</string>
-    <string>OpnBx</string>
+    <string>blank</string>
     <string>CombSqrBlw</string>
     <string>ModRhoticHook</string>
     <string>TnLtrSpcFlatLeft</string>
@@ -2642,7 +2642,7 @@
     <string>ModTnYangPing</string>
     <string>ModTnYangQu</string>
     <string>ModTnYangRu</string>
-    <string>CombGraphemeJoiner</string>
+    <string>graphemejoinercomb</string>
     <string>FunctionApplication</string>
     <string>InvisibleSeparator</string>
     <string>InvisibleTimes</string>
@@ -2669,11 +2669,11 @@
     <string>VS14</string>
     <string>VS15</string>
     <string>VS16</string>
-    <string>WordJoiner</string>
-    <string>ZeroWidthJoiner</string>
-    <string>ZeroWidthNoBreakSpace</string>
-    <string>ZeroWidthNonJoiner</string>
-    <string>ZeroWidthSpace</string>
+    <string>wordjoiner</string>
+    <string>zerowidthjoiner</string>
+    <string>zeroWidthNoBreakSpace</string>
+    <string>zerowidthnonjoiner</string>
+    <string>zerowidthspace</string>
     <string>ActivateArbFormShaping</string>
     <string>ActivateSymmetricSwapping</string>
     <string>InhibitArbFormShaping</string>
@@ -2681,24 +2681,24 @@
     <string>IntlnrAnnotationAnchor</string>
     <string>IntlnrAnnotationSeparator</string>
     <string>IntlnrAnnotationTerminator</string>
-    <string>LineSep</string>
+    <string>lineseparator</string>
     <string>NationalDigitShapes</string>
     <string>NominalDigitShapes</string>
-    <string>ObjectReplChar</string>
-    <string>ParagraphSeparator</string>
-    <string>EmQuad</string>
-    <string>EmSpace</string>
-    <string>NarrowNoBreakSpace</string>
-    <string>PuncSpace</string>
-    <string>SixPerEmSpace</string>
-    <string>ThreePerEmSpace</string>
-    <string>EnQuad</string>
-    <string>EnSpace</string>
-    <string>FourPerEmSpace</string>
-    <string>FigureSpace</string>
-    <string>ThinSpace</string>
-    <string>HairSpace</string>
-    <string>ReplChar</string>
+    <string>objectReplacementCharacter</string>
+    <string>paragraphseparator</string>
+    <string>emquad</string>
+    <string>emspace</string>
+    <string>narrownbspace</string>
+    <string>punctuationspace</string>
+    <string>sixperemspace</string>
+    <string>threeperemspace</string>
+    <string>enquad</string>
+    <string>enspace</string>
+    <string>fourperemspace</string>
+    <string>figurespace</string>
+    <string>thinspace</string>
+    <string>hairspace</string>
+    <string>replacementCharacter</string>
     <string>FontBslnSideBrngMrkrLft</string>
     <string>FontBslnSideBrngMrkrRt</string>
     <string>FontVertMetricsMrkrLft</string>
@@ -3781,64 +3781,54 @@
   </array>
   <key>public.postscriptNames</key>
   <dict>
+    <key>A</key>
+    <string>A</string>
+    <key>AE</key>
+    <string>AE</string>
+    <key>Aacute</key>
+    <string>Aacute</string>
+    <key>Acircumflex</key>
+    <string>Acircumflex</string>
     <key>ActivateArbFormShaping</key>
     <string>uni206D</string>
     <key>ActivateSymmetricSwapping</key>
     <string>uni206B</string>
-    <key>AcuteAccent</key>
-    <string>acute</string>
-    <key>AlmostEqTo</key>
-    <string>approxequal</string>
-    <key>Ampersand</key>
-    <string>ampersand</string>
-    <key>Apos</key>
-    <string>quotesingle</string>
-    <key>Asterisk</key>
-    <string>asterisk</string>
-    <key>AtSgn</key>
-    <string>at</string>
+    <key>Adieresis</key>
+    <string>Adieresis</string>
+    <key>Agrave</key>
+    <string>Agrave</string>
+    <key>Aring</key>
+    <string>Aring</string>
+    <key>Atilde</key>
+    <string>Atilde</string>
     <key>AustralSign</key>
     <string>uni20B3</string>
+    <key>B</key>
+    <string>B</string>
     <key>Because</key>
     <string>uni2235</string>
     <key>BitcoinSgn</key>
     <string>uni20BF</string>
     <key>BoxDotted</key>
     <string>compBoxDotted</string>
-    <key>Breve</key>
-    <string>breve</string>
-    <key>BrokenBar</key>
-    <string>brokenbar</string>
-    <key>Bullet</key>
-    <string>bullet</string>
-    <key>BulletOperator</key>
-    <string>uni2219</string>
+    <key>C</key>
+    <string>C</string>
     <key>Caret</key>
     <string>uni2038</string>
     <key>CaretInsPt</key>
     <string>uni2041</string>
-    <key>Caron</key>
-    <string>caron</string>
+    <key>Ccedilla</key>
+    <string>Ccedilla</string>
     <key>CediSign</key>
     <string>uni20B5</string>
-    <key>Cedilla</key>
-    <string>cedilla</string>
-    <key>CentSgn</key>
-    <string>cent</string>
     <key>CharTieAbv</key>
     <string>uni2040</string>
     <key>CharTieBlw</key>
     <string>uni203F</string>
     <key>CheckMrk</key>
     <string>uni2713</string>
-    <key>CircumAccent</key>
-    <string>asciicircum</string>
-    <key>Colon</key>
-    <string>colon</string>
     <key>ColonSgn</key>
     <string>colonmonetary</string>
-    <key>CombAcute</key>
-    <string>acutecomb</string>
     <key>CombAcuteBlw</key>
     <string>uni0317</string>
     <key>CombAcute_Grave_Acute</key>
@@ -3881,14 +3871,8 @@
     <string>uni032A</string>
     <key>CombCandrabindu</key>
     <string>uni0310</string>
-    <key>CombCaron</key>
-    <string>uni030C</string>
     <key>CombCaronBlw</key>
     <string>uni032C</string>
-    <key>CombCedilla</key>
-    <string>uni0327</string>
-    <key>CombCircum</key>
-    <string>uni0302</string>
     <key>CombCircumAcute.VN</key>
     <string>uni0302_acutecomb.VN</string>
     <key>CombCircumBlw</key>
@@ -3955,8 +3939,6 @@
     <string>uni030E</string>
     <key>CombDblVertLineBlw</key>
     <string>uni0348</string>
-    <key>CombDiaer</key>
-    <string>uni0308</string>
     <key>CombDiaer.LL</key>
     <string>uni0308.LL</string>
     <key>CombDiaer.Sup</key>
@@ -3983,10 +3965,6 @@
     <string>uni0347</string>
     <key>CombFermata</key>
     <string>uni0352</string>
-    <key>CombGraphemeJoiner</key>
-    <string>uni034F</string>
-    <key>CombGrave</key>
-    <string>gravecomb</string>
     <key>CombGraveBlw</key>
     <string>uni0316</string>
     <key>CombGrave_Acute_Grave</key>
@@ -4123,8 +4101,6 @@
     <string>uni031F</string>
     <key>CombRevCommaAbv</key>
     <string>uni0314</string>
-    <key>CombRingAbv</key>
-    <string>uni030A</string>
     <key>CombRingBlw</key>
     <string>uni0325</string>
     <key>CombRtArrwBlw</key>
@@ -4161,8 +4137,6 @@
     <string>uni033B</string>
     <key>CombStrongCentralizationStrkBlw</key>
     <string>uni1ABA</string>
-    <key>CombTilde</key>
-    <string>tildecomb</string>
     <key>CombTildeBlw</key>
     <string>uni0330</string>
     <key>CombTildeOverlay</key>
@@ -4195,20 +4169,14 @@
     <string>uni1AB5</string>
     <key>CombZigZagAbv</key>
     <string>uni035B</string>
-    <key>Comma</key>
-    <string>comma</string>
     <key>Comma.Sophia</key>
     <string>compComma</string>
     <key>CopCapEie</key>
     <string>uni2C88</string>
-    <key>CopyrightSgn</key>
-    <string>copyright</string>
     <key>CruzeiroSgn</key>
     <string>uni20A2</string>
     <key>CurlyBracExt</key>
     <string>uni23AA</string>
-    <key>CurrSgn</key>
-    <string>currency</string>
     <key>CyCapA</key>
     <string>uni0410</string>
     <key>CyCapABreve</key>
@@ -5079,88 +5047,54 @@
     <string>uni04DD</string>
     <key>CySmZheDiaer.sc</key>
     <string>uni04DD.sc</string>
-    <key>Dagger</key>
-    <string>dagger</string>
-    <key>DblAcuteAccent</key>
-    <string>hungarumlaut</string>
-    <key>DblDagger</key>
-    <string>daggerdbl</string>
+    <key>D</key>
+    <string>D</string>
     <key>DblExclamationMrk</key>
     <string>exclamdbl</string>
     <key>DblHighRev9QuotMrk</key>
     <string>uni201F</string>
-    <key>DblLow9QuotMrk</key>
-    <string>quotedblbase</string>
     <key>DblLowLine</key>
     <string>underscoredbl</string>
     <key>DblPrime</key>
     <string>second</string>
     <key>DblVertLine</key>
     <string>uni2016</string>
-    <key>DegreeSgn</key>
-    <string>degree</string>
-    <key>Diaer</key>
-    <string>dieresis</string>
-    <key>DigitEight</key>
-    <string>eight</string>
+    <key>Delta</key>
+    <string>Delta</string>
     <key>DigitEight.Sophia</key>
     <string>compDigitEight</string>
-    <key>DigitFive</key>
-    <string>five</string>
     <key>DigitFive.Sophia</key>
     <string>compDigitFive</string>
-    <key>DigitFour</key>
-    <string>four</string>
     <key>DigitFour.Open</key>
     <string>four.Open</string>
     <key>DigitFour.Sophia</key>
     <string>compDigitFour</string>
-    <key>DigitNine</key>
-    <string>nine</string>
     <key>DigitNine.Diag</key>
     <string>nine.Diag</string>
     <key>DigitNine.Sophia</key>
     <string>compDigitNine</string>
-    <key>DigitOne</key>
-    <string>one</string>
     <key>DigitOne.NoBase</key>
     <string>one.NoBase</string>
     <key>DigitOne.Sophia</key>
     <string>compDigitOne</string>
-    <key>DigitSeven</key>
-    <string>seven</string>
     <key>DigitSeven.Bar</key>
     <string>seven.Bar</string>
     <key>DigitSeven.Sophia</key>
     <string>compDigitSeven</string>
-    <key>DigitSix</key>
-    <string>six</string>
     <key>DigitSix.Diag</key>
     <string>six.Diag</string>
     <key>DigitSix.Sophia</key>
     <string>compDigitSix</string>
-    <key>DigitThree</key>
-    <string>three</string>
     <key>DigitThree.Sophia</key>
     <string>compDigitThree</string>
-    <key>DigitTwo</key>
-    <string>two</string>
     <key>DigitTwo.Sophia</key>
     <string>compDigitTwo</string>
-    <key>DigitZero</key>
-    <string>zero</string>
     <key>DigitZero.Slash</key>
     <string>zero.Slash</string>
     <key>DigitZero.Sophia</key>
     <string>compDigitZero</string>
-    <key>DivSgn</key>
-    <string>divide</string>
-    <key>DollarSgn</key>
-    <string>dollar</string>
     <key>DongSgn</key>
     <string>dong</string>
-    <key>DotAbv</key>
-    <string>dotaccent</string>
     <key>DotLftStemTnLtr1</key>
     <string>uniA711</string>
     <key>DotLftStemTnLtr1Dep</key>
@@ -5201,46 +5135,34 @@
     <string>uniA708</string>
     <key>DotTnLtr5Dep</key>
     <string>uniF1D5</string>
-    <key>DottedCirc</key>
-    <string>uni25CC</string>
     <key>DrachmaSgn</key>
     <string>uni20AF</string>
     <key>DwnArrw</key>
     <string>arrowdown</string>
     <key>DwnDblArrw</key>
     <string>arrowdbldown</string>
-    <key>EmDash</key>
-    <string>emdash</string>
-    <key>EmQuad</key>
-    <string>uni2001</string>
-    <key>EmSpace</key>
-    <string>uni2003</string>
+    <key>E</key>
+    <string>E</string>
+    <key>Eacute</key>
+    <string>Eacute</string>
+    <key>Ecircumflex</key>
+    <string>Ecircumflex</string>
+    <key>Edieresis</key>
+    <string>Edieresis</string>
+    <key>Egrave</key>
+    <string>Egrave</string>
     <key>EmptySet</key>
     <string>emptyset</string>
     <key>EmptySet.SlashZero</key>
     <string>emptyset.SlashZero</string>
-    <key>EnDash</key>
-    <string>endash</string>
-    <key>EnQuad</key>
-    <string>uni2000</string>
-    <key>EnSpace</key>
-    <string>uni2002</string>
-    <key>EqSgn</key>
-    <string>equal</string>
+    <key>Eth</key>
+    <string>Eth</string>
     <key>EuroCurrSgn</key>
     <string>uni20A0</string>
-    <key>EuroSgn</key>
-    <string>Euro</string>
-    <key>ExclamationMrk</key>
-    <string>exclam</string>
-    <key>FemOrdIndicator</key>
-    <string>ordfeminine</string>
+    <key>F</key>
+    <string>F</string>
     <key>FemaleSgn</key>
     <string>uni2640</string>
-    <key>FigureDash</key>
-    <string>figuredash</string>
-    <key>FigureSpace</key>
-    <string>uni2007</string>
     <key>FontBslnSideBrngMrkrLft</key>
     <string>uniF130</string>
     <key>FontBslnSideBrngMrkrRt</key>
@@ -5249,22 +5171,14 @@
     <string>uniF132</string>
     <key>FontVertMetricsMrkrRt</key>
     <string>uniF133</string>
-    <key>FourPerEmSpace</key>
-    <string>uni2005</string>
     <key>FracNumtrOne</key>
     <string>uni215F</string>
-    <key>FracSlash</key>
-    <string>fraction</string>
     <key>FrenchFrancSgn</key>
     <string>franc</string>
-    <key>FullStop</key>
-    <string>period</string>
     <key>FunctionApplication</key>
     <string>uni2061</string>
-    <key>GTOrEqTo</key>
-    <string>greaterequal</string>
-    <key>GTSgn</key>
-    <string>greater</string>
+    <key>G</key>
+    <string>G</string>
     <key>GermanPennySgn</key>
     <string>uni20B0</string>
     <key>GrAnoTeleia</key>
@@ -5315,8 +5229,6 @@
     <string>omega</string>
     <key>GrSmPhi</key>
     <string>phi</string>
-    <key>GrSmPi</key>
-    <string>pi</string>
     <key>GrSmRho</key>
     <string>rho</string>
     <key>GrSmSigma</key>
@@ -5337,62 +5249,50 @@
     <string>theta1</string>
     <key>GrThetaSym.sc</key>
     <string>uni03F4.sc</string>
-    <key>GraveAccent</key>
-    <string>grave</string>
     <key>GuaraniSign</key>
     <string>uni20B2</string>
-    <key>HairSpace</key>
-    <string>uni200A</string>
-    <key>HorizBar</key>
-    <string>uni2015</string>
-    <key>HorizEllipsis</key>
-    <string>ellipsis</string>
+    <key>H</key>
+    <string>H</string>
     <key>HryvniaSign</key>
     <string>uni20B4</string>
-    <key>Hyphen</key>
-    <string>uni2010</string>
-    <key>HyphenMinus</key>
-    <string>hyphen</string>
-    <key>Hyphen_Soft</key>
-    <string>uni00AD</string>
-    <key>HyphenationPt</key>
-    <string>uni2027</string>
+    <key>I</key>
+    <string>I</string>
+    <key>Iacute</key>
+    <string>Iacute</string>
+    <key>Icircumflex</key>
+    <string>Icircumflex</string>
     <key>IdenticalTo</key>
     <string>equivalence</string>
-    <key>Increment</key>
-    <string>Delta</string>
+    <key>Idieresis</key>
+    <string>Idieresis</string>
+    <key>Igrave</key>
+    <string>Igrave</string>
     <key>IndianRupeeSgn</key>
     <string>uni20B9</string>
-    <key>Infinity</key>
-    <string>infinity</string>
     <key>InhibitArbFormShaping</key>
     <string>uni206C</string>
     <key>InhibitSymmetricSwapping</key>
     <string>uni206A</string>
-    <key>Integral</key>
-    <string>integral</string>
     <key>IntlnrAnnotationAnchor</key>
     <string>uniFFF9</string>
     <key>IntlnrAnnotationSeparator</key>
     <string>uniFFFA</string>
     <key>IntlnrAnnotationTerminator</key>
     <string>uniFFFB</string>
-    <key>InvExclamationMrk</key>
-    <string>exclamdown</string>
-    <key>InvQstnMrk</key>
-    <string>questiondown</string>
     <key>InvisibleSeparator</key>
     <string>uni2063</string>
     <key>InvisibleTimes</key>
     <string>uni2062</string>
+    <key>J</key>
+    <string>J</string>
+    <key>K</key>
+    <string>K</string>
     <key>KayahLiSignCwi</key>
     <string>uniA92E</string>
     <key>KipSgn</key>
     <string>uni20AD</string>
-    <key>LTOrEqTo</key>
-    <string>lessequal</string>
-    <key>LTSgn</key>
-    <string>less</string>
+    <key>L</key>
+    <string>L</string>
     <key>LariSgn</key>
     <string>uni20BE</string>
     <key>LftArrw</key>
@@ -5405,34 +5305,22 @@
     <string>uni239D</string>
     <key>LftBtmSqrBrac</key>
     <string>uni23A3</string>
-    <key>LftCurlyBrac</key>
-    <string>braceleft</string>
     <key>LftDblArrw</key>
     <string>arrowdblleft</string>
-    <key>LftDblQuotMrk</key>
-    <string>quotedblleft</string>
     <key>LftMidCurlyBrac</key>
     <string>uni23A8</string>
     <key>LftMidParen</key>
     <string>uni239C</string>
     <key>LftMidSqrBrac</key>
     <string>uni23A2</string>
-    <key>LftParen</key>
-    <string>parenleft</string>
     <key>LftParen.Sophia</key>
     <string>compLftParen</string>
     <key>LftPtngAngBrac</key>
     <string>angleleft</string>
-    <key>LftPtngDblAngQuotMrk</key>
-    <string>guillemotleft</string>
     <key>LftRtArrw</key>
     <string>arrowboth</string>
     <key>LftRtDblArrw</key>
     <string>arrowdblboth</string>
-    <key>LftSglQuotMrk</key>
-    <string>quoteleft</string>
-    <key>LftSqrBrac</key>
-    <string>bracketleft</string>
     <key>LftStemTnLtr1</key>
     <string>uniA716</string>
     <key>LftStemTnLtr1Dep</key>
@@ -5475,16 +5363,10 @@
     <string>uni239B</string>
     <key>LftTopSqrBrac</key>
     <string>uni23A1</string>
-    <key>LineSep</key>
-    <string>uni2028</string>
     <key>LiraSgn</key>
     <string>lira</string>
     <key>LivreTourSgn</key>
     <string>uni20B6</string>
-    <key>LowLine</key>
-    <string>underscore</string>
-    <key>Lozenge</key>
-    <string>lozenge</string>
     <key>LtnAin</key>
     <string>uni1D25</string>
     <key>LtnAlveolarClick</key>
@@ -5499,12 +5381,8 @@
     <string>uni0298.sc</string>
     <key>LtnBilabialPercussive</key>
     <string>uni02AC</string>
-    <key>LtnCapA</key>
-    <string>A</string>
     <key>LtnCapAADigraph</key>
     <string>uniA732</string>
-    <key>LtnCapAAcute</key>
-    <string>Aacute</string>
     <key>LtnCapABreve</key>
     <string>Abreve</string>
     <key>LtnCapABreveAcute</key>
@@ -5527,8 +5405,6 @@
     <string>uni1EB4.VN</string>
     <key>LtnCapACaron</key>
     <string>uni01CD</string>
-    <key>LtnCapACircum</key>
-    <string>Acircumflex</string>
     <key>LtnCapACircumAcute</key>
     <string>uni1EA4</string>
     <key>LtnCapACircumAcute.VN</key>
@@ -5549,8 +5425,6 @@
     <string>uni1EAA.VN</string>
     <key>LtnCapADblGrave</key>
     <string>uni0200</string>
-    <key>LtnCapADiaer</key>
-    <string>Adieresis</string>
     <key>LtnCapADiaerMacron</key>
     <string>uni01DE</string>
     <key>LtnCapADotAbv</key>
@@ -5559,8 +5433,6 @@
     <string>uni01E0</string>
     <key>LtnCapADotBlw</key>
     <string>uni1EA0</string>
-    <key>LtnCapAGrave</key>
-    <string>Agrave</string>
     <key>LtnCapAHookAbv</key>
     <string>uni1EA2</string>
     <key>LtnCapAInvBreve</key>
@@ -5573,16 +5445,12 @@
     <string>Aogonek</string>
     <key>LtnCapAOgonek.RetroHook</key>
     <string>Aogonek.RetroHook</string>
-    <key>LtnCapARingAbv</key>
-    <string>Aring</string>
     <key>LtnCapARingAbvAcute</key>
     <string>Aringacute</string>
     <key>LtnCapARingBlw</key>
     <string>uni1E00</string>
     <key>LtnCapAStrk</key>
     <string>uni023A</string>
-    <key>LtnCapATilde</key>
-    <string>Atilde</string>
     <key>LtnCapAUDigraph</key>
     <string>uniA736</string>
     <key>LtnCapAVDigraph</key>
@@ -5591,8 +5459,6 @@
     <string>uniA73A</string>
     <key>LtnCapAYDigraph</key>
     <string>uniA73C</string>
-    <key>LtnCapAe</key>
-    <string>AE</string>
     <key>LtnCapAeAcute</key>
     <string>AEacute</string>
     <key>LtnCapAeMacron</key>
@@ -5603,8 +5469,6 @@
     <string>uniA7FF</string>
     <key>LtnCapAtDep</key>
     <string>uniF248</string>
-    <key>LtnCapB</key>
-    <string>B</string>
     <key>LtnCapB.Sophia</key>
     <string>compLtnCapB</string>
     <key>LtnCapBBarredLowStem</key>
@@ -5627,8 +5491,6 @@
     <string>uni0182</string>
     <key>LtnCapBeta</key>
     <string>uniA7B4</string>
-    <key>LtnCapC</key>
-    <string>C</string>
     <key>LtnCapC.Sophia</key>
     <string>compLtnCapC</string>
     <key>LtnCapCAcute</key>
@@ -5637,8 +5499,6 @@
     <string>uniA792</string>
     <key>LtnCapCCaron</key>
     <string>Ccaron</string>
-    <key>LtnCapCCedilla</key>
-    <string>Ccedilla</string>
     <key>LtnCapCCedillaAcute</key>
     <string>uni1E08</string>
     <key>LtnCapCCircum</key>
@@ -5655,8 +5515,6 @@
     <string>uniA72C</string>
     <key>LtnCapCuatrilloComma</key>
     <string>uniA72E</string>
-    <key>LtnCapD</key>
-    <string>D</string>
     <key>LtnCapD.Sophia</key>
     <string>compLtnCapD</string>
     <key>LtnCapDCaron</key>
@@ -5697,12 +5555,8 @@
     <string>uni01F1</string>
     <key>LtnCapDzCaron</key>
     <string>uni01C4</string>
-    <key>LtnCapE</key>
-    <string>E</string>
     <key>LtnCapE.Sophia</key>
     <string>compLtnCapE</string>
-    <key>LtnCapEAcute</key>
-    <string>Eacute</string>
     <key>LtnCapEBreve</key>
     <string>Ebreve</string>
     <key>LtnCapECaron</key>
@@ -5711,8 +5565,6 @@
     <string>uni0228</string>
     <key>LtnCapECedillaBreve</key>
     <string>uni1E1C</string>
-    <key>LtnCapECircum</key>
-    <string>Ecircumflex</string>
     <key>LtnCapECircumAcute</key>
     <string>uni1EBE</string>
     <key>LtnCapECircumAcute.VN</key>
@@ -5735,14 +5587,10 @@
     <string>uni1EC4.VN</string>
     <key>LtnCapEDblGrave</key>
     <string>uni0204</string>
-    <key>LtnCapEDiaer</key>
-    <string>Edieresis</string>
     <key>LtnCapEDotAbv</key>
     <string>Edotaccent</string>
     <key>LtnCapEDotBlw</key>
     <string>uni1EB8</string>
-    <key>LtnCapEGrave</key>
-    <string>Egrave</string>
     <key>LtnCapEHookAbv</key>
     <string>uni1EBA</string>
     <key>LtnCapEInvBreve</key>
@@ -5781,8 +5629,6 @@
     <string>uni01A9</string>
     <key>LtnCapEt</key>
     <string>uniA76A</string>
-    <key>LtnCapEth</key>
-    <string>Eth</string>
     <key>LtnCapEzh</key>
     <string>uni01B7</string>
     <key>LtnCapEzh.RevSigmaStyle</key>
@@ -5793,8 +5639,6 @@
     <string>uniF217</string>
     <key>LtnCapEzhRev</key>
     <string>uni01B8</string>
-    <key>LtnCapF</key>
-    <string>F</string>
     <key>LtnCapF.Sophia</key>
     <string>compLtnCapF</string>
     <key>LtnCapFDotAbv</key>
@@ -5803,8 +5647,6 @@
     <string>uni0191</string>
     <key>LtnCapFHookStrk</key>
     <string>uniA798</string>
-    <key>LtnCapG</key>
-    <string>G</string>
     <key>LtnCapG.Sophia</key>
     <string>compLtnCapG</string>
     <key>LtnCapGAcute</key>
@@ -5831,8 +5673,6 @@
     <string>uni0194</string>
     <key>LtnCapGlottalStop</key>
     <string>uni0241</string>
-    <key>LtnCapH</key>
-    <string>H</string>
     <key>LtnCapH.Sophia</key>
     <string>compLtnCapH</string>
     <key>LtnCapHBreveBlw</key>
@@ -5865,28 +5705,18 @@
     <string>uniA726</string>
     <key>LtnCapHwair</key>
     <string>uni01F6</string>
-    <key>LtnCapI</key>
-    <string>I</string>
-    <key>LtnCapIAcute</key>
-    <string>Iacute</string>
     <key>LtnCapIBreve</key>
     <string>Ibreve</string>
     <key>LtnCapICaron</key>
     <string>uni01CF</string>
-    <key>LtnCapICircum</key>
-    <string>Icircumflex</string>
     <key>LtnCapIDblGrave</key>
     <string>uni0208</string>
-    <key>LtnCapIDiaer</key>
-    <string>Idieresis</string>
     <key>LtnCapIDiaerAcute</key>
     <string>uni1E2E</string>
     <key>LtnCapIDotAbv</key>
     <string>Idotaccent</string>
     <key>LtnCapIDotBlw</key>
     <string>uni1ECA</string>
-    <key>LtnCapIGrave</key>
-    <string>Igrave</string>
     <key>LtnCapIHookAbv</key>
     <string>uni1EC8</string>
     <key>LtnCapIInvBreve</key>
@@ -5923,8 +5753,6 @@
     <string>uni0196</string>
     <key>LtnCapIs</key>
     <string>uniA76C</string>
-    <key>LtnCapJ</key>
-    <string>J</string>
     <key>LtnCapJ.BarTop</key>
     <string>J.BarTop</string>
     <key>LtnCapJ.Sophia</key>
@@ -5945,8 +5773,6 @@
     <string>uni0248.BarTop</string>
     <key>LtnCapJStrkDep</key>
     <string>uniF261</string>
-    <key>LtnCapK</key>
-    <string>K</string>
     <key>LtnCapKAcute</key>
     <string>uni1E30</string>
     <key>LtnCapKCaron</key>
@@ -5971,8 +5797,6 @@
     <string>uniA740</string>
     <key>LtnCapKStrkRtDiagStrk</key>
     <string>uniA744</string>
-    <key>LtnCapL</key>
-    <string>L</string>
     <key>LtnCapL.Sophia</key>
     <string>compLtnCapL</string>
     <key>LtnCapLAcute</key>
@@ -6019,12 +5843,8 @@
     <string>uniA780</string>
     <key>LtnCapLigIj</key>
     <string>IJ</string>
-    <key>LtnCapLigOe</key>
-    <string>OE</string>
     <key>LtnCapLj</key>
     <string>uni01C7</string>
-    <key>LtnCapM</key>
-    <string>M</string>
     <key>LtnCapM.Sophia</key>
     <string>compLtnCapM</string>
     <key>LtnCapMAcute</key>
@@ -6037,8 +5857,6 @@
     <string>uni2C6E</string>
     <key>LtnCapMHookDep</key>
     <string>uniF25B</string>
-    <key>LtnCapN</key>
-    <string>N</string>
     <key>LtnCapN.Sophia</key>
     <string>compLtnCapN</string>
     <key>LtnCapNAcute</key>
@@ -6071,22 +5889,14 @@
     <string>uni01CB</string>
     <key>LtnCapNSmJ.sc</key>
     <string>uni01CB.sc</string>
-    <key>LtnCapNTilde</key>
-    <string>Ntilde</string>
     <key>LtnCapNj</key>
     <string>uni01CA</string>
-    <key>LtnCapO</key>
-    <string>O</string>
     <key>LtnCapO.Sophia</key>
     <string>compLtnCapO</string>
-    <key>LtnCapOAcute</key>
-    <string>Oacute</string>
     <key>LtnCapOBreve</key>
     <string>Obreve</string>
     <key>LtnCapOCaron</key>
     <string>uni01D1</string>
-    <key>LtnCapOCircum</key>
-    <string>Ocircumflex</string>
     <key>LtnCapOCircumAcute</key>
     <string>uni1ED0</string>
     <key>LtnCapOCircumAcute.VN</key>
@@ -6111,8 +5921,6 @@
     <string>Ohungarumlaut</string>
     <key>LtnCapODblGrave</key>
     <string>uni020C</string>
-    <key>LtnCapODiaer</key>
-    <string>Odieresis</string>
     <key>LtnCapODiaerMacron</key>
     <string>uni022A</string>
     <key>LtnCapODotAbv</key>
@@ -6121,8 +5929,6 @@
     <string>uni0230</string>
     <key>LtnCapODotBlw</key>
     <string>uni1ECC</string>
-    <key>LtnCapOGrave</key>
-    <string>Ograve</string>
     <key>LtnCapOHookAbv</key>
     <string>uni1ECE</string>
     <key>LtnCapOHorn</key>
@@ -6159,12 +5965,8 @@
     <string>uni01EC</string>
     <key>LtnCapOOgonekMacron.RetroHook</key>
     <string>uni01EC.RetroHook</string>
-    <key>LtnCapOStrk</key>
-    <string>Oslash</string>
     <key>LtnCapOStrkAcute</key>
     <string>Oslashacute</string>
-    <key>LtnCapOTilde</key>
-    <string>Otilde</string>
     <key>LtnCapOTildeAcute</key>
     <string>uni1E4C</string>
     <key>LtnCapOTildeDiaer</key>
@@ -6189,8 +5991,6 @@
     <string>uni0222</string>
     <key>LtnCapOu.OpenTop</key>
     <string>uni0222.OpenTop</string>
-    <key>LtnCapP</key>
-    <string>P</string>
     <key>LtnCapP.Sophia</key>
     <string>compLtnCapP</string>
     <key>LtnCapPAcute</key>
@@ -6209,8 +6009,6 @@
     <string>uni2C63</string>
     <key>LtnCapPStrkDep</key>
     <string>uniF25C</string>
-    <key>LtnCapQ</key>
-    <string>Q</string>
     <key>LtnCapQ.DiagTail</key>
     <string>Q.DiagTail</string>
     <key>LtnCapQDiagStrk</key>
@@ -6221,8 +6019,6 @@
     <string>uniA756</string>
     <key>LtnCapQStrk.DiagTail</key>
     <string>uniA756.DiagTail</string>
-    <key>LtnCapR</key>
-    <string>R</string>
     <key>LtnCapR.Sophia</key>
     <string>compLtnCapR</string>
     <key>LtnCapRAcute</key>
@@ -6269,16 +6065,12 @@
     <string>uniA7FC</string>
     <key>LtnCapRumRotunda</key>
     <string>uniA75C</string>
-    <key>LtnCapS</key>
-    <string>S</string>
     <key>LtnCapS.Sophia</key>
     <string>compLtnCapS</string>
     <key>LtnCapSAcute</key>
     <string>Sacute</string>
     <key>LtnCapSAcuteDotAbv</key>
     <string>uni1E64</string>
-    <key>LtnCapSCaron</key>
-    <string>Scaron</string>
     <key>LtnCapSCaronDotAbv</key>
     <string>uni1E66</string>
     <key>LtnCapSCedilla</key>
@@ -6327,8 +6119,6 @@
     <string>uni2C70</string>
     <key>LtnCapSmTurnedAlphaDep</key>
     <string>uniF209</string>
-    <key>LtnCapT</key>
-    <string>T</string>
     <key>LtnCapTCaron</key>
     <string>Tcaron</string>
     <key>LtnCapTCedilla</key>
@@ -6353,8 +6143,6 @@
     <string>uni01AE</string>
     <key>LtnCapTStrk</key>
     <string>Tbar</string>
-    <key>LtnCapThorn</key>
-    <string>Thorn</string>
     <key>LtnCapThornHighStrk</key>
     <string>uniA764</string>
     <key>LtnCapThornLowStrk</key>
@@ -6387,10 +6175,6 @@
     <string>uniF219</string>
     <key>LtnCapTzDigraph</key>
     <string>uniA728</string>
-    <key>LtnCapU</key>
-    <string>U</string>
-    <key>LtnCapUAcute</key>
-    <string>Uacute</string>
     <key>LtnCapUBar</key>
     <string>uni0244</string>
     <key>LtnCapUBarDep</key>
@@ -6399,16 +6183,12 @@
     <string>Ubreve</string>
     <key>LtnCapUCaron</key>
     <string>uni01D3</string>
-    <key>LtnCapUCircum</key>
-    <string>Ucircumflex</string>
     <key>LtnCapUCircumBlw</key>
     <string>uni1E76</string>
     <key>LtnCapUDblAcute</key>
     <string>Uhungarumlaut</string>
     <key>LtnCapUDblGrave</key>
     <string>uni0214</string>
-    <key>LtnCapUDiaer</key>
-    <string>Udieresis</string>
     <key>LtnCapUDiaerAcute</key>
     <string>uni01D7</string>
     <key>LtnCapUDiaerBlw</key>
@@ -6421,8 +6201,6 @@
     <string>uni01D5</string>
     <key>LtnCapUDotBlw</key>
     <string>uni1EE4</string>
-    <key>LtnCapUGrave</key>
-    <string>Ugrave</string>
     <key>LtnCapUHookAbv</key>
     <string>uni1EE6</string>
     <key>LtnCapUHorn</key>
@@ -6459,8 +6237,6 @@
     <string>uni1E74</string>
     <key>LtnCapUpsilon</key>
     <string>uni01B1</string>
-    <key>LtnCapV</key>
-    <string>V</string>
     <key>LtnCapV.Sophia</key>
     <string>compLtnCapV</string>
     <key>LtnCapVDiagStrk</key>
@@ -6481,8 +6257,6 @@
     <string>uniA768</string>
     <key>LtnCapVisigothicZ</key>
     <string>uniA762</string>
-    <key>LtnCapW</key>
-    <string>W</string>
     <key>LtnCapW.Sophia</key>
     <string>compLtnCapW</string>
     <key>LtnCapWAcute</key>
@@ -6503,24 +6277,16 @@
     <string>uniF21B</string>
     <key>LtnCapWynn</key>
     <string>uni01F7</string>
-    <key>LtnCapX</key>
-    <string>X</string>
     <key>LtnCapX.Sophia</key>
     <string>compLtnCapX</string>
     <key>LtnCapXDiaer</key>
     <string>uni1E8C</string>
     <key>LtnCapXDotAbv</key>
     <string>uni1E8A</string>
-    <key>LtnCapY</key>
-    <string>Y</string>
     <key>LtnCapY.Sophia</key>
     <string>compLtnCapY</string>
-    <key>LtnCapYAcute</key>
-    <string>Yacute</string>
     <key>LtnCapYCircum</key>
     <string>Ycircumflex</string>
-    <key>LtnCapYDiaer</key>
-    <string>Ydieresis</string>
     <key>LtnCapYDotAbv</key>
     <string>uni1E8E</string>
     <key>LtnCapYDotBlw</key>
@@ -6545,14 +6311,10 @@
     <string>uni1EF8</string>
     <key>LtnCapYogh</key>
     <string>uni021C</string>
-    <key>LtnCapZ</key>
-    <string>Z</string>
     <key>LtnCapZ.Sophia</key>
     <string>compLtnCapZ</string>
     <key>LtnCapZAcute</key>
     <string>Zacute</string>
-    <key>LtnCapZCaron</key>
-    <string>Zcaron</string>
     <key>LtnCapZCircum</key>
     <string>uni1E90</string>
     <key>LtnCapZDesc</key>
@@ -6653,8 +6415,6 @@
     <string>a</string>
     <key>LtnSmA.2StorySItal</key>
     <string>a.2StorySItal</string>
-    <key>LtnSmA.SngStory</key>
-    <string>a.SngStory</string>
     <key>LtnSmA.SngStory.sc</key>
     <string>a.SngStory.sc</string>
     <key>LtnSmA.sc</key>
@@ -6667,8 +6427,6 @@
     <string>aacute</string>
     <key>LtnSmAAcute.2StorySItal</key>
     <string>aacute.2StorySItal</string>
-    <key>LtnSmAAcute.SngStory</key>
-    <string>aacute.SngStory</string>
     <key>LtnSmAAcute.SngStory.sc</key>
     <string>aacute.SngStory.sc</string>
     <key>LtnSmAAcute.sc</key>
@@ -6787,8 +6545,6 @@
     <string>acircumflex</string>
     <key>LtnSmACircum.2StorySItal</key>
     <string>acircumflex.2StorySItal</string>
-    <key>LtnSmACircum.SngStory</key>
-    <string>acircumflex.SngStory</string>
     <key>LtnSmACircum.SngStory.sc</key>
     <string>acircumflex.SngStory.sc</string>
     <key>LtnSmACircum.sc</key>
@@ -6897,8 +6653,6 @@
     <string>adieresis</string>
     <key>LtnSmADiaer.2StorySItal</key>
     <string>adieresis.2StorySItal</string>
-    <key>LtnSmADiaer.SngStory</key>
-    <string>adieresis.SngStory</string>
     <key>LtnSmADiaer.SngStory.sc</key>
     <string>adieresis.SngStory.sc</string>
     <key>LtnSmADiaer.sc</key>
@@ -6947,8 +6701,6 @@
     <string>agrave</string>
     <key>LtnSmAGrave.2StorySItal</key>
     <string>agrave.2StorySItal</string>
-    <key>LtnSmAGrave.SngStory</key>
-    <string>agrave.SngStory</string>
     <key>LtnSmAGrave.SngStory.sc</key>
     <string>agrave.SngStory.sc</string>
     <key>LtnSmAGrave.sc</key>
@@ -7015,8 +6767,6 @@
     <string>aring</string>
     <key>LtnSmARingAbv.2StorySItal</key>
     <string>aring.2StorySItal</string>
-    <key>LtnSmARingAbv.SngStory</key>
-    <string>aring.SngStory</string>
     <key>LtnSmARingAbv.SngStory.sc</key>
     <string>aring.SngStory.sc</string>
     <key>LtnSmARingAbv.sc</key>
@@ -7065,8 +6815,6 @@
     <string>atilde</string>
     <key>LtnSmATilde.2StorySItal</key>
     <string>atilde.2StorySItal</string>
-    <key>LtnSmATilde.SngStory</key>
-    <string>atilde.SngStory</string>
     <key>LtnSmATilde.SngStory.sc</key>
     <string>atilde.SngStory.sc</string>
     <key>LtnSmATilde.sc</key>
@@ -7087,8 +6835,6 @@
     <string>uniA73D</string>
     <key>LtnSmAYDigraph.sc</key>
     <string>uniA73D.sc</string>
-    <key>LtnSmAe</key>
-    <string>ae</string>
     <key>LtnSmAe.2StorySItal</key>
     <string>ae.2StorySItal</string>
     <key>LtnSmAe.sc</key>
@@ -7115,8 +6861,6 @@
     <string>uniF237</string>
     <key>LtnSmAtDep</key>
     <string>uniF247</string>
-    <key>LtnSmB</key>
-    <string>b</string>
     <key>LtnSmB.sc</key>
     <string>b.sc</string>
     <key>LtnSmBBarredStem</key>
@@ -7175,8 +6919,6 @@
     <string>uniA7B5.sc</string>
     <key>LtnSmBottomHalfO</key>
     <string>uni1D17</string>
-    <key>LtnSmC</key>
-    <string>c</string>
     <key>LtnSmC.sc</key>
     <string>c.sc</string>
     <key>LtnSmCAcute</key>
@@ -7191,8 +6933,6 @@
     <string>ccaron</string>
     <key>LtnSmCCaron.sc</key>
     <string>ccaron.sc</string>
-    <key>LtnSmCCedilla</key>
-    <string>ccedilla</string>
     <key>LtnSmCCedilla.sc</key>
     <string>ccedilla.sc</string>
     <key>LtnSmCCedillaAcute</key>
@@ -7351,8 +7091,6 @@
     <string>uniA72F.sc</string>
     <key>LtnSmCuatrilloDep</key>
     <string>uniF246</string>
-    <key>LtnSmD</key>
-    <string>d</string>
     <key>LtnSmD.sc</key>
     <string>d.sc</string>
     <key>LtnSmDBDigraph</key>
@@ -7437,8 +7175,6 @@
     <string>uni1E9F</string>
     <key>LtnSmDezhDigraph</key>
     <string>uni02A4</string>
-    <key>LtnSmDotlessI</key>
-    <string>dotlessi</string>
     <key>LtnSmDotlessI.SItal</key>
     <string>dotlessi.SItal</string>
     <key>LtnSmDotlessI.TailI</key>
@@ -7471,12 +7207,8 @@
     <string>uni02A3</string>
     <key>LtnSmDzDigraphCurl</key>
     <string>uni02A5</string>
-    <key>LtnSmE</key>
-    <string>e</string>
     <key>LtnSmE.sc</key>
     <string>e.sc</string>
-    <key>LtnSmEAcute</key>
-    <string>eacute</string>
     <key>LtnSmEAcute.sc</key>
     <string>eacute.sc</string>
     <key>LtnSmEBreve</key>
@@ -7495,8 +7227,6 @@
     <string>uni1E1D</string>
     <key>LtnSmECedillaBreve.sc</key>
     <string>uni1E1D.sc</string>
-    <key>LtnSmECircum</key>
-    <string>ecircumflex</string>
     <key>LtnSmECircum.sc</key>
     <string>ecircumflex.sc</string>
     <key>LtnSmECircumAcute</key>
@@ -7543,8 +7273,6 @@
     <string>uni0205</string>
     <key>LtnSmEDblGrave.sc</key>
     <string>uni0205.sc</string>
-    <key>LtnSmEDiaer</key>
-    <string>edieresis</string>
     <key>LtnSmEDiaer.sc</key>
     <string>edieresis.sc</string>
     <key>LtnSmEDotAbv</key>
@@ -7555,8 +7283,6 @@
     <string>uni1EB9</string>
     <key>LtnSmEDotBlw.sc</key>
     <string>uni1EB9.sc</string>
-    <key>LtnSmEGrave</key>
-    <string>egrave</string>
     <key>LtnSmEGrave.sc</key>
     <string>egrave.sc</string>
     <key>LtnSmEHookAbv</key>
@@ -7649,8 +7375,6 @@
     <string>uniA76B</string>
     <key>LtnSmEt.sc</key>
     <string>uniA76B.sc</string>
-    <key>LtnSmEth</key>
-    <string>eth</string>
     <key>LtnSmEth.sc</key>
     <string>eth.sc</string>
     <key>LtnSmEzh</key>
@@ -7681,8 +7405,6 @@
     <string>uni01B9.sc</string>
     <key>LtnSmEzhTail</key>
     <string>uni01BA</string>
-    <key>LtnSmF</key>
-    <string>f</string>
     <key>LtnSmF.SItal</key>
     <string>f.SItal</string>
     <key>LtnSmF.sc</key>
@@ -7693,8 +7415,6 @@
     <string>uni1E1F.SItal</string>
     <key>LtnSmFDotAbv.sc</key>
     <string>uni1E1F.sc</string>
-    <key>LtnSmFHook</key>
-    <string>florin</string>
     <key>LtnSmFHook.sc</key>
     <string>florin.sc</string>
     <key>LtnSmFHookStrk</key>
@@ -7721,8 +7441,6 @@
     <string>uni01E5.BarBowl.SngBowl.sc</string>
     <key>LtnSmG.BarBowl.sc</key>
     <string>uni01E5.BarBowl.sc</string>
-    <key>LtnSmG.SngBowl</key>
-    <string>g.SngBowl</string>
     <key>LtnSmG.SngBowl.sc</key>
     <string>g.SngBowl.sc</string>
     <key>LtnSmG.sc</key>
@@ -7813,8 +7531,6 @@
     <string>uni0242.sc</string>
     <key>LtnSmGlottalStopDep</key>
     <string>uniF21E</string>
-    <key>LtnSmH</key>
-    <string>h</string>
     <key>LtnSmH.sc</key>
     <string>h.sc</string>
     <key>LtnSmHBreveBlw</key>
@@ -7883,8 +7599,6 @@
     <string>uni0195</string>
     <key>LtnSmHv.sc</key>
     <string>uni0195.sc</string>
-    <key>LtnSmI</key>
-    <string>i</string>
     <key>LtnSmI.Dotless</key>
     <string>i.Dotless</string>
     <key>LtnSmI.Dotless.SItal</key>
@@ -7897,8 +7611,6 @@
     <string>i.TailI</string>
     <key>LtnSmI.sc</key>
     <string>i.sc</string>
-    <key>LtnSmIAcute</key>
-    <string>iacute</string>
     <key>LtnSmIAcute.SItal</key>
     <string>iacute.SItal</string>
     <key>LtnSmIAcute.TailI</key>
@@ -7921,8 +7633,6 @@
     <string>uni01D0.TailI</string>
     <key>LtnSmICaron.sc</key>
     <string>uni01D0.sc</string>
-    <key>LtnSmICircum</key>
-    <string>icircumflex</string>
     <key>LtnSmICircum.SItal</key>
     <string>icircumflex.SItal</string>
     <key>LtnSmICircum.TailI</key>
@@ -7937,8 +7647,6 @@
     <string>uni0209.TailI</string>
     <key>LtnSmIDblGrave.sc</key>
     <string>uni0209.sc</string>
-    <key>LtnSmIDiaer</key>
-    <string>idieresis</string>
     <key>LtnSmIDiaer.SItal</key>
     <string>idieresis.SItal</string>
     <key>LtnSmIDiaer.TailI</key>
@@ -7967,8 +7675,6 @@
     <string>uni1ECB.TailI</string>
     <key>LtnSmIDotBlw.sc</key>
     <string>uni1ECB.sc</string>
-    <key>LtnSmIGrave</key>
-    <string>igrave</string>
     <key>LtnSmIGrave.SItal</key>
     <string>igrave.SItal</string>
     <key>LtnSmIGrave.TailI</key>
@@ -8083,8 +7789,6 @@
     <string>uniA76D</string>
     <key>LtnSmIs.sc</key>
     <string>uniA76D.sc</string>
-    <key>LtnSmJ</key>
-    <string>j</string>
     <key>LtnSmJ.BarTop</key>
     <string>j.BarTop</string>
     <key>LtnSmJ.BarTop.sc</key>
@@ -8137,8 +7841,6 @@
     <string>uni0249.sc</string>
     <key>LtnSmJStrkDep</key>
     <string>uniF260</string>
-    <key>LtnSmK</key>
-    <string>k</string>
     <key>LtnSmK.sc</key>
     <string>k.sc</string>
     <key>LtnSmKAcute</key>
@@ -8193,8 +7895,6 @@
     <string>uniA745.sc</string>
     <key>LtnSmKra</key>
     <string>kgreenlandic</string>
-    <key>LtnSmL</key>
-    <string>l</string>
     <key>LtnSmL.SItal</key>
     <string>l.SItal</string>
     <key>LtnSmL.TailL</key>
@@ -8341,20 +8041,14 @@
     <string>ffl</string>
     <key>LtnSmLigFfl.TailL</key>
     <string>ffl.TailL</string>
-    <key>LtnSmLigFi</key>
-    <string>fi</string>
     <key>LtnSmLigFi.TailI</key>
     <string>fi.TailI</string>
-    <key>LtnSmLigFl</key>
-    <string>fl</string>
     <key>LtnSmLigFl.TailL</key>
     <string>fl.TailL</string>
     <key>LtnSmLigIj</key>
     <string>ij</string>
     <key>LtnSmLigIj.sc</key>
     <string>ij.sc</string>
-    <key>LtnSmLigOe</key>
-    <string>oe</string>
     <key>LtnSmLigOe.sc</key>
     <string>oe.sc</string>
     <key>LtnSmLj</key>
@@ -8371,8 +8065,6 @@
     <string>uni1E9D</string>
     <key>LtnSmLum</key>
     <string>uniA772</string>
-    <key>LtnSmM</key>
-    <string>m</string>
     <key>LtnSmM.sc</key>
     <string>m.sc</string>
     <key>LtnSmMAcute</key>
@@ -8401,8 +8093,6 @@
     <string>uniF22B</string>
     <key>LtnSmMum</key>
     <string>uniA773</string>
-    <key>LtnSmN</key>
-    <string>n</string>
     <key>LtnSmN.sc</key>
     <string>n.sc</string>
     <key>LtnSmNAcute</key>
@@ -8469,8 +8159,6 @@
     <string>uniF22C</string>
     <key>LtnSmNRetrHook</key>
     <string>uni0273</string>
-    <key>LtnSmNTilde</key>
-    <string>ntilde</string>
     <key>LtnSmNTilde.sc</key>
     <string>ntilde.sc</string>
     <key>LtnSmNj</key>
@@ -8479,12 +8167,8 @@
     <string>uni01CC.sc</string>
     <key>LtnSmNum</key>
     <string>uniA774</string>
-    <key>LtnSmO</key>
-    <string>o</string>
     <key>LtnSmO.sc</key>
     <string>o.sc</string>
-    <key>LtnSmOAcute</key>
-    <string>oacute</string>
     <key>LtnSmOAcute.sc</key>
     <string>oacute.sc</string>
     <key>LtnSmOBreve</key>
@@ -8495,8 +8179,6 @@
     <string>uni01D2</string>
     <key>LtnSmOCaron.sc</key>
     <string>uni01D2.sc</string>
-    <key>LtnSmOCircum</key>
-    <string>ocircumflex</string>
     <key>LtnSmOCircum.sc</key>
     <string>ocircumflex.sc</string>
     <key>LtnSmOCircumAcute</key>
@@ -8547,8 +8229,6 @@
     <string>uni020D</string>
     <key>LtnSmODblGrave.sc</key>
     <string>uni020D.sc</string>
-    <key>LtnSmODiaer</key>
-    <string>odieresis</string>
     <key>LtnSmODiaer.sc</key>
     <string>odieresis.sc</string>
     <key>LtnSmODiaerMacron</key>
@@ -8567,8 +8247,6 @@
     <string>uni1ECD</string>
     <key>LtnSmODotBlw.sc</key>
     <string>uni1ECD.sc</string>
-    <key>LtnSmOGrave</key>
-    <string>ograve</string>
     <key>LtnSmOGrave.sc</key>
     <string>ograve.sc</string>
     <key>LtnSmOHookAbv</key>
@@ -8643,16 +8321,12 @@
     <string>uni01ED.sc</string>
     <key>LtnSmORingInside</key>
     <string>uni2C7A</string>
-    <key>LtnSmOStrk</key>
-    <string>oslash</string>
     <key>LtnSmOStrk.sc</key>
     <string>oslash.sc</string>
     <key>LtnSmOStrkAcute</key>
     <string>oslashacute</string>
     <key>LtnSmOStrkAcute.sc</key>
     <string>oslashacute.sc</string>
-    <key>LtnSmOTilde</key>
-    <string>otilde</string>
     <key>LtnSmOTilde.sc</key>
     <string>otilde.sc</string>
     <key>LtnSmOTildeAcute</key>
@@ -8713,8 +8387,6 @@
     <string>uni0223.OpenTop.sc</string>
     <key>LtnSmOu.sc</key>
     <string>uni0223.sc</string>
-    <key>LtnSmP</key>
-    <string>p</string>
     <key>LtnSmP.sc</key>
     <string>p.sc</string>
     <key>LtnSmPAcute</key>
@@ -8759,8 +8431,6 @@
     <string>uniF210</string>
     <key>LtnSmPhi</key>
     <string>uni0278</string>
-    <key>LtnSmQ</key>
-    <string>q</string>
     <key>LtnSmQ.DiagTail</key>
     <string>q.DiagTail</string>
     <key>LtnSmQ.DiagTail.sc</key>
@@ -8803,8 +8473,6 @@
     <string>uniA757.Point</string>
     <key>LtnSmQStrk.sc</key>
     <string>uniA757.sc</string>
-    <key>LtnSmR</key>
-    <string>r</string>
     <key>LtnSmR.sc</key>
     <string>r.sc</string>
     <key>LtnSmRAcute</key>
@@ -8915,8 +8583,6 @@
     <string>uniA75D</string>
     <key>LtnSmRumRotunda.sc</key>
     <string>uniA75D.sc</string>
-    <key>LtnSmS</key>
-    <string>s</string>
     <key>LtnSmS.sc</key>
     <string>s.sc</string>
     <key>LtnSmSAcute</key>
@@ -8927,8 +8593,6 @@
     <string>uni1E65</string>
     <key>LtnSmSAcuteDotAbv.sc</key>
     <string>uni1E65.sc</string>
-    <key>LtnSmSCaron</key>
-    <string>scaron</string>
     <key>LtnSmSCaron.sc</key>
     <string>scaron.sc</string>
     <key>LtnSmSCaronDotAbv</key>
@@ -9019,14 +8683,10 @@
     <string>uni1D1F</string>
     <key>LtnSmSdwysU</key>
     <string>uni1D1D</string>
-    <key>LtnSmSharpS</key>
-    <string>germandbls</string>
     <key>LtnSmSharpS.sc</key>
     <string>germandbls.sc</string>
     <key>LtnSmSquatRevEsh</key>
     <string>uni0285</string>
-    <key>LtnSmT</key>
-    <string>t</string>
     <key>LtnSmT.NoTailT</key>
     <string>t.NoTailT</string>
     <key>LtnSmT.sc</key>
@@ -9135,8 +8795,6 @@
     <string>uni02A7</string>
     <key>LtnSmTeshDigraph.NoTailT</key>
     <string>uni02A7.NoTailT</string>
-    <key>LtnSmThorn</key>
-    <string>thorn</string>
     <key>LtnSmThorn.sc</key>
     <string>thorn.sc</string>
     <key>LtnSmThornHighStrk</key>
@@ -9255,12 +8913,8 @@
     <string>uniA729.NoTailT</string>
     <key>LtnSmTzDigraph.sc</key>
     <string>uniA729.sc</string>
-    <key>LtnSmU</key>
-    <string>u</string>
     <key>LtnSmU.sc</key>
     <string>u.sc</string>
-    <key>LtnSmUAcute</key>
-    <string>uacute</string>
     <key>LtnSmUAcute.sc</key>
     <string>uacute.sc</string>
     <key>LtnSmUBar</key>
@@ -9275,8 +8929,6 @@
     <string>uni01D4</string>
     <key>LtnSmUCaron.sc</key>
     <string>uni01D4.sc</string>
-    <key>LtnSmUCircum</key>
-    <string>ucircumflex</string>
     <key>LtnSmUCircum.sc</key>
     <string>ucircumflex.sc</string>
     <key>LtnSmUCircumBlw</key>
@@ -9291,8 +8943,6 @@
     <string>uni0215</string>
     <key>LtnSmUDblGrave.sc</key>
     <string>uni0215.sc</string>
-    <key>LtnSmUDiaer</key>
-    <string>udieresis</string>
     <key>LtnSmUDiaer.sc</key>
     <string>udieresis.sc</string>
     <key>LtnSmUDiaerAcute</key>
@@ -9319,8 +8969,6 @@
     <string>uni1EE5</string>
     <key>LtnSmUDotBlw.sc</key>
     <string>uni1EE5.sc</string>
-    <key>LtnSmUGrave</key>
-    <string>ugrave</string>
     <key>LtnSmUGrave.sc</key>
     <string>ugrave.sc</string>
     <key>LtnSmUHookAbv</key>
@@ -9409,8 +9057,6 @@
     <string>uni1D7F</string>
     <key>LtnSmUpsilonStrkDep</key>
     <string>uniF255</string>
-    <key>LtnSmV</key>
-    <string>v</string>
     <key>LtnSmV.SItal</key>
     <string>v.SItal</string>
     <key>LtnSmV.sc</key>
@@ -9469,8 +9115,6 @@
     <string>uniA763</string>
     <key>LtnSmVisigothicZ.sc</key>
     <string>uniA763.sc</string>
-    <key>LtnSmW</key>
-    <string>w</string>
     <key>LtnSmW.sc</key>
     <string>w.sc</string>
     <key>LtnSmWAcute</key>
@@ -9505,8 +9149,6 @@
     <string>uniF21A</string>
     <key>LtnSmWRingAbv</key>
     <string>uni1E98</string>
-    <key>LtnSmX</key>
-    <string>x</string>
     <key>LtnSmX.sc</key>
     <string>x.sc</string>
     <key>LtnSmXDiaer</key>
@@ -9521,14 +9163,10 @@
     <string>uni1D8D</string>
     <key>LtnSmXPalHookDep</key>
     <string>uniF232</string>
-    <key>LtnSmY</key>
-    <string>y</string>
     <key>LtnSmY.NoTailY</key>
     <string>y.NoTailY</string>
     <key>LtnSmY.sc</key>
     <string>y.sc</string>
-    <key>LtnSmYAcute</key>
-    <string>yacute</string>
     <key>LtnSmYAcute.NoTailY</key>
     <string>yacute.NoTailY</string>
     <key>LtnSmYAcute.sc</key>
@@ -9539,8 +9177,6 @@
     <string>ycircumflex.NoTailY</string>
     <key>LtnSmYCircum.sc</key>
     <string>ycircumflex.sc</string>
-    <key>LtnSmYDiaer</key>
-    <string>ydieresis</string>
     <key>LtnSmYDiaer.NoTailY</key>
     <string>ydieresis.NoTailY</string>
     <key>LtnSmYDiaer.sc</key>
@@ -9615,8 +9251,6 @@
     <string>uni021D</string>
     <key>LtnSmYogh.sc</key>
     <string>uni021D.sc</string>
-    <key>LtnSmZ</key>
-    <string>z</string>
     <key>LtnSmZ.SItal</key>
     <string>z.SItal</string>
     <key>LtnSmZ.sc</key>
@@ -9627,8 +9261,6 @@
     <string>zacute.SItal</string>
     <key>LtnSmZAcute.sc</key>
     <string>zacute.sc</string>
-    <key>LtnSmZCaron</key>
-    <string>zcaron</string>
     <key>LtnSmZCaron.SItal</key>
     <string>zcaron.SItal</string>
     <key>LtnSmZCaron.sc</key>
@@ -9931,14 +9563,12 @@
     <string>uni2113</string>
     <key>LtrSoundRecCopyright</key>
     <string>uni2117</string>
-    <key>Macron</key>
-    <string>macron</string>
+    <key>M</key>
+    <string>M</string>
     <key>MaleSgn</key>
     <string>uni2642</string>
     <key>ManatSgn</key>
     <string>uni20BC</string>
-    <key>MascOrdIndicator</key>
-    <string>ordmasculine</string>
     <key>MathBoldCapM</key>
     <string>u1D40C</string>
     <key>MathFrktCapA</key>
@@ -9971,16 +9601,8 @@
     <string>uni27E9</string>
     <key>MathRtWhiteSqrBrac</key>
     <string>uni27E7</string>
-    <key>MicroSgn</key>
-    <string>mu</string>
-    <key>MiddleDot</key>
-    <string>periodcentered</string>
     <key>MillSgn</key>
     <string>uni20A5</string>
-    <key>MinusPlusSgn</key>
-    <string>uni2213</string>
-    <key>MinusSgn</key>
-    <string>minus</string>
     <key>ModAcuteAccent</key>
     <string>uni02CA</string>
     <key>ModAcuteAccent.ChinantecTn</key>
@@ -10065,8 +9687,6 @@
     <string>uniA71A</string>
     <key>ModChinantecTnMrkLowRtCornerDep</key>
     <string>uniF19B</string>
-    <key>ModCircumAccent</key>
-    <string>circumflex</string>
     <key>ModCntrdLftHalfRing</key>
     <string>uni02D3</string>
     <key>ModCntrdRtHalfRing</key>
@@ -10411,118 +10031,90 @@
     <string>uni02EB</string>
     <key>ModYinDepartingTnMrk</key>
     <string>uni02EA</string>
-    <key>MultSgn</key>
-    <string>multiply</string>
     <key>MusicFlatSign</key>
     <string>uni266D</string>
     <key>MusicSharpSign</key>
     <string>uni266F</string>
-    <key>NAryProduct</key>
-    <string>product</string>
-    <key>NArySummation</key>
-    <string>summation</string>
+    <key>N</key>
+    <string>N</string>
     <key>NEArrw</key>
     <string>uni2197</string>
     <key>NWArrw</key>
     <string>uni2196</string>
     <key>NairaSgn</key>
     <string>uni20A6</string>
-    <key>NarrowNoBreakSpace</key>
-    <string>uni202F</string>
     <key>NationalDigitShapes</key>
     <string>uni206E</string>
     <key>NewSheqelSgn</key>
     <string>uni20AA</string>
-    <key>NoBreakSpace</key>
-    <string>uni00A0</string>
     <key>NominalDigitShapes</key>
     <string>uni206F</string>
-    <key>NonBreakingHyphen</key>
-    <string>uni2011</string>
     <key>NordicMarkSgn</key>
     <string>uni20BB</string>
-    <key>NotEqTo</key>
-    <string>notequal</string>
     <key>NotIdenticalTo</key>
     <string>uni2262</string>
     <key>NotParallelTo</key>
     <string>uni2226</string>
-    <key>NotSgn</key>
-    <string>logicalnot</string>
     <key>NotSubsetOf</key>
     <string>uni2284</string>
     <key>NotSupersetOf</key>
     <string>uni2285</string>
-    <key>NumSgn</key>
-    <string>numbersign</string>
+    <key>Ntilde</key>
+    <string>Ntilde</string>
     <key>NumeroSgn</key>
     <string>uni2116</string>
-    <key>ObjectReplChar</key>
-    <string>uniFFFC</string>
-    <key>Ogonek</key>
-    <string>ogonek</string>
+    <key>O</key>
+    <string>O</string>
+    <key>OE</key>
+    <string>OE</string>
+    <key>Oacute</key>
+    <string>Oacute</string>
+    <key>Ocircumflex</key>
+    <string>Ocircumflex</string>
+    <key>Odieresis</key>
+    <string>Odieresis</string>
     <key>Ogonek.RetroHook</key>
     <string>ogonek.RetroHook</string>
-    <key>OhmSgn</key>
+    <key>Ograve</key>
+    <string>Ograve</string>
+    <key>Ohm</key>
     <string>Omega</string>
     <key>OneDotLeader</key>
     <string>onedotenleader</string>
-    <key>OpnBx</key>
-    <string>uni2423</string>
-    <key>ParagraphSeparator</key>
-    <string>uni2029</string>
+    <key>Oslash</key>
+    <string>Oslash</string>
+    <key>Otilde</key>
+    <string>Otilde</string>
+    <key>P</key>
+    <string>P</string>
     <key>ParallelTo</key>
     <string>uni2225</string>
-    <key>PartialDiff</key>
-    <string>partialdiff</string>
-    <key>PerMilleSgn</key>
-    <string>perthousand</string>
-    <key>PercentSgn</key>
-    <string>percent</string>
     <key>PesetaSgn</key>
     <string>peseta</string>
     <key>PesoSgn</key>
     <string>uni20B1</string>
-    <key>PilcrowSgn</key>
-    <string>paragraph</string>
-    <key>PlusMinusSgn</key>
-    <string>plusminus</string>
-    <key>PlusSgn</key>
-    <string>plus</string>
     <key>PopDirFormatting</key>
     <string>uni202C</string>
-    <key>PoundSgn</key>
-    <string>sterling</string>
     <key>Prime</key>
     <string>minute</string>
-    <key>PuncSpace</key>
-    <string>uni2008</string>
-    <key>QstnMrk</key>
-    <string>question</string>
+    <key>Q</key>
+    <string>Q</string>
     <key>QuadruplePrime</key>
     <string>uni2057</string>
     <key>QuestionedEqTo</key>
     <string>uni225F</string>
-    <key>QuotMrk</key>
-    <string>quotedbl</string>
+    <key>R</key>
+    <string>R</string>
     <key>R_Response</key>
     <string>uni211F</string>
     <key>RefMrk</key>
     <string>uni203B</string>
-    <key>RegisteredSgn</key>
-    <string>registered</string>
-    <key>ReplChar</key>
-    <string>uniFFFD</string>
     <key>RevDblPrime</key>
     <string>uni2036</string>
     <key>RevPrime</key>
     <string>uni2035</string>
     <key>RevTriplePrime</key>
     <string>uni2037</string>
-    <key>ReverseSolidus</key>
-    <string>backslash</string>
-    <key>RingAbv</key>
-    <string>ring</string>
     <key>RomNumEight</key>
     <string>uni2167</string>
     <key>RomNumEleven</key>
@@ -10581,30 +10173,18 @@
     <string>uni23A0</string>
     <key>RtBtmSqrBrac</key>
     <string>uni23A6</string>
-    <key>RtCurlyBrac</key>
-    <string>braceright</string>
     <key>RtDblArrw</key>
     <string>arrowdblright</string>
-    <key>RtDblQuotMrk</key>
-    <string>quotedblright</string>
     <key>RtMidCurlyBrac</key>
     <string>uni23AC</string>
     <key>RtMidParen</key>
     <string>uni239F</string>
     <key>RtMidSqrBrac</key>
     <string>uni23A5</string>
-    <key>RtParen</key>
-    <string>parenright</string>
     <key>RtParen.Sophia</key>
     <string>compRtParen</string>
     <key>RtPtngAngBrac</key>
     <string>angleright</string>
-    <key>RtPtngDblAngQuotMrk</key>
-    <string>guillemotright</string>
-    <key>RtSglQuotMrk</key>
-    <string>quoteright</string>
-    <key>RtSqrBrac</key>
-    <string>bracketright</string>
     <key>RtToLftEmbedding</key>
     <string>uni202B</string>
     <key>RtToLftMrk</key>
@@ -10621,26 +10201,18 @@
     <string>uni20BD</string>
     <key>RupeeSgn</key>
     <string>uni20A8</string>
+    <key>S</key>
+    <string>S</string>
     <key>SEArrw</key>
     <string>uni2198</string>
     <key>SWArrw</key>
     <string>uni2199</string>
-    <key>SectionSgn</key>
-    <string>section</string>
-    <key>Semicolon</key>
-    <string>semicolon</string>
+    <key>Scaron</key>
+    <string>Scaron</string>
     <key>SglHighRev9QuotMrk</key>
     <string>quotereversed</string>
-    <key>SglLftPtngAngQuotMrk</key>
-    <string>guilsinglleft</string>
-    <key>SglLow9QuotMrk</key>
-    <string>quotesinglbase</string>
-    <key>SglRtPtngAngQuotMrk</key>
-    <string>guilsinglright</string>
     <key>ShadowedWhiteCirc</key>
     <string>uni274D</string>
-    <key>SixPerEmSpace</key>
-    <string>uni2006</string>
     <key>SmRomNumEight</key>
     <string>uni2177</string>
     <key>SmRomNumEleven</key>
@@ -10675,16 +10247,8 @@
     <string>uni2171</string>
     <key>SmTaillessPhi</key>
     <string>uni2C77</string>
-    <key>SmTilde</key>
-    <string>tilde</string>
-    <key>Solidus</key>
-    <string>slash</string>
-    <key>Space</key>
-    <string>space</string>
     <key>SpesmiloSgn</key>
     <string>uni20B7</string>
-    <key>SqrRoot</key>
-    <string>radical</string>
     <key>SqrTxtBracHighLft</key>
     <string>uni2308</string>
     <key>SqrTxtBracHighLftShort</key>
@@ -10757,8 +10321,6 @@
     <string>uni207C</string>
     <key>SupFive</key>
     <string>uni2075</string>
-    <key>SupFour</key>
-    <string>uni2074</string>
     <key>SupFour.Open</key>
     <string>uni2074.Open</string>
     <key>SupLftParen</key>
@@ -10769,8 +10331,6 @@
     <string>uni2079</string>
     <key>SupNine.Diag</key>
     <string>uni2079.Diag</string>
-    <key>SupOne</key>
-    <string>onesuperior</string>
     <key>SupOne.NoBase</key>
     <string>onesuperior.NoBase</string>
     <key>SupPlusSgn</key>
@@ -10785,10 +10345,6 @@
     <string>uni2076</string>
     <key>SupSix.Diag</key>
     <string>uni2076.Diag</string>
-    <key>SupThree</key>
-    <string>threesuperior</string>
-    <key>SupTwo</key>
-    <string>twosuperior</string>
     <key>SupZero</key>
     <string>uni2070</string>
     <key>SupZero.Slash</key>
@@ -10841,6 +10397,8 @@
     <string>uni2E23</string>
     <key>SwingDash</key>
     <string>uni2053</string>
+    <key>T</key>
+    <string>T</string>
     <key>TengeSgn</key>
     <string>uni20B8</string>
     <key>ThereDoesNotExist</key>
@@ -10849,14 +10407,10 @@
     <string>existential</string>
     <key>Therefore</key>
     <string>uni2234</string>
-    <key>ThinSpace</key>
-    <string>uni2009</string>
+    <key>Thorn</key>
+    <string>Thorn</string>
     <key>ThreeEmDash</key>
     <string>uni2E3B</string>
-    <key>ThreePerEmSpace</key>
-    <string>uni2004</string>
-    <key>Tilde</key>
-    <string>asciitilde</string>
     <key>TildeOperator</key>
     <string>similar</string>
     <key>TnContLft11</key>
@@ -11095,8 +10649,6 @@
     <string>uni02E5.rstaff</string>
     <key>TnStaffRt5no</key>
     <string>uni02E5.rstaffno</string>
-    <key>TradeMrkSgn</key>
-    <string>trademark</string>
     <key>TriangularBullet</key>
     <string>uni2023</string>
     <key>TriplePrime</key>
@@ -11109,6 +10661,16 @@
     <string>twodotenleader</string>
     <key>TwoEmDash</key>
     <string>uni2E3A</string>
+    <key>U</key>
+    <string>U</string>
+    <key>Uacute</key>
+    <string>Uacute</string>
+    <key>Ucircumflex</key>
+    <string>Ucircumflex</string>
+    <key>Udieresis</key>
+    <string>Udieresis</string>
+    <key>Ugrave</key>
+    <string>Ugrave</string>
     <key>UpArrw</key>
     <string>arrowup</string>
     <key>UpDblArrw</key>
@@ -11119,6 +10681,8 @@
     <string>arrowupdnbse</string>
     <key>UpDwnDblArrw</key>
     <string>uni21D5</string>
+    <key>V</key>
+    <string>V</string>
     <key>VS1</key>
     <string>uniFE00</string>
     <key>VS10</key>
@@ -11153,8 +10717,6 @@
     <string>uniFE08</string>
     <key>V_Versicle</key>
     <string>uni2123</string>
-    <key>VertLine</key>
-    <string>bar</string>
     <key>VulgFracFiveEighths</key>
     <string>fiveeighths</string>
     <key>VulgFracFiveSixths</key>
@@ -11165,12 +10727,8 @@
     <string>oneeighth</string>
     <key>VulgFracOneFifth</key>
     <string>uni2155</string>
-    <key>VulgFracOneHalf</key>
-    <string>onehalf</string>
     <key>VulgFracOneNinth</key>
     <string>uni2151</string>
-    <key>VulgFracOneQuarter</key>
-    <string>onequarter</string>
     <key>VulgFracOneSeventh</key>
     <string>uni2150</string>
     <key>VulgFracOneSixth</key>
@@ -11185,27 +10743,469 @@
     <string>threeeighths</string>
     <key>VulgFracThreeFifths</key>
     <string>uni2157</string>
-    <key>VulgFracThreeQuarters</key>
-    <string>threequarters</string>
     <key>VulgFracTwoFifths</key>
     <string>uni2156</string>
     <key>VulgFracTwoThirds</key>
     <string>twothirds</string>
     <key>VulgFracZeroThirds</key>
     <string>uni2189</string>
+    <key>W</key>
+    <string>W</string>
     <key>WonSgn</key>
     <string>uni20A9</string>
-    <key>WordJoiner</key>
+    <key>X</key>
+    <string>X</string>
+    <key>Y</key>
+    <string>Y</string>
+    <key>Yacute</key>
+    <string>Yacute</string>
+    <key>Ydieresis</key>
+    <string>Ydieresis</string>
+    <key>Z</key>
+    <string>Z</string>
+    <key>Zcaron</key>
+    <string>Zcaron</string>
+    <key>a</key>
+    <string>a.SngStory</string>
+    <key>aacute</key>
+    <string>aacute.SngStory</string>
+    <key>acircumflex</key>
+    <string>acircumflex.SngStory</string>
+    <key>acute</key>
+    <string>acute</string>
+    <key>acutecomb</key>
+    <string>acutecomb</string>
+    <key>adieresis</key>
+    <string>adieresis.SngStory</string>
+    <key>ae</key>
+    <string>ae</string>
+    <key>agrave</key>
+    <string>agrave.SngStory</string>
+    <key>ampersand</key>
+    <string>ampersand</string>
+    <key>approxequal</key>
+    <string>approxequal</string>
+    <key>aring</key>
+    <string>aring.SngStory</string>
+    <key>asciicircum</key>
+    <string>asciicircum</string>
+    <key>asciitilde</key>
+    <string>asciitilde</string>
+    <key>asterisk</key>
+    <string>asterisk</string>
+    <key>at</key>
+    <string>at</string>
+    <key>atilde</key>
+    <string>atilde.SngStory</string>
+    <key>b</key>
+    <string>b</string>
+    <key>backslash</key>
+    <string>backslash</string>
+    <key>bar</key>
+    <string>bar</string>
+    <key>blank</key>
+    <string>uni2423</string>
+    <key>braceleft</key>
+    <string>braceleft</string>
+    <key>braceright</key>
+    <string>braceright</string>
+    <key>bracketleft</key>
+    <string>bracketleft</string>
+    <key>bracketright</key>
+    <string>bracketright</string>
+    <key>breve</key>
+    <string>breve</string>
+    <key>brokenbar</key>
+    <string>brokenbar</string>
+    <key>bullet</key>
+    <string>bullet</string>
+    <key>bulletoperator</key>
+    <string>uni2219</string>
+    <key>c</key>
+    <string>c</string>
+    <key>caron</key>
+    <string>caron</string>
+    <key>caroncomb</key>
+    <string>uni030C</string>
+    <key>ccedilla</key>
+    <string>ccedilla</string>
+    <key>cedilla</key>
+    <string>cedilla</string>
+    <key>cedillacomb</key>
+    <string>uni0327</string>
+    <key>cent</key>
+    <string>cent</string>
+    <key>circumflex</key>
+    <string>circumflex</string>
+    <key>circumflexcomb</key>
+    <string>uni0302</string>
+    <key>colon</key>
+    <string>colon</string>
+    <key>comma</key>
+    <string>comma</string>
+    <key>copyright</key>
+    <string>copyright</string>
+    <key>currency</key>
+    <string>currency</string>
+    <key>d</key>
+    <string>d</string>
+    <key>dagger</key>
+    <string>dagger</string>
+    <key>daggerdbl</key>
+    <string>daggerdbl</string>
+    <key>degree</key>
+    <string>degree</string>
+    <key>dieresis</key>
+    <string>dieresis</string>
+    <key>dieresiscomb</key>
+    <string>uni0308</string>
+    <key>divide</key>
+    <string>divide</string>
+    <key>divisionslash</key>
+    <string>uni2213</string>
+    <key>dollar</key>
+    <string>dollar</string>
+    <key>dotaccent</key>
+    <string>dotaccent</string>
+    <key>dottedCircle</key>
+    <string>uni25CC</string>
+    <key>e</key>
+    <string>e</string>
+    <key>eacute</key>
+    <string>eacute</string>
+    <key>ecircumflex</key>
+    <string>ecircumflex</string>
+    <key>edieresis</key>
+    <string>edieresis</string>
+    <key>egrave</key>
+    <string>egrave</string>
+    <key>eight</key>
+    <string>eight</string>
+    <key>ellipsis</key>
+    <string>ellipsis</string>
+    <key>emdash</key>
+    <string>emdash</string>
+    <key>emquad</key>
+    <string>uni2001</string>
+    <key>emspace</key>
+    <string>uni2003</string>
+    <key>endash</key>
+    <string>endash</string>
+    <key>enquad</key>
+    <string>uni2000</string>
+    <key>enspace</key>
+    <string>uni2002</string>
+    <key>equal</key>
+    <string>equal</string>
+    <key>eth</key>
+    <string>eth</string>
+    <key>euro</key>
+    <string>Euro</string>
+    <key>exclam</key>
+    <string>exclam</string>
+    <key>exclamdown</key>
+    <string>exclamdown</string>
+    <key>f</key>
+    <string>f</string>
+    <key>fi</key>
+    <string>fi</string>
+    <key>figuredash</key>
+    <string>figuredash</string>
+    <key>figurespace</key>
+    <string>uni2007</string>
+    <key>five</key>
+    <string>five</string>
+    <key>fl</key>
+    <string>fl</string>
+    <key>florin</key>
+    <string>florin</string>
+    <key>four</key>
+    <string>four</string>
+    <key>fourperemspace</key>
+    <string>uni2005</string>
+    <key>foursuperior</key>
+    <string>uni2074</string>
+    <key>fraction</key>
+    <string>fraction</string>
+    <key>g</key>
+    <string>g.SngBowl</string>
+    <key>germandbls</key>
+    <string>germandbls</string>
+    <key>graphemejoinercomb</key>
+    <string>uni034F</string>
+    <key>grave</key>
+    <string>grave</string>
+    <key>gravecomb</key>
+    <string>gravecomb</string>
+    <key>greater</key>
+    <string>greater</string>
+    <key>greaterequal</key>
+    <string>greaterequal</string>
+    <key>guillemetleft</key>
+    <string>guillemotleft</string>
+    <key>guillemetright</key>
+    <string>guillemotright</string>
+    <key>guilsinglleft</key>
+    <string>guilsinglleft</string>
+    <key>guilsinglright</key>
+    <string>guilsinglright</string>
+    <key>h</key>
+    <string>h</string>
+    <key>hairspace</key>
+    <string>uni200A</string>
+    <key>horizontalbar</key>
+    <string>uni2015</string>
+    <key>hungarumlaut</key>
+    <string>hungarumlaut</string>
+    <key>hyphen</key>
+    <string>hyphen</string>
+    <key>hyphenationpoint</key>
+    <string>uni2027</string>
+    <key>hyphentwo</key>
+    <string>uni2010</string>
+    <key>i</key>
+    <string>i</string>
+    <key>iacute</key>
+    <string>iacute</string>
+    <key>icircumflex</key>
+    <string>icircumflex</string>
+    <key>idieresis</key>
+    <string>idieresis</string>
+    <key>idotless</key>
+    <string>dotlessi</string>
+    <key>igrave</key>
+    <string>igrave</string>
+    <key>infinity</key>
+    <string>infinity</string>
+    <key>integral</key>
+    <string>integral</string>
+    <key>j</key>
+    <string>j</string>
+    <key>k</key>
+    <string>k</string>
+    <key>l</key>
+    <string>l</string>
+    <key>less</key>
+    <string>less</string>
+    <key>lessequal</key>
+    <string>lessequal</string>
+    <key>lineseparator</key>
+    <string>uni2028</string>
+    <key>logicalnot</key>
+    <string>logicalnot</string>
+    <key>lozenge</key>
+    <string>lozenge</string>
+    <key>m</key>
+    <string>m</string>
+    <key>macron</key>
+    <string>macron</string>
+    <key>micro</key>
+    <string>mu</string>
+    <key>minus</key>
+    <string>minus</string>
+    <key>multiply</key>
+    <string>multiply</string>
+    <key>n</key>
+    <string>n</string>
+    <key>narrownbspace</key>
+    <string>uni202F</string>
+    <key>nbspace</key>
+    <string>uni00A0</string>
+    <key>nine</key>
+    <string>nine</string>
+    <key>nonbreakinghyphen</key>
+    <string>uni2011</string>
+    <key>notequal</key>
+    <string>notequal</string>
+    <key>ntilde</key>
+    <string>ntilde</string>
+    <key>numbersign</key>
+    <string>numbersign</string>
+    <key>o</key>
+    <string>o</string>
+    <key>oacute</key>
+    <string>oacute</string>
+    <key>objectReplacementCharacter</key>
+    <string>uniFFFC</string>
+    <key>ocircumflex</key>
+    <string>ocircumflex</string>
+    <key>odieresis</key>
+    <string>odieresis</string>
+    <key>oe</key>
+    <string>oe</string>
+    <key>ogonek</key>
+    <string>ogonek</string>
+    <key>ograve</key>
+    <string>ograve</string>
+    <key>one</key>
+    <string>one</string>
+    <key>onehalf</key>
+    <string>onehalf</string>
+    <key>onequarter</key>
+    <string>onequarter</string>
+    <key>onesuperior</key>
+    <string>onesuperior</string>
+    <key>ordfeminine</key>
+    <string>ordfeminine</string>
+    <key>ordmasculine</key>
+    <string>ordmasculine</string>
+    <key>oslash</key>
+    <string>oslash</string>
+    <key>otilde</key>
+    <string>otilde</string>
+    <key>p</key>
+    <string>p</string>
+    <key>paragraph</key>
+    <string>paragraph</string>
+    <key>paragraphseparator</key>
+    <string>uni2029</string>
+    <key>parenleft</key>
+    <string>parenleft</string>
+    <key>parenright</key>
+    <string>parenright</string>
+    <key>partialdiff</key>
+    <string>partialdiff</string>
+    <key>percent</key>
+    <string>percent</string>
+    <key>period</key>
+    <string>period</string>
+    <key>periodcentered</key>
+    <string>periodcentered</string>
+    <key>perthousand</key>
+    <string>perthousand</string>
+    <key>pi</key>
+    <string>pi</string>
+    <key>plus</key>
+    <string>plus</string>
+    <key>plusminus</key>
+    <string>plusminus</string>
+    <key>product</key>
+    <string>product</string>
+    <key>punctuationspace</key>
+    <string>uni2008</string>
+    <key>q</key>
+    <string>q</string>
+    <key>question</key>
+    <string>question</string>
+    <key>questiondown</key>
+    <string>questiondown</string>
+    <key>quotedbl</key>
+    <string>quotedbl</string>
+    <key>quotedblbase</key>
+    <string>quotedblbase</string>
+    <key>quotedblleft</key>
+    <string>quotedblleft</string>
+    <key>quotedblright</key>
+    <string>quotedblright</string>
+    <key>quoteleft</key>
+    <string>quoteleft</string>
+    <key>quoteright</key>
+    <string>quoteright</string>
+    <key>quotesinglbase</key>
+    <string>quotesinglbase</string>
+    <key>quotesingle</key>
+    <string>quotesingle</string>
+    <key>r</key>
+    <string>r</string>
+    <key>radical</key>
+    <string>radical</string>
+    <key>registered</key>
+    <string>registered</string>
+    <key>replacementCharacter</key>
+    <string>uniFFFD</string>
+    <key>ring</key>
+    <string>ring</string>
+    <key>ringcomb</key>
+    <string>uni030A</string>
+    <key>s</key>
+    <string>s</string>
+    <key>scaron</key>
+    <string>scaron</string>
+    <key>section</key>
+    <string>section</string>
+    <key>semicolon</key>
+    <string>semicolon</string>
+    <key>seven</key>
+    <string>seven</string>
+    <key>six</key>
+    <string>six</string>
+    <key>sixperemspace</key>
+    <string>uni2006</string>
+    <key>slash</key>
+    <string>slash</string>
+    <key>softhyphen</key>
+    <string>uni00AD</string>
+    <key>space</key>
+    <string>space</string>
+    <key>sterling</key>
+    <string>sterling</string>
+    <key>summation</key>
+    <string>summation</string>
+    <key>t</key>
+    <string>t</string>
+    <key>thinspace</key>
+    <string>uni2009</string>
+    <key>thorn</key>
+    <string>thorn</string>
+    <key>three</key>
+    <string>three</string>
+    <key>threeperemspace</key>
+    <string>uni2004</string>
+    <key>threequarters</key>
+    <string>threequarters</string>
+    <key>threesuperior</key>
+    <string>threesuperior</string>
+    <key>tilde</key>
+    <string>tilde</string>
+    <key>tildecomb</key>
+    <string>tildecomb</string>
+    <key>trademark</key>
+    <string>trademark</string>
+    <key>two</key>
+    <string>two</string>
+    <key>twosuperior</key>
+    <string>twosuperior</string>
+    <key>u</key>
+    <string>u</string>
+    <key>uacute</key>
+    <string>uacute</string>
+    <key>ucircumflex</key>
+    <string>ucircumflex</string>
+    <key>udieresis</key>
+    <string>udieresis</string>
+    <key>ugrave</key>
+    <string>ugrave</string>
+    <key>underscore</key>
+    <string>underscore</string>
+    <key>v</key>
+    <string>v</string>
+    <key>w</key>
+    <string>w</string>
+    <key>wordjoiner</key>
     <string>uni2060</string>
-    <key>YenSgn</key>
+    <key>x</key>
+    <string>x</string>
+    <key>y</key>
+    <string>y</string>
+    <key>yacute</key>
+    <string>yacute</string>
+    <key>ydieresis</key>
+    <string>ydieresis</string>
+    <key>yen</key>
     <string>yen</string>
-    <key>ZeroWidthJoiner</key>
-    <string>uni200D</string>
-    <key>ZeroWidthNoBreakSpace</key>
+    <key>z</key>
+    <string>z</string>
+    <key>zcaron</key>
+    <string>zcaron</string>
+    <key>zero</key>
+    <string>zero</string>
+    <key>zeroWidthNoBreakSpace</key>
     <string>uniFEFF</string>
-    <key>ZeroWidthNonJoiner</key>
+    <key>zerowidthjoiner</key>
+    <string>uni200D</string>
+    <key>zerowidthnonjoiner</key>
     <string>uni200C</string>
-    <key>ZeroWidthSpace</key>
+    <key>zerowidthspace</key>
     <string>uni200B</string>
   </dict>
 </dict>
