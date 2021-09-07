@@ -53,6 +53,7 @@ current.fpr
 *.vfbak
 *.~tt
 +.idea/*
+*.glyphs
 
 
 # Shares
