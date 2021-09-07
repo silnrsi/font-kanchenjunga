@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModSmL.TailL" format="2">
-  <advance width="461"/>
-  <anchor x="295" y="615" name="L"/>
-  <anchor x="202" y="1745" name="U"/>
-  <outline>
-    <component base="LtnSmL.TailL" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
-  </outline>
-</glyph>

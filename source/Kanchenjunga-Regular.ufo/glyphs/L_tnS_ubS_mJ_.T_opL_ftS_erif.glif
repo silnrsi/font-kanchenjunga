@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSubSmJ.TopLftSerif" format="2">
-  <advance width="522"/>
-  <anchor x="175" y="-645" name="L"/>
-  <anchor x="335" y="700" name="U"/>
-  <outline>
-    <component base="ModSmJ.TopLftSerif" yOffset="-980"/>
-  </outline>
-</glyph>

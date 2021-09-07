@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModRaisedInvExclamationMrk" format="2">
-  <advance width="570"/>
-  <unicode hex="A71E"/>
-  <outline>
-    <component base="InvExclamationMrk" xScale="0.7" yScale="0.65" xOffset="12" yOffset="680"/>
-  </outline>
-</glyph>
