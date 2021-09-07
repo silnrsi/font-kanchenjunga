@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "-----Fixing FontForge debris and normalizing UFOs..."
+psffixffglifs source/Kanchenjunga-Regular.ufo -p checkfix=fix     &
+psffixffglifs source/Kanchenjunga-Bold.ufo -p checkfix=fix        &
+wait
+
+# Continue with normal preflight
+./preflight
