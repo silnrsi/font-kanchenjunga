@@ -2,9 +2,6 @@
 <glyph name="sa-kirat" format="2">
   <advance width="1430"/>
   <unicode hex="16D5D"/>
-  <anchor x="320" y="0" name="H"/>
-  <anchor x="740" y="-100" name="L"/>
-  <anchor x="725" y="1530" name="U"/>
   <outline>
     <component base="K"/>
   </outline>

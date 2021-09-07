@@ -2,8 +2,6 @@
 <glyph name="five-kirat" format="2">
   <advance width="1200"/>
   <unicode hex="16D75"/>
-  <anchor x="605" y="-100" name="L"/>
-  <anchor x="605" y="1530" name="U"/>
   <outline>
     <component base="zero"/>
   </outline>
