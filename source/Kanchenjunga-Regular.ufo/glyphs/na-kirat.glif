@@ -2,7 +2,6 @@
 <glyph name="na-kirat" format="2">
   <advance width="1685"/>
   <unicode hex="16D53"/>
-  <image fileName="../../../../Desktop/kirat rai character samples/na-3 | Rai textbook sikkim pg52.png" xScale="13.39844" yScale="13.39844" xOffset="-249" yOffset="-577"/>
   <outline>
     <contour>
       <point x="1360" y="0" type="curve"/>
@@ -65,17 +64,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.backgroundImage.alpha</key>
-      <integer>50</integer>
-      <key>com.schriftgestaltung.backgroundImage.crop</key>
-      <array>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-      </array>
-      <key>com.schriftgestaltung.backgroundImage.locked</key>
-      <true/>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>
