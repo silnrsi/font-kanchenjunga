@@ -8,10 +8,10 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3105</string>
+  <string>3106</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/ka-kirat/kha-kirat/a-kirat/aaMatra-kirat/iMatra-kirat EV/ja-kirat/dda-kirat/nga-kirat/ca-kirat/tta-kirat/na-kirat/pa-kirat/ba-kirat/ma-kirat/ra-kirat/la-kirat</string>
+    <string>/ka-kirat/kha-kirat/a-kirat/aaMatra-kirat/iMatra-kirat/bha-kirat/ja-kirat/dda-kirat/da-kirat/nga-kirat/ca-kirat/tta-kirat/na-kirat/pa-kirat/pha-kirat/ba-kirat/ma-kirat/ra-kirat/la-kirat/va-kirat/ttha-kirat</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
