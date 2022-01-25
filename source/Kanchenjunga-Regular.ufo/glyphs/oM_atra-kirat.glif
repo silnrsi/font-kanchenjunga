@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oMatra-kirat" format="2">
-  <advance width="1310"/>
+  <advance width="1295"/>
   <unicode hex="16D66"/>
   <outline>
-    <component base="K"/>
+    <component base="aaMatra-kirat"/>
+    <component base="eMatra-kirat" xOffset="340"/>
   </outline>
   <lib>
     <dict>

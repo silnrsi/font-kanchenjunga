@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ga-kirat" format="2">
-  <advance width="1310"/>
+  <advance width="1738"/>
   <unicode hex="16D43"/>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="214" y="1359" type="line"/>
+      <point x="401" y="1546"/>
+      <point x="1130" y="1637"/>
+      <point x="1130" y="742" type="curve" smooth="yes"/>
+      <point x="1130" y="208"/>
+      <point x="896" y="-16"/>
+      <point x="576" y="-16" type="curve" smooth="yes"/>
+      <point x="330" y="-16"/>
+      <point x="139" y="118"/>
+      <point x="100" y="392" type="curve"/>
+      <point x="273" y="445" type="line"/>
+      <point x="306" y="247"/>
+      <point x="411" y="170"/>
+      <point x="578" y="170" type="curve" smooth="yes"/>
+      <point x="790" y="170"/>
+      <point x="943" y="312"/>
+      <point x="943" y="741" type="curve" smooth="yes"/>
+      <point x="943" y="1401"/>
+      <point x="477" y="1360"/>
+      <point x="320" y="1216" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1633" y="280"/>
+      <point x="1613" y="77"/>
+      <point x="1638" y="0" type="curve"/>
+      <point x="1448" y="0" type="line"/>
+      <point x="1433" y="56"/>
+      <point x="1449" y="274"/>
+      <point x="1449" y="558" type="curve" smooth="yes"/>
+      <point x="1449" y="721"/>
+      <point x="1380" y="787"/>
+      <point x="1302" y="787" type="curve" smooth="yes"/>
+      <point x="1237" y="787"/>
+      <point x="1167" y="742"/>
+      <point x="1126" y="633" type="curve"/>
+      <point x="1036" y="808" type="line"/>
+      <point x="1083" y="912"/>
+      <point x="1205" y="970"/>
+      <point x="1320" y="970" type="curve" smooth="yes"/>
+      <point x="1479" y="970"/>
+      <point x="1633" y="858"/>
+      <point x="1633" y="620" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

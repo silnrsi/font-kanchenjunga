@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="halant-kirat" format="2">
-  <advance width="1310"/>
+  <advance width="695"/>
   <unicode hex="16D68"/>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="50" y="185" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="645" y="185" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

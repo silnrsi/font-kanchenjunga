@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kanchenjunga</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/12/16 10:58:03</string>
+  <string>2022/01/25 13:13:22</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -23,7 +23,7 @@
   <key>openTypeNameDescription</key>
   <string>Font family for the Kirat Rai script</string>
   <key>openTypeNameDesigner</key>
-  <string>Becca Hirsbrunner</string>
+  <string>Becca Hirsbrunner Spalinger</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://software.sil.org/</string>
   <key>openTypeNameLicense</key>
@@ -81,7 +81,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Kanchenjunga Bold: 2021</string>
+  <string>SIL International: Kanchenjunga Bold: 2022</string>
   <key>openTypeNameVersion</key>
   <string>Version 0.100</string>
   <key>openTypeOS2CodePageRanges</key>
