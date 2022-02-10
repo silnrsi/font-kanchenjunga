@@ -11,10 +11,10 @@
   <string>3112</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/ka-kirat/kha-kirat/ma-kirat/jha-kirat/nya-kirat/ta-kirat/ya-kirat 
-/a-kirat/ueMatra-kirat/a-kirat/uMatra-kirat/a-kirat/halant-kirat/a-kirat/tonpi-kirat/a-kirat/yupi-kirat/a-kirat/visarga-kirat 
-/a-kirat/auMatra-kirat/a-kirat/eMatra-kirat/a-kirat/aiMatra-kirat/a-kirat/oMatra-kirat/a-kirat/aaMatra-kirat/a-kirat/iMatra-kirat/bha-kirat/ga-kirat/ja-kirat/dda-kirat/tha-kirat/da-kirat/nga-kirat/ca-kirat/tta-kirat 
-/na-kirat/pa-kirat/pha-kirat/ba-kirat/ma-kirat/ra-kirat/la-kirat/cha-kirat/va-kirat/ttha-kirat</string>
+    <string>/ka-kirat/kha-kirat/ma-kirat/jha-kirat/nya-kirat/ta-kirat/jha-kirat/ya-kirat/sha-kirat 
+/a-kirat/ueMatra-kirat/a-kirat/uMatra-kirat/a-kirat/halant-kirat/a-kirat/tonpi-kirat/a-kirat/saat-kirat/yupi-kirat/a-kirat/visarga-kirat/anusvara-kirat/danda-kirat/a-kirat/danda-kirat/doubleDanda-kirat// 
+/a-kirat/auMatra-kirat/a-kirat/eMatra-kirat/a-kirat/aiMatra-kirat/a-kirat/oMatra-kirat/a-kirat/aaMatra-kirat/a-kirat/iMatra-kirat/bha-kirat/ga-kirat/ja-kirat/dda-kirat/tha-kirat/gha-kirat/cha-kirat/da-kirat/nga-kirat/ca-kirat/tta-kirat 
+/na-kirat/pa-kirat/pha-kirat/ba-kirat/sa-kirat/ma-kirat/ra-kirat/la-kirat/cha-kirat/va-kirat/ttha-kirat</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

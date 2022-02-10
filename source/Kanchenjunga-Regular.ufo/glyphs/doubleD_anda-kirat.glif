@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="doubleDanda-kirat" format="2">
-  <advance width="1310"/>
+  <advance width="1156"/>
   <unicode hex="16D6F"/>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="650" y="1485" type="line"/>
+      <point x="440" y="968"/>
+      <point x="245" y="517"/>
+      <point x="10" y="0" type="curve"/>
+      <point x="196" y="0" type="line"/>
+      <point x="416" y="517"/>
+      <point x="611" y="968"/>
+      <point x="836" y="1485" type="curve"/>
+    </contour>
+    <contour>
+      <point x="960" y="1485" type="line"/>
+      <point x="750" y="968"/>
+      <point x="555" y="517"/>
+      <point x="320" y="0" type="curve"/>
+      <point x="506" y="0" type="line"/>
+      <point x="726" y="517"/>
+      <point x="921" y="968"/>
+      <point x="1146" y="1485" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
