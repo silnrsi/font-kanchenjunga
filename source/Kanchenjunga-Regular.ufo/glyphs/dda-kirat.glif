@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dda-kirat" format="2">
   <advance width="1392"/>
-  <unicode hex="16D4D"/>
+  <unicode hex="16D50"/>
   <outline>
     <contour>
       <point x="0" y="457" type="curve"/>

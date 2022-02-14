@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uMatra-kirat" format="2">
   <advance width="1350"/>
-  <unicode hex="16D62"/>
+  <unicode hex="16D65"/>
   <outline>
     <contour>
       <point x="1266" y="-2" type="curve"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="auMatra-kirat" format="2">
   <advance width="1900"/>
-  <unicode hex="16D67"/>
+  <unicode hex="16D6A"/>
   <outline>
     <component base="aaMatra-kirat"/>
     <component base="aiMatra-kirat" xOffset="310"/>

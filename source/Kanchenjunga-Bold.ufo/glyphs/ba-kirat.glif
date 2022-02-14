@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ba-kirat" format="2">
   <advance width="1430"/>
-  <unicode hex="16D56"/>
+  <unicode hex="16D59"/>
   <outline>
     <component base="K"/>
   </outline>

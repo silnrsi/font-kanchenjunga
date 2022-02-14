@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ma-kirat" format="2">
   <advance width="1720"/>
-  <unicode hex="16D58"/>
+  <unicode hex="16D5B"/>
   <outline>
     <contour>
       <point x="1154" y="720" type="curve" smooth="yes"/>

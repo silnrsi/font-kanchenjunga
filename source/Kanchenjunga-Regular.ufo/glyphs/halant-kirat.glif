@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="halant-kirat" format="2">
   <advance width="695"/>
-  <unicode hex="16D68"/>
+  <unicode hex="16D6B"/>
   <outline>
     <contour>
       <point x="50" y="185" type="line"/>

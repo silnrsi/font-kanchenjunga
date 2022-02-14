@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonpi-kirat" format="2">
   <advance width="695"/>
-  <unicode hex="16D6A"/>
+  <unicode hex="16D41"/>
   <outline>
     <component base="yupi-kirat" yOffset="915"/>
     <component base="halant-kirat"/>

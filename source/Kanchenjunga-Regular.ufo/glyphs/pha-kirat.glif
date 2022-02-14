@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pha-kirat" format="2">
   <advance width="1536"/>
-  <unicode hex="16D55"/>
+  <unicode hex="16D58"/>
   <outline>
     <contour>
       <point x="1022" y="815" type="curve"/>

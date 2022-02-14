@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="la-kirat" format="2">
   <advance width="1587"/>
-  <unicode hex="16D5B"/>
+  <unicode hex="16D5E"/>
   <outline>
     <contour>
       <point x="624" y="1206" type="curve" smooth="yes"/>

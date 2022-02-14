@@ -470,41 +470,41 @@
     <key>VS9</key>
     <string>uniFE08</string>
     <key>a-kirat</key>
-    <string>u16D40</string>
+    <string>u16D43</string>
     <key>aaMatra-kirat</key>
-    <string>u16D60</string>
+    <string>u16D63</string>
     <key>aiMatra-kirat</key>
-    <string>u16D65</string>
+    <string>u16D68</string>
     <key>anusvara-kirat</key>
-    <string>u16D69</string>
+    <string>u16D40</string>
     <key>auMatra-kirat</key>
-    <string>u16D67</string>
+    <string>u16D6A</string>
     <key>ba-kirat</key>
-    <string>u16D56</string>
+    <string>u16D59</string>
     <key>bha-kirat</key>
-    <string>u16D57</string>
+    <string>u16D5A</string>
     <key>bulletoperator</key>
     <string>uni2219</string>
     <key>ca-kirat</key>
-    <string>u16D46</string>
+    <string>u16D49</string>
     <key>caroncomb</key>
     <string>uni030C</string>
     <key>cedillacomb</key>
     <string>uni0327</string>
     <key>cha-kirat</key>
-    <string>u16D47</string>
+    <string>u16D4A</string>
     <key>circumflexcomb</key>
     <string>uni0302</string>
     <key>da-kirat</key>
-    <string>u16D51</string>
+    <string>u16D54</string>
     <key>danda-kirat</key>
     <string>u16D6E</string>
     <key>dda-kirat</key>
-    <string>u16D4D</string>
+    <string>u16D50</string>
     <key>ddha-kirat</key>
-    <string>u16D4E</string>
+    <string>u16D51</string>
     <key>dha-kirat</key>
-    <string>u16D52</string>
+    <string>u16D55</string>
     <key>dieresiscomb</key>
     <string>uni0308</string>
     <key>divisionslash</key>
@@ -514,7 +514,7 @@
     <key>doubleDanda-kirat</key>
     <string>u16D6F</string>
     <key>eMatra-kirat</key>
-    <string>u16D64</string>
+    <string>u16D67</string>
     <key>eight-kirat</key>
     <string>u16D78</string>
     <key>emquad</key>
@@ -538,9 +538,9 @@
     <key>foursuperior</key>
     <string>uni2074</string>
     <key>ga-kirat</key>
-    <string>u16D43</string>
+    <string>u16D46</string>
     <key>gha-kirat</key>
-    <string>u16D44</string>
+    <string>u16D47</string>
     <key>graphemejoinercomb</key>
     <string>uni034F</string>
     <key>guillemetleft</key>
@@ -548,11 +548,11 @@
     <key>guillemetright</key>
     <string>guillemotright</string>
     <key>ha-kirat</key>
-    <string>u16D5F</string>
+    <string>u16D62</string>
     <key>hairspace</key>
     <string>uni200A</string>
     <key>halant-kirat</key>
-    <string>u16D68</string>
+    <string>u16D6B</string>
     <key>horizontalbar</key>
     <string>uni2015</string>
     <key>hyphenationpoint</key>
@@ -560,67 +560,67 @@
     <key>hyphentwo</key>
     <string>uni2010</string>
     <key>iMatra-kirat</key>
-    <string>u16D61</string>
+    <string>u16D64</string>
     <key>idotless</key>
     <string>dotlessi</string>
     <key>ja-kirat</key>
-    <string>u16D48</string>
+    <string>u16D4B</string>
     <key>jha-kirat</key>
-    <string>u16D49</string>
+    <string>u16D4C</string>
     <key>ka-kirat</key>
-    <string>u16D41</string>
+    <string>u16D44</string>
     <key>kha-kirat</key>
-    <string>u16D42</string>
+    <string>u16D45</string>
     <key>la-kirat</key>
-    <string>u16D5B</string>
+    <string>u16D5E</string>
     <key>lineseparator</key>
     <string>uni2028</string>
     <key>ma-kirat</key>
-    <string>u16D58</string>
+    <string>u16D5B</string>
     <key>micro</key>
     <string>uni00B5</string>
     <key>na-kirat</key>
-    <string>u16D53</string>
+    <string>u16D56</string>
     <key>narrownbspace</key>
     <string>uni202F</string>
     <key>nbspace</key>
     <string>uni00A0</string>
     <key>nga-kirat</key>
-    <string>u16D45</string>
+    <string>u16D48</string>
     <key>nine-kirat</key>
     <string>u16D79</string>
     <key>nonbreakinghyphen</key>
     <string>uni2011</string>
     <key>nya-kirat</key>
-    <string>u16D4A</string>
+    <string>u16D4D</string>
     <key>oMatra-kirat</key>
-    <string>u16D66</string>
+    <string>u16D69</string>
     <key>objectReplacementCharacter</key>
     <string>uniFFFC</string>
     <key>one-kirat</key>
     <string>u16D71</string>
     <key>pa-kirat</key>
-    <string>u16D54</string>
+    <string>u16D57</string>
     <key>paragraphseparator</key>
     <string>uni2029</string>
     <key>pha-kirat</key>
-    <string>u16D55</string>
+    <string>u16D58</string>
     <key>punctuationspace</key>
     <string>uni2008</string>
     <key>ra-kirat</key>
-    <string>u16D5A</string>
+    <string>u16D5D</string>
     <key>replacementCharacter</key>
     <string>uniFFFD</string>
     <key>ringcomb</key>
     <string>uni030A</string>
     <key>sa-kirat</key>
-    <string>u16D5D</string>
+    <string>u16D60</string>
     <key>saat-kirat</key>
     <string>u16D6C</string>
     <key>seven-kirat</key>
     <string>u16D77</string>
     <key>sha-kirat</key>
-    <string>u16D5E</string>
+    <string>u16D61</string>
     <key>six-kirat</key>
     <string>u16D76</string>
     <key>sixperemspace</key>
@@ -628,9 +628,9 @@
     <key>softhyphen</key>
     <string>uni00AD</string>
     <key>ta-kirat</key>
-    <string>u16D4F</string>
+    <string>u16D452</string>
     <key>tha-kirat</key>
-    <string>u16D50</string>
+    <string>u16D53</string>
     <key>thinspace</key>
     <string>uni2009</string>
     <key>three-kirat</key>
@@ -638,25 +638,25 @@
     <key>threeperemspace</key>
     <string>uni2004</string>
     <key>tonpi-kirat</key>
-    <string>u16D6A</string>
+    <string>u16D41</string>
     <key>tta-kirat</key>
-    <string>u16D4B</string>
+    <string>u16D4E</string>
     <key>ttha-kirat</key>
-    <string>u16D4C</string>
+    <string>u16D4F</string>
     <key>two-kirat</key>
     <string>u16D72</string>
     <key>uMatra-kirat</key>
-    <string>u16D62</string>
+    <string>u16D65</string>
     <key>ueMatra-kirat</key>
-    <string>u16D63</string>
+    <string>u16D66</string>
     <key>va-kirat</key>
-    <string>u16D5C</string>
+    <string>u16D5F</string>
     <key>visarga-kirat</key>
-    <string>u16D6B</string>
+    <string>u16D42</string>
     <key>wordjoiner</key>
     <string>uni2060</string>
     <key>ya-kirat</key>
-    <string>u16D59</string>
+    <string>u16D5C</string>
     <key>yupi-kirat</key>
     <string>u16D6D</string>
     <key>zero-kirat</key>

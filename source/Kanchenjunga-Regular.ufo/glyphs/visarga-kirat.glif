@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="visarga-kirat" format="2">
   <advance width="655"/>
-  <unicode hex="16D6B"/>
+  <unicode hex="16D42"/>
   <outline>
     <component base="yupi-kirat" yOffset="915"/>
     <component base="yupi-kirat"/>

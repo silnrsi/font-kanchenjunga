@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iMatra-kirat" format="2">
   <advance width="931"/>
-  <unicode hex="16D61"/>
+  <unicode hex="16D64"/>
   <outline>
     <contour>
       <point x="84" y="0" type="line"/>
