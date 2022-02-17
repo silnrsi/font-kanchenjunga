@@ -236,6 +236,8 @@
   <string>c.glif</string>
   <key>ca-kirat</key>
   <string>ca-kirat.glif</string>
+  <key>ca-kirat.alt</key>
+  <string>ca-kirat.alt.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
   <key>caroncomb</key>
@@ -392,6 +394,8 @@
   <string>h.glif</string>
   <key>ha-kirat</key>
   <string>ha-kirat.glif</string>
+  <key>ha-kirat.alt</key>
+  <string>ha-kirat.alt.glif</string>
   <key>hairspace</key>
   <string>hairspace.glif</string>
   <key>halant-kirat</key>
@@ -454,6 +458,8 @@
   <string>m.glif</string>
   <key>ma-kirat</key>
   <string>ma-kirat.glif</string>
+  <key>ma-kirat.alt</key>
+  <string>ma-kirat.alt.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
   <key>micro</key>
@@ -630,6 +636,8 @@
   <string>t.glif</string>
   <key>ta-kirat</key>
   <string>ta-kirat.glif</string>
+  <key>ta-kirat.alt</key>
+  <string>ta-kirat.alt.glif</string>
   <key>tha-kirat</key>
   <string>tha-kirat.glif</string>
   <key>thinspace</key>

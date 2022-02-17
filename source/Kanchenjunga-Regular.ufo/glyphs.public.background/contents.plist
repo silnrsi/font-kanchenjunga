@@ -6,8 +6,14 @@
   <string>dda-kirat.glif</string>
   <key>gha-kirat</key>
   <string>gha-kirat.glif</string>
+  <key>ha-kirat.alt</key>
+  <string>ha-kirat.alt.glif</string>
   <key>ma-kirat</key>
   <string>ma-kirat.glif</string>
+  <key>ma-kirat.alt</key>
+  <string>ma-kirat.alt.glif</string>
+  <key>na-kirat</key>
+  <string>na-kirat.glif</string>
   <key>nga-kirat</key>
   <string>nga-kirat.glif</string>
   <key>va-kirat</key>

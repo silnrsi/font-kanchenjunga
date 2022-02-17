@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ta-kirat.alt" format="2">
+  <advance width="1288"/>
+  <unicode hex="E052"/>
+  <outline>
+    <contour>
+      <point x="167" y="1171" type="line"/>
+      <point x="204" y="931"/>
+      <point x="536" y="982"/>
+      <point x="1101" y="1287" type="curve"/>
+      <point x="998" y="1349" type="line"/>
+      <point x="1015" y="753"/>
+      <point x="1030" y="550"/>
+      <point x="1021" y="0" type="curve"/>
+      <point x="1208" y="0" type="line"/>
+      <point x="1176" y="1433" type="line"/>
+      <point x="1090" y="1488" type="line"/>
+      <point x="308" y="1079"/>
+      <point x="305" y="1199"/>
+      <point x="212" y="1355" type="curve"/>
+      <point x="50" y="1252" type="line"/>
+      <point x="187" y="783"/>
+      <point x="270" y="413"/>
+      <point x="425" y="0" type="curve"/>
+      <point x="628" y="1" type="line"/>
+      <point x="360" y="703"/>
+      <point x="335" y="992"/>
+      <point x="242" y="1255" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
