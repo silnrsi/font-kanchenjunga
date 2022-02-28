@@ -8,10 +8,10 @@
       <point x="440" y="968"/>
       <point x="245" y="517"/>
       <point x="10" y="0" type="curve"/>
-      <point x="196" y="0" type="line"/>
-      <point x="416" y="517"/>
-      <point x="611" y="968"/>
-      <point x="836" y="1485" type="curve"/>
+      <point x="213" y="0" type="line"/>
+      <point x="433" y="517"/>
+      <point x="628" y="968"/>
+      <point x="853" y="1485" type="curve"/>
     </contour>
   </outline>
   <lib>
