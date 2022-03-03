@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3114</string>
+  <string>3115</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/a-kirat/kha-kirat/ma-kirat.alt/ma-kirat/jha-kirat/nya-kirat 
@@ -17,7 +17,7 @@
 /a-kirat/auMatra-kirat/a-kirat/eMatra-kirat/a-kirat/aiMatra-kirat/a-kirat/oMatra-kirat/a-kirat/aaMatra-kirat/a-kirat/iMatra-kirat/bha-kirat/ga-kirat/ja-kirat/dda-kirat/ddha-kirat/ha-kirat/ha-kirat.alt/tha-kirat/gha-kirat/cha-kirat/da-kirat/nga-kirat 
 /ca-kirat/tta-kirat/tha-kirat/na-kirat/ra-kirat/pa-kirat/pha-kirat/ba-kirat/ka-kirat/dha-kirat/sa-kirat/ma-kirat 
 /ra-kirat/la-kirat/cha-kirat/va-kirat/ttha-kirat</string>
-    <string>03/zero-kirat/one-kirat/two-kirat/nga-kirat/three-kirat/four-kirat/five-kirat/six-kirat/seven-kirat/eight-kirat/nine-kirat</string>
+    <string>0/nga-kirat 3/zero-kirat/one-kirat/two-kirat/three-kirat/four-kirat/five-kirat/six-kirat/seven-kirat/eight-kirat/one-kirat/nine-kirat</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
