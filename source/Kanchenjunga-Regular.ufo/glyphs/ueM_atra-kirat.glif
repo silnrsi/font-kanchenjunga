@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ueMatra-kirat" format="2">
-  <advance width="1599"/>
+  <advance width="1649"/>
   <unicode hex="16D66"/>
   <outline>
     <component base="uMatra-kirat"/>
