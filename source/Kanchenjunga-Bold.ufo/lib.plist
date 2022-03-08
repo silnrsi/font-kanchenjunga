@@ -18,7 +18,8 @@
 /ca-kirat/tta-kirat/tha-kirat/na-kirat/ra-kirat/pa-kirat/pha-kirat/ba-kirat/ka-kirat/dha-kirat/sa-kirat/ma-kirat 
 /ra-kirat/la-kirat/cha-kirat/va-kirat/ttha-kirat</string>
     <string>0/nga-kirat 3/zero-kirat/one-kirat/two-kirat/three-kirat/four-kirat/five-kirat/six-kirat/seven-kirat/eight-kirat/one-kirat/nine-kirat</string>
-    <string>/a-kirat/ka-kirat/kha-kirat/ga-kirat/gha-kirat/nga-kirat/ca-kirat/cha-kirat/ja-kirat/jha-kirat/nya-kirat/tta-kirat/ttha-kirat/dda-kirat/ddha-kirat/ta-kirat/tha-kirat/da-kirat/dha-kirat/na-kirat/pa-kirat/pha-kirat/ba-kirat/bha-kirat/ma-kirat/ya-kirat/ra-kirat/la-kirat/va-kirat/sa-kirat/sha-kirat/ha-kirat/aaMatra-kirat/eMatra-kirat/iMatra-kirat/uMatra-kirat/ueMatra-kirat/eMatra-kirat/aiMatra-kirat/oMatra-kirat/auMatra-kirat</string>
+    <string>/a-kirat/ka-kirat/kha-kirat/ga-kirat/gha-kirat/nga-kirat/ca-kirat/cha-kirat/ja-kirat/jha-kirat/nya-kirat/tta-kirat/ttha-kirat/dda-kirat/ddha-kirat/ta-kirat/tha-kirat/da-kirat/dha-kirat/na-kirat/pa-kirat/pha-kirat/ba-kirat/bha-kirat/ma-kirat/ya-kirat/ra-kirat/la-kirat/va-kirat/sa-kirat/dda-kirat/sha-kirat/ha-kirat/aaMatra-kirat/eMatra-kirat/iMatra-kirat/uMatra-kirat/ueMatra-kirat/eMatra-kirat/aiMatra-kirat/oMatra-kirat/auMatra-kirat</string>
+    <string>/ca-kirat/ma-kirat/ca-kirat.alt/ma-kirat.alt</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
