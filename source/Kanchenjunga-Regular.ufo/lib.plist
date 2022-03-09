@@ -18,8 +18,18 @@
 /ca-kirat/tta-kirat/tha-kirat/na-kirat/ra-kirat/pa-kirat/pha-kirat/ba-kirat/ka-kirat/dha-kirat/sa-kirat/ma-kirat 
 /ra-kirat/la-kirat/cha-kirat/va-kirat/ttha-kirat</string>
     <string>0/nga-kirat 3/zero-kirat/one-kirat/two-kirat/three-kirat/four-kirat/five-kirat/six-kirat/seven-kirat/eight-kirat/one-kirat/nine-kirat</string>
-    <string>/a-kirat/ka-kirat/kha-kirat/ga-kirat/gha-kirat/nga-kirat/ca-kirat/cha-kirat/ja-kirat/jha-kirat/nya-kirat/tta-kirat/ttha-kirat/dda-kirat/ddha-kirat/ta-kirat/tha-kirat/da-kirat/dha-kirat/na-kirat/pa-kirat/pha-kirat/ba-kirat/bha-kirat/ma-kirat/ya-kirat/ra-kirat/la-kirat/va-kirat/sa-kirat/dda-kirat/sha-kirat/ha-kirat/aaMatra-kirat/eMatra-kirat/iMatra-kirat/uMatra-kirat/ueMatra-kirat/eMatra-kirat/aiMatra-kirat/oMatra-kirat/auMatra-kirat</string>
+    <string>/iMatra-kirat/a-kirat/iMatra-kirat/ka-kirat/iMatra-kirat/kha-kirat/iMatra-kirat/ga-kirat/iMatra-kirat/gha-kirat/iMatra-kirat/nga-kirat/iMatra-kirat 
+/iMatra-kirat/ca-kirat/iMatra-kirat/cha-kirat/iMatra-kirat/ja-kirat/iMatra-kirat/jha-kirat/iMatra-kirat/nya-kirat/iMatra-kirat/tta-kirat/iMatra-kirat/iMatra-kirat/iMatra-kirat/ttha-kirat/iMatra-kirat/dda-kirat/iMatra-kirat/ddha-kirat/iMatra-kirat/ta-kirat/iMatra-kirat/tha-kirat/iMatra-kirat/da-kirat/iMatra-kirat/halant-kirat 
+/iMatra-kirat/dha-kirat/iMatra-kirat/na-kirat/iMatra-kirat/pa-kirat/iMatra-kirat/pha-kirat/iMatra-kirat/ba-kirat/iMatra-kirat/bha-kirat/iMatra-kirat 
+/iMatra-kirat/ma-kirat.alt/iMatra-kirat/ya-kirat/iMatra-kirat/ra-kirat/iMatra-kirat/la-kirat/iMatra-kirat/va-kirat/iMatra-kirat/sa-kirat/iMatra-kirat 
+/iMatra-kirat/dda-kirat/iMatra-kirat/sha-kirat/aaMatra-kirat/iMatra-kirat/ha-kirat/iMatra-kirat/aaMatra-kirat/iMatra-kirat/eMatra-kirat/iMatra-kirat/iMatra-kirat/uMatra-kirat/iMatra-kirat 
+/iMatra-kirat/ueMatra-kirat/iMatra-kirat/eMatra-kirat/iMatra-kirat/aiMatra-kirat/iMatra-kirat/oMatra-kirat/iMatra-kirat/auMatra-kirat/iMatra-kirat</string>
     <string>/ca-kirat/ma-kirat/ca-kirat.alt/ma-kirat.alt</string>
+    <string>/ka-kirat/cha-kirat/ta-kirat/na-kirat/pa-kirat/ma-kirat/ya-kirat/sa-kirat 
+/iMatra-kirat/ma-kirat/space/space/iMatra-kirat/ta-kirat/space/space/iMatra-kirat/na-kirat/space/space/uMatra-kirat/ma-kirat 
+/iMatra-kirat/cha-kirat/space/space/ka-kirat/ta-kirat 
+
+</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
