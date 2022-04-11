@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>1485</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2021 SIL International</string>
+  <string>Copyright (c) 2021-2022 SIL International</string>
   <key>descender</key>
   <integer>-800</integer>
   <key>familyName</key>
   <string>Kanchenjunga</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/04/05 11:22:56</string>
+  <string>2022/04/11 15:34:52</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>http://software.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2021 SIL International (http://www.sil.org/) with Reserved Font Names "Kanchenjunga", "Andika", and "SIL".
+  <string>Copyright (c) 2021-2022 SIL International (http://www.sil.org/) with Reserved Font Names "Kanchenjunga", "Andika", and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Kanchenjunga Regular: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 0.100</string>
+  <string>Version 0.200</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -243,7 +243,46 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>100</integer>
+  <integer>200</integer>
+  <key>woffMetadataCredits</key>
+  <dict>
+    <key>credits</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Becca Spalinger</string>
+        <key>role</key>
+        <string>Font design</string>
+        <key>url</key>
+        <string>https://software.sil.org/kanchenjunga</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Lorna Evans</string>
+        <key>role</key>
+        <string>Font production</string>
+        <key>url</key>
+        <string>https://software.sil.org/kanchenjunga</string>
+      </dict>
+    </array>
+  </dict>
+  <key>woffMetadataDescription</key>
+  <dict>
+    <key>text</key>
+    <array>
+      <dict>
+        <key>text</key>
+        <string>Kanchenjunga is a font family for the Kirat Rai script of South Asia. It is named after the third highest mountain in the world.
+
+_Please note that this font is not yet encoded according to The Unicode Standard, as the Kirat Rai script has not yet been accepted into the standard. The letters are currently given temporary assignments while encoding proposals are in process. Once the script is accepted into Unicode the encoding assignments may change._
+
+_This font should be considered a work in progress. Glyphs shapes and metrics may change considerably prior to a final Unicode release._
+</string>
+      </dict>
+    </array>
+    <key>url</key>
+    <string>https://software.sil.org/kanchenjunga/</string>
+  </dict>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>

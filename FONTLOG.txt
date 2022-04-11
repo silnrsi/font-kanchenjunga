@@ -22,6 +22,9 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+29 Apr 2022 (SIL) Kanchenjunga Test A version 0.200
+- All Kirat Rai characters were added
+
 7 Sep 2021 (SIL) Kanchenjunga Test A version 0.100
 - New public repository and open source build workflow
 - Latin glyphs imported from the Andika project
@@ -33,10 +36,15 @@ Acknowledgements
 be sure to add your name (N), email (E), web-address (W) and description
 (D). This list is sorted by last name in alphabetical order.)
 
-N: SIL font designers and engineers
+N: Becca Spalinger
 E: fonts@sil.org
-W: https://software.sil.org/
-D: Font design, engineering, and production
+W: https://software.sil.org/kanchenjunga
+D: Font design
+
+N: Lorna Evans
+E: fonts@sil.org
+W: https://software.sil.org/kanchenjunga
+D: Font production
 
 
 The Kanchenjunga project is maintained by SIL International.

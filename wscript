@@ -19,9 +19,7 @@ getufoinfo('source/' + FAMILY + '-Regular' + '.ufo')
 designspace('source/' + FAMILY + '.designspace',
     target = "${DS:FILENAME_BASE}.ttf",
 #    opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/features.feax", to_ufo = 'True'),
-#    woff = woff('web/${DS:FILENAME_BASE}.woff',
-#        metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
-#        cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'
-#        ),
+                woff = woff('web/${DS:FILENAME_BASE}.woff',
+                    metadata=f'../source/{FAMILY}-WOFF-metadata.xml'),
     pdf = fret(params='-oi')
 )
