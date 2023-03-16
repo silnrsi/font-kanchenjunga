@@ -1,13 +1,9 @@
----
-title: Kanchenjunga - Support
-fontversion: 1.000
----
 
 ## Support options
 
 As this font is distributed at no cost, we are unable to provide a commercial level of personal technical support. We will, however, try to resolve problems that are reported to us.
 
-Before requesting technical support, please **carefully read all the documentation included with the fonts and linked pages on the web site**. The [Resources page](resources.md) is a good place to begin.
+Before requesting technical support, please **carefully read all the documentation included with the fonts and linked pages on the web site**. The [Resources page](resources) is a good place to begin.
 
 ## Language Software Community
 

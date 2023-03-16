@@ -1,7 +1,3 @@
----
-title: Kanchenjunga - Type Sample
-fontversion: 1.000
----
 
 This document demonstrates all of the characters in the font. It is organized by Unicode block. At the end is a sample demonstrating Kirat Rai in a sample of running text.
 
@@ -74,8 +70,6 @@ Regular:<span dir="ltr" class='Kanchenjunga-R normal'> &#x16D40; &#x16D41; &#x16
 </span>
 
 
-<!-- PRODUCT SITE ONLY
 [font id='Kanchenjunga' face='Kanchenjunga-Regular' size='150%']
--->
 
 

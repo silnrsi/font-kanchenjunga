@@ -1,7 +1,3 @@
----
-title: Kanchenjunga - Version History
-fontversion: 1.000
----
 
 ### 2023-04-xx (WSTech team) Kanchenjunga Version 1.000 
 - Official release using provisional codepoints

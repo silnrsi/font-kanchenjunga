@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>250</fontscale>
+    <fontsrc label="Kan (inst)">local(Kanchenjunga)</fontsrc>
+    <fontsrc label="1.0">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+    <styles/>
+    <title>AllChars</title>
+  </head>
+  <testgroup label="Encoded characters">
+    <test label="U+0020">
+      <comment>space</comment>
+      <string>\u00F130 \u00F131 ! " # $ % &amp; '</string>
+    </test>
+    <test label="U+0028">
+      <comment>parenleft</comment>
+      <string>( )</string>
+    </test>
+    <test label="U+002A">
+      <comment>asterisk</comment>
+      <string>* + , - . /</string>
+    </test>
+    <test label="U+0030">
+      <comment>zero</comment>
+      <string>0</string>
+    </test>
+    <test label="U+0031">
+      <comment>one</comment>
+      <string>1</string>
+    </test>
+    <test label="U+0032">
+      <comment>two</comment>
+      <string>2</string>
+    </test>
+    <test label="U+0033">
+      <comment>three</comment>
+      <string>3</string>
+    </test>
+    <test label="U+0034">
+      <comment>four</comment>
+      <string>4</string>
+    </test>
+    <test label="U+0035">
+      <comment>five</comment>
+      <string>5</string>
+    </test>
+    <test label="U+0036">
+      <comment>six</comment>
+      <string>6</string>
+    </test>
+    <test label="U+0037">
+      <comment>seven</comment>
+      <string>7</string>
+    </test>
+    <test label="U+0038">
+      <comment>eight</comment>
+      <string>8</string>
+    </test>
+    <test label="U+0039">
+      <comment>nine</comment>
+      <string>9</string>
+    </test>
+    <test label="U+003A">
+      <comment>colon</comment>
+      <string>: ;</string>
+    </test>
+    <test label="U+003C">
+      <comment>less</comment>
+      <string>&lt; = &gt;</string>
+    </test>
+    <test label="U+003F">
+      <comment>question</comment>
+      <string>? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</string>
+    </test>
+    <test label="U+005B">
+      <comment>bracketleft</comment>
+      <string>[ \ ]</string>
+    </test>
+    <test label="U+005E">
+      <comment>asciicircum</comment>
+      <string>^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z</string>
+    </test>
+    <test label="U+007B">
+      <comment>braceleft</comment>
+      <string>{ | }</string>
+    </test>
+    <test label="U+007E">
+      <comment>asciitilde</comment>
+      <string>~</string>
+    </test>
+    <test label="U+00A0">
+      <comment>nbspace</comment>
+      <string>\u00F130\u0000A0\u00F131 \u0000A1 \u0000A2 \u0000A3 \u0000A4 \u0000A5 \u0000A6 \u0000A7 \u0000A8 \u0000A9 \u0000AA</string>
+    </test>
+    <test label="U+00AB">
+      <comment>guillemetleft</comment>
+      <string>\u0000AB </string>
+    </test>
+    <test label="U+00AC">
+      <comment>logicalnot</comment>
+      <string>\u0000AC \u0000AD \u0000AE \u0000AF \u0000B0 \u0000B1 \u0000B2 \u0000B3 \u0000B4 \u0000B5 \u0000B6 \u0000B7 \u0000B8 \u0000B9 \u0000BA</string>
+    </test>
+    <test label="U+00BB">
+      <comment>guillemetright</comment>
+      <string>\u0000BB </string>
+    </test>
+    <test label="U+00BC">
+      <comment>onequarter</comment>
+      <string>\u0000BC \u0000BD \u0000BE \u0000BF \u0000C0 \u0000C1 \u0000C2 \u0000C3 \u0000C4 \u0000C5 \u0000C6 \u0000C7 \u0000C8 \u0000C9 \u0000CA \u0000CB \u0000CC \u0000CD \u0000CE \u0000CF \u0000D0 \u0000D1 \u0000D2 \u0000D3 \u0000D4 \u0000D5 \u0000D6 \u0000D7 \u0000D8 \u0000D9 \u0000DA \u0000DB \u0000DC \u0000DD \u0000DE \u0000DF \u0000E0 \u0000E1 \u0000E2 \u0000E3 \u0000E4 \u0000E5 \u0000E6 \u0000E7 \u0000E8 \u0000E9 \u0000EA \u0000EB \u0000EC \u0000ED \u0000EE \u0000EF \u0000F0 \u0000F1 \u0000F2 \u0000F3 \u0000F4 \u0000F5 \u0000F6 \u0000F7 \u0000F8 \u0000F9 \u0000FA \u0000FB \u0000FC \u0000FD \u0000FE \u0000FF</string>
+    </test>
+    <test label="U+0131">
+      <comment>idotless</comment>
+      <string>\u000131</string>
+    </test>
+    <test label="U+0152">
+      <comment>OE</comment>
+      <string>\u000152 \u000153</string>
+    </test>
+    <test label="U+0160">
+      <comment>Scaron</comment>
+      <string>\u000160 \u000161</string>
+    </test>
+    <test label="U+0178">
+      <comment>Ydieresis</comment>
+      <string>\u000178</string>
+    </test>
+    <test label="U+017D">
+      <comment>Zcaron</comment>
+      <string>\u00017D \u00017E</string>
+    </test>
+    <test label="U+0192">
+      <comment>florin</comment>
+      <string>\u000192</string>
+    </test>
+    <test label="U+02C6">
+      <comment>circumflex</comment>
+      <string>\u0002C6 \u0002C7</string>
+    </test>
+    <test label="U+02C9">
+      <comment>firsttonechinese</comment>
+      <string>\u0002C9</string>
+    </test>
+    <test label="U+02D0">
+      <comment>colontriangularmod</comment>
+      <string>\u0002D0</string>
+    </test>
+    <test label="U+02D8">
+      <comment>breve</comment>
+      <string>\u0002D8 \u0002D9 \u0002DA \u0002DB \u0002DC \u0002DD</string>
+    </test>
+    <test label="U+03C0">
+      <comment>pi</comment>
+      <string>\u0003C0</string>
+    </test>
+    <test label="U+2000">
+      <comment>enquad</comment>
+      <string>\u00F130\u002000\u00F131 \u00F130\u002001\u00F131 \u00F130\u002002\u00F131 \u00F130\u002003\u00F131 \u00F130\u002004\u00F131 \u00F130\u002005\u00F131 \u00F130\u002006\u00F131 \u00F130\u002007\u00F131 \u00F130\u002008\u00F131 \u00F130\u002009\u00F131 \u00F130\u00200A\u00F131 \u00200B \u00200C \u00200D \u00200E \u00200F \u002010 \u002011 \u002012 \u002013 \u002014 \u002015</string>
+    </test>
+    <test label="U+2018">
+      <comment>quoteleft</comment>
+      <string>\u002018 \u002019 \u00201A</string>
+    </test>
+    <test label="U+201C">
+      <comment>quotedblleft</comment>
+      <string>\u00201C \u00201D \u00201E</string>
+    </test>
+    <test label="U+2020">
+      <comment>dagger</comment>
+      <string>\u002020 \u002021 \u002022</string>
+    </test>
+    <test label="U+2026">
+      <comment>ellipsis</comment>
+      <string>\u002026 \u002027 \u00F130\u002028\u00F131 \u00F130\u002029\u00F131 \u00202A \u00202B \u00202C \u00202D \u00202E \u00F130\u00202F\u00F131 \u002030</string>
+    </test>
+    <test label="U+2039">
+      <comment>guilsinglleft</comment>
+      <string>\u002039 </string>
+    </test>
+    <test label="U+203A">
+      <comment>guilsinglright</comment>
+      <string>\u00203A</string>
+    </test>
+    <test label="U+2044">
+      <comment>fraction</comment>
+      <string>\u002044</string>
+    </test>
+    <test label="U+2060">
+      <comment>wordjoiner</comment>
+      <string>\u002060</string>
+    </test>
+    <test label="U+2066">
+      <comment>lefttorightisolate</comment>
+      <string>\u002066 \u002067 \u002068 \u002069</string>
+    </test>
+    <test label="U+206C">
+      <comment>inhibitformshaping-ar</comment>
+      <string>\u00206C \u00206D</string>
+    </test>
+    <test label="U+2074">
+      <comment>foursuperior</comment>
+      <string>\u002074</string>
+    </test>
+    <test label="U+20AC">
+      <comment>euro</comment>
+      <string>\u0020AC</string>
+    </test>
+    <test label="U+2122">
+      <comment>trademark</comment>
+      <string>\u002122</string>
+    </test>
+    <test label="U+2126">
+      <comment>Ohm</comment>
+      <string>\u002126</string>
+    </test>
+    <test label="U+2202">
+      <comment>partialdiff</comment>
+      <string>\u002202</string>
+    </test>
+    <test label="U+2206">
+      <comment>Delta</comment>
+      <string>\u002206</string>
+    </test>
+    <test label="U+220F">
+      <comment>product</comment>
+      <string>\u00220F</string>
+    </test>
+    <test label="U+2211">
+      <comment>summation</comment>
+      <string>\u002211</string>
+    </test>
+    <test label="U+2212">
+      <comment>minus</comment>
+      <string>\u002212</string>
+    </test>
+    <test label="U+2215">
+      <comment>divisionslash</comment>
+      <string>\u002215</string>
+    </test>
+    <test label="U+2219">
+      <comment>bulletoperator</comment>
+      <string>\u002219</string>
+    </test>
+    <test label="U+221A">
+      <comment>radical</comment>
+      <string>\u00221A </string>
+    </test>
+    <test label="U+221E">
+      <comment>infinity</comment>
+      <string>\u00221E</string>
+    </test>
+    <test label="U+222B">
+      <comment>integral</comment>
+      <string>\u00222B</string>
+    </test>
+    <test label="U+2248">
+      <comment>approxequal</comment>
+      <string>\u002248</string>
+    </test>
+    <test label="U+2260">
+      <comment>notequal</comment>
+      <string>\u002260 </string>
+    </test>
+    <test label="U+2264">
+      <comment>lessequal</comment>
+      <string>\u002264</string>
+    </test>
+    <test label="U+2265">
+      <comment>greaterequal</comment>
+      <string>\u002265</string>
+    </test>
+    <test label="U+2423">
+      <comment>blank</comment>
+      <string>\u002423</string>
+    </test>
+    <test label="U+25CA">
+      <comment>lozenge</comment>
+      <string>\u0025CA</string>
+    </test>
+    <test label="U+25CC">
+      <comment>dottedCircle</comment>
+      <string>\u0025CC</string>
+    </test>
+    <test label="U+29F5">
+      <comment>reverseSolidusOperator</comment>
+      <string>\u0029F5</string>
+    </test>
+    <test label="U+F130">
+      <comment>FontBslnSideBrngMrkrLft</comment>
+      <string>\u00F130 \u00F131</string>
+    </test>
+    <test label="U+FB01">
+      <comment>fi</comment>
+      <string>\u00FB01 \u00FB02</string>
+    </test>
+    <test label="U+FE00">
+      <comment>VS1</comment>
+      <string>\u00002E\u00FE00 \u00002e\u00FE01 \u00002e\u00FE02 \u00002e\u00FE03 \u00002e\u00FE04 \u00002e\u00FE05 \u00002e\u00FE06 \u00002e\u00FE07 \u00002e\u00FE08 \u00002e\u00FE09 \u00002e\u00FE0A \u00002e\u00FE0B \u00002e\u00FE0C \u00002e\u00FE0D \u00002e\u00FE0E \u00002e\u00FE0F</string>
+    </test>
+    <test label="U+FEFF">
+      <comment>zeroWidthNoBreakSpace</comment>
+      <string>\u00FEFF</string>
+    </test>
+    <test label="U+FFFC">
+      <comment>objectReplacementCharacter</comment>
+      <string>\u00FFFC \u00FFFD</string>
+    </test>
+     <test label="U+16D40">
+      <comment>anusvara-kirat</comment>
+      <string>\u16D40 \u16D41 \u16D42</string>
+    </test>
+    <test label="U+16D43">
+      <comment>a-kirat</comment>
+      <string>\u16D43 \u16D44 \u16D45 \u16D46 \u16D47 \u16D48 \u16D49 \u16D4a \u16D4b \u16D4c \u16D4d \u16D4e \u16D4f</string>
+    </test>
+    <test label="U+16D50">
+      <comment>dda-kirat</comment>
+      <string>\u16D50 \u16D51 \u16D52 \u16D53 \u16D54 \u16D55 \u16D56 \u16D57 \u16D58 \u16D59 \u16D5a \u16D5b \u16D5c \u16D5d \u16D5e \u16D5f</string>
+    </test>
+  </testgroup>
+</ftml>

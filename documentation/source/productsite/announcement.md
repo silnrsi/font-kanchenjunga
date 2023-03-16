@@ -1,7 +1,3 @@
----
-title: Kanchenjunga - Announcement
-fontversion: 1.000
----
 
 #### Changes
 

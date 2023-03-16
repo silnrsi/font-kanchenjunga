@@ -1,6 +1,8 @@
 # Kanchenjunga 
 
-Kanchenjunga Test A is a font in development for the Kirat Rai script. **Please note that this is a work in progress so glyph shapes, metrics, and encoding will change.**
+_Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
+
+Kanchenjunga is a font for the Kirat Rai script. 
 
 For more details about this project, including its design history and acknowledgements see [FONTLOG.txt](FONTLOG.txt).
 
@@ -17,9 +19,11 @@ This project uses a UFO-based design and production workflow, with all sources i
 We are not currently accepting contributions of glyph designs or code to this project, but if you are interested in helping with the project please contact us at fonts@sil.org.
 
 The font can be built from source using [smith](https://github.com/silnrsi/smith). This is done via the sequence:
+
 ```
     smith distclean
     smith configure
     smith build
 ```
+
 See all the details in the [SIL Font Development Notes](https://silnrsi.github.io/silfontdev/en-US/Introduction.html).

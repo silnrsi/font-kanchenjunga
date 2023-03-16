@@ -1,18 +1,15 @@
----
-title: Kanchenjunga - About
-fontversion: 1.000
----
 
 ## About this project
 
+Kanchenjunga is a font in development for the Kirat Rai script. 
 
 _Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
 
-Kanchenjunga is a font for the Kirat Rai script. 
+
 
 ## Future plans
 
-Please send us your requests using the [form on the font website](https://software.sil.org/kanchenjunga/about/contact/). If you are interested in helping us make the font better see the [Developer](developer.md) page.
+Please send us your requests using the [form on the font website](https://software.sil.org/kanchenjunga/about/contact/). If you are interested in helping us make the font better see the [Developer](developer) page.
 
 ## Announcement list
 

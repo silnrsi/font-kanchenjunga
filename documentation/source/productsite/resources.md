@@ -1,7 +1,3 @@
----
-title: Kanchenjunga - Resources
-fontversion: 1.000
----
 
 This font is encoded based on a draft encoding of Unicode. At this point it is not in Unicode.
 
@@ -21,7 +17,7 @@ If you want to enter characters that are not supported by any system keyboard, a
 
 Other suggestions are listed here: [Keyboard Systems Overview](http://scriptsource.org/entry/ytr8g8n6sw).
 
-See [Character set support](charset.md) for details of the Unicode characters supported by this font.
+See [Character set support](charset) for details of the Unicode characters supported by this font.
 
 ## Rendering and application support
 
