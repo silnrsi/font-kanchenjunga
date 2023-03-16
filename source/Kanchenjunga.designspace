@@ -36,7 +36,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Kanchenjunga Test A" filename="KanchenjungaTestA-Regular.ufo" name="Kanchenjunga Test A Regular" stylemapfamilyname="Kanchenjunga Test A" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Kanchenjunga" filename="Kanchenjunga-Regular.ufo" name="Kanchenjunga Regular" stylemapfamilyname="Kanchenjunga" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -45,7 +45,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Kanchenjunga Test A" filename="KanchenjungaTestA-Bold.ufo" name="Kanchenjunga Test A Bold" stylemapfamilyname="Kanchenjunga Test A" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Kanchenjunga" filename="Kanchenjunga-Bold.ufo" name="Kanchenjunga Bold" stylemapfamilyname="Kanchenjunga" stylemapstylename="bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
