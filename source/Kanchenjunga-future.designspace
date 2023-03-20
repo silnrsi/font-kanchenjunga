@@ -22,18 +22,34 @@
             <features copy="1" />
             <info copy="1" />
             <location>
-                <dimension name="weight" xvalue="400.0" />
-                <dimension name="width" xvalue="100.0" />
-                <dimension name="custom" xvalue="0.0" />
+                <dimension name="weight" xvalue="400.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+        </source>
+        <source familyname="Kanchenjunga" filename="Kanchenjunga-Bold.ufo" name="Kanchenjunga Bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="700.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
     </sources>
     <instances>
         <instance familyname="Kanchenjunga" filename="Kanchenjunga-Regular.ufo" name="Kanchenjunga Regular" stylemapfamilyname="Kanchenjunga" stylemapstylename="regular" stylename="Regular">
             <location>
-                <dimension name="weight" xvalue="400.0" />
-                <dimension name="width" xvalue="100.0" />
-                <dimension name="custom" xvalue="0.0" />
+                <dimension name="weight" xvalue="400.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Kanchenjunga" filename="Kanchenjunga-Bold.ufo" name="Kanchenjunga Bold" stylemapfamilyname="Kanchenjunga" stylemapstylename="bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="700.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
             </location>
             <info />
             <kerning />
