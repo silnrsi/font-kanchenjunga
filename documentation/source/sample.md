@@ -37,7 +37,7 @@ Regular: <span dir="ltr" class='Kanchenjunga-R normal'> π </span>
 
 ### General Punctuation, Supplemental Punctuation:
 
-Regular:<span dir="ltr" class='Kanchenjunga-R normal'> ‐ ‑ ‒ – — ― ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄ ⁏ ⹁</span>
+Regular:<span dir="ltr" class='Kanchenjunga-R normal'> ‐ ‑ ‒ – — ― ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄ </span>
 
 ### Currency Symbols:
 

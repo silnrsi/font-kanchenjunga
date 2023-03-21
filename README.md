@@ -10,7 +10,7 @@ For more information on using and developing the fonts see the full project docu
 
 - *local HTML* - Download the release or source package and open the file `documentation/index.html` in a browser
 - *local PDF* - Download the release or source package and open the file `documentation/pdf/index.pdf`
-- *Web site* - Visit the [Lateef web site](https://software.sil.org/kanchenjunga) 
+- *Web site* - Visit the [Kanchenjunga web site](https://software.sil.org/kanchenjunga) 
 
 For a complete list of changes in this version see the [FONTLOG.txt](FONTLOG.txt).
 

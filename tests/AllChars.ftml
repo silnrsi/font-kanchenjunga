@@ -317,5 +317,25 @@
       <comment>dda-kirat</comment>
       <string>\u16D50 \u16D51 \u16D52 \u16D53 \u16D54 \u16D55 \u16D56 \u16D57 \u16D58 \u16D59 \u16D5a \u16D5b \u16D5c \u16D5d \u16D5e \u16D5f</string>
     </test>
+    <test label="U+16D60">
+      <comment>sa-kirat</comment>
+      <string>\u16D60 \u16D61 \u16D62</string>
+    </test>
+    <test label="U+16D63">
+      <comment>aaMatra-kirat</comment>
+      <string>\u16D63 \u16D64 \u16D65 \u16D66 \u16D67 \u16D68 \u16D69 \u16D6a</string>
+    </test>
+    <test label="U+16D63">
+      <comment>halant-kirat</comment>
+      <string>\u16D6b \u16D6c \u16D6d </string>
+    </test>
+    <test label="U+16D6E">
+      <comment>danda-kirat</comment>
+      <string>\u16D6e \u16D6f</string>
+    </test>
+    <test label="U+16D70">
+      <comment>zero-kirat</comment>
+      <string>\u16D70 \u16D71 \u16D72 \u16D73 \u16D74 \u16D75 \u16D76 \u16D77 \u16D78 \u16D79 </string>
+    </test>
   </testgroup>
 </ftml>

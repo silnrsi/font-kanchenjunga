@@ -1,10 +1,10 @@
 FONTLOG
-Kanchenjunga Test A
+Kanchenjunga
 ===================
 
 
-This file provides detailed information on the Kanchenjunga Test A font.
-This information should be distributed along with the Kanchenjunga Test A font and
+This file provides detailed information on the Kanchenjunga font.
+This information should be distributed along with the Kanchenjunga font and
 any derivative works.
 
 
@@ -13,19 +13,20 @@ Basic Font Information
 
 Kanchenjunga is a font family for the Kirat Rai script of South Asia. It is named after the third highest mountain in the world.
 
-_Please note that this font is not yet encoded according to The Unicode Standard, as the Kirat Rai script has not yet been accepted into the standard. The letters are currently given temporary assignments while encoding proposals are in process. Once the script is accepted into Unicode the encoding assignments may change._
-
-_This font should be considered a work in progress. Glyphs shapes and metrics may change considerably prior to a final Unicode release._
+_Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
 
 
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-29 Apr 2022 (SIL) Kanchenjunga Test A version 0.200
+### 2023-04-xx (SIL) Kanchenjunga version 1.000
+- Official release using provisional codepoints
+
+### 2022-04-29 (SIL) Kanchenjunga Test A version 0.200
 - All Kirat Rai characters were added
 
-7 Sep 2021 (SIL) Kanchenjunga Test A version 0.100
+### 2021-09-07 (SIL) Kanchenjunga Test A version 0.100
 - New public repository and open source build workflow
 - Latin glyphs imported from the Andika project
 
