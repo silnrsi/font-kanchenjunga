@@ -1,4 +1,4 @@
-### Kanchenjunga [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Fonts_Kanchenjunga/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Kanchenjunga&guest=1)
+### Kanchenjunga [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_Kanchenjunga/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_Kanchenjunga&guest=1)
 
 _Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
 
