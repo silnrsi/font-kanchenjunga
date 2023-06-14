@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3115</string>
+  <string>3199</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/a-kirat/kha-kirat/ma-kirat.alt/ma-kirat/jha-kirat/nya-kirat 
@@ -30,6 +30,9 @@
 /iMatra-kirat/cha-kirat/space/space/ka-kirat/ta-kirat 
 
 </string>
+    <string>/a-kirat/ka-kirat/kha-kirat/ga-kirat/gha-kirat/nga-kirat/ca-kirat/cha-kirat/ja-kirat/jha-kirat/nya-kirat/tta-kirat/ttha-kirat/dda-kirat/ddha-kirat/ta-kirat/tha-kirat/da-kirat/dha-kirat/na-kirat/pa-kirat/pha-kirat/ba-kirat/bha-kirat/ma-kirat/ya-kirat/ra-kirat/la-kirat/va-kirat/sa-kirat/sha-kirat/ha-kirat/aaMatra-kirat/iMatra-kirat/uMatra-kirat/ueMatra-kirat/eMatra-kirat/aiMatra-kirat/oMatra-kirat/auMatra-kirat/halant-kirat/anusvara-kirat/tonpi-kirat/visarga-kirat/saat-kirat/yupi-kirat/danda-kirat/doubleDanda-kirat 
+/zero-kirat/one-kirat/two-kirat/three-kirat/four-kirat/five-kirat/six-kirat/seven-kirat/eight-kirat/nine-kirat</string>
+    <string>/ca-kirat/ca-kirat.alt/ha-kirat.alt/ma-kirat/ma-kirat.alt/ta-kirat/ta-kirat.alt</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

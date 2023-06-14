@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="saat-kirat" format="2">
-  <advance width="1430"/>
+  <advance width="664"/>
   <unicode hex="16D6C"/>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="332" y="159" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="332" y="578" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

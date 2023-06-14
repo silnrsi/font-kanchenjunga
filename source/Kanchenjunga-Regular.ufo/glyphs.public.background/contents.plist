@@ -4,8 +4,6 @@
 <dict>
   <key>dda-kirat</key>
   <string>dda-kirat.glif</string>
-  <key>eight-kirat</key>
-  <string>eight-kirat.glif</string>
   <key>gha-kirat</key>
   <string>gha-kirat.glif</string>
   <key>ha-kirat.alt</key>
@@ -14,11 +12,9 @@
   <string>ma-kirat.glif</string>
   <key>ma-kirat.alt</key>
   <string>ma-kirat.alt.glif</string>
-  <key>na-kirat</key>
-  <string>na-kirat.glif</string>
   <key>nga-kirat</key>
   <string>nga-kirat.glif</string>
-  <key>va-kirat</key>
-  <string>va-kirat.glif</string>
+  <key>sha-kirat</key>
+  <string>sha-kirat.glif</string>
 </dict>
 </plist>

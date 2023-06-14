@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ba-kirat" format="2">
-  <advance width="1430"/>
+  <advance width="1352"/>
   <unicode hex="16D59"/>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="1262" y="641" type="curve" smooth="yes"/>
+      <point x="1262" y="804"/>
+      <point x="1257" y="1103"/>
+      <point x="1257" y="1460" type="curve"/>
+      <point x="90" y="1460" type="line"/>
+      <point x="90" y="1235" type="line"/>
+      <point x="170" y="1252"/>
+      <point x="246" y="1255"/>
+      <point x="335" y="1255" type="curve" smooth="yes"/>
+      <point x="1125" y="1255" type="line"/>
+      <point x="1050" y="1366" type="line"/>
+      <point x="1057" y="1115"/>
+      <point x="1057" y="710"/>
+      <point x="1057" y="619" type="curve" smooth="yes"/>
+      <point x="1057" y="451"/>
+      <point x="993" y="209"/>
+      <point x="662" y="209" type="curve" smooth="yes"/>
+      <point x="423" y="209"/>
+      <point x="302" y="325"/>
+      <point x="302" y="483" type="curve" smooth="yes"/>
+      <point x="302" y="625"/>
+      <point x="410" y="769"/>
+      <point x="687" y="769" type="curve" smooth="yes"/>
+      <point x="870" y="769"/>
+      <point x="1002" y="744"/>
+      <point x="1136" y="694" type="curve"/>
+      <point x="1188" y="883" type="line"/>
+      <point x="1002" y="975"/>
+      <point x="791" y="981"/>
+      <point x="686" y="981" type="curve" smooth="yes"/>
+      <point x="287" y="981"/>
+      <point x="90" y="733"/>
+      <point x="90" y="486" type="curve" smooth="yes"/>
+      <point x="90" y="211"/>
+      <point x="314" y="-3"/>
+      <point x="669" y="-3" type="curve" smooth="yes"/>
+      <point x="994" y="-3"/>
+      <point x="1262" y="187"/>
+    </contour>
   </outline>
   <lib>
     <dict>

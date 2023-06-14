@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonpi-kirat" format="2">
-  <advance width="1430"/>
+  <advance width="695"/>
   <unicode hex="16D41"/>
   <outline>
-    <component base="K"/>
+    <component base="yupi-kirat" yOffset="915"/>
+    <component base="halant-kirat"/>
   </outline>
   <lib>
     <dict>
