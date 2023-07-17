@@ -164,7 +164,7 @@ logicalnot,logicalnot,164,20164
 radical,radical,165,20165
 florin,florin,166,20166
 approxequal,approxequal,167,20167
-Delta,Delta,168,20168
+increment,Delta,168,20168
 guillemetleft,guillemotleft,169,20169
 guillemetright,guillemotright,170,20170
 ellipsis,ellipsis,171,20171
@@ -298,8 +298,8 @@ figurespace,uni2007,9611.1,29611.1
 thinspace,uni2009,9612.1,29612.1
 hairspace,uni200A,9613.1,29613.1
 replacementCharacter,uniFFFD,9699.1,29699.1
-FontBslnSideBrngMrkrLft,uniF130,9700.1,29700.1
-FontBslnSideBrngMrkrRt,uniF131,9701.1,29701.1
+sidebearingleft,uniF130,9700.1,29700.1
+sidebearingright,uniF131,9701.1,29701.1
 a-kirat,u16D43,10001,10001
 ka-kirat,u16D44,10002,10002
 kha-kirat,u16D45,10003,10003

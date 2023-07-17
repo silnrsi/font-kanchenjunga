@@ -218,7 +218,7 @@
       <string>\u002202</string>
     </test>
     <test label="U+2206">
-      <comment>Delta</comment>
+      <comment>increment</comment>
       <string>\u002206</string>
     </test>
     <test label="U+220F">
@@ -286,7 +286,7 @@
       <string>\u0029F5</string>
     </test>
     <test label="U+F130">
-      <comment>FontBslnSideBrngMrkrLft</comment>
+      <comment>sidebearingleft</comment>
       <string>\u00F130 \u00F131</string>
     </test>
     <test label="U+FB01">
