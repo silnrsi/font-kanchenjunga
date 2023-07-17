@@ -26,8 +26,6 @@
   <string>C_cedilla.glif</string>
   <key>D</key>
   <string>D_.glif</string>
-  <key>Delta</key>
-  <string>D_elta.glif</string>
   <key>E</key>
   <string>E_.glif</string>
   <key>Eacute</key>
@@ -42,10 +40,6 @@
   <string>E_th.glif</string>
   <key>F</key>
   <string>F_.glif</string>
-  <key>FontBslnSideBrngMrkrLft</key>
-  <string>F_ontB_slnS_ideB_rngM_rkrL_ft.glif</string>
-  <key>FontBslnSideBrngMrkrRt</key>
-  <string>F_ontB_slnS_ideB_rngM_rkrR_t.glif</string>
   <key>G</key>
   <string>G_.glif</string>
   <key>H</key>
@@ -424,6 +418,8 @@
   <string>idotless.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
+  <key>increment</key>
+  <string>increment.glif</string>
   <key>infinity</key>
   <string>infinity.glif</string>
   <key>integral</key>
@@ -616,6 +612,10 @@
   <string>seven-kirat.glif</string>
   <key>sha-kirat</key>
   <string>sha-kirat.glif</string>
+  <key>sidebearingleft</key>
+  <string>sidebearingleft.glif</string>
+  <key>sidebearingright</key>
+  <string>sidebearingright.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>six-kirat</key>
