@@ -311,7 +311,7 @@
     <string>radical</string>
     <string>florin</string>
     <string>approxequal</string>
-    <string>Delta</string>
+    <string>increment</string>
     <string>guillemetleft</string>
     <string>guillemetright</string>
     <string>ellipsis</string>
@@ -445,15 +445,11 @@
     <string>thinspace</string>
     <string>hairspace</string>
     <string>replacementCharacter</string>
-    <string>FontBslnSideBrngMrkrLft</string>
-    <string>FontBslnSideBrngMrkrRt</string>
+    <string>sidebearingleft</string>
+    <string>sidebearingright</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
-    <key>FontBslnSideBrngMrkrLft</key>
-    <string>uniF130</string>
-    <key>FontBslnSideBrngMrkrRt</key>
-    <string>uniF131</string>
     <key>Ohm</key>
     <string>Omega</string>
     <key>VS1</key>
@@ -640,6 +636,10 @@
     <string>u16D77</string>
     <key>sha-kirat</key>
     <string>u16D61</string>
+    <key>sidebearingleft</key>
+    <string>uniF130</string>
+    <key>sidebearingright</key>
+    <string>uniF131</string>
     <key>six-kirat</key>
     <string>u16D76</string>
     <key>sixperemspace</key>
