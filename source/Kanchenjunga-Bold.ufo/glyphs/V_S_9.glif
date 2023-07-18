@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="VS9" format="2">
   <unicode hex="FE08"/>
+  <anchor x="0" y="0" name="_none"/>
   <outline/>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-    </dict>
-  </lib>
 </glyph>

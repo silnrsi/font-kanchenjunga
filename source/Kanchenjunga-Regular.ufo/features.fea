@@ -1,7 +1,7 @@
 
 # Main Classes
-@GDEF_bases = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Ohm Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 W X Y Yacute Ydieresis Z Zcaron a a-kirat aaMatra-kirat aacute acircumflex acute adieresis ae agrave aiMatra-kirat ampersand anusvara-kirat approxequal aring asciicircum asciitilde asterisk at atilde auMatra-kirat b ba-kirat backslash bar bha-kirat blank braceleft braceright bracketleft bracketright brokenbar bullet bulletoperator c ca-kirat ca-kirat.alt caron ccedilla cedilla cent cha-kirat circumflex colon comma copyright currency d da-kirat dagger daggerdbl danda-kirat dda-kirat ddha-kirat degree dha-kirat divide dollar dotaccent dottedCircle doubleDanda-kirat e eMatra-kirat eacute ecircumflex edieresis egrave eight eight-kirat ellipsis emdash emquad emspace endash enquad enspace equal eth euro exclam exclamdown f fi figuredash figurespace five five-kirat fl florin four four-kirat fourperemspace foursuperior fraction g ga-kirat germandbls gha-kirat grave greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright h ha-kirat ha-kirat.alt hairspace halant-kirat horizontalbar hungarumlaut hyphen hyphenationpoint hyphentwo i iMatra-kirat iacute icircumflex idieresis idotless igrave increment infinity integral j ja-kirat jha-kirat k ka-kirat kha-kirat l la-kirat less lessequal lineseparator logicalnot lozenge m ma-kirat ma-kirat.alt macron micro minus multiply n na-kirat narrownbspace nbspace nga-kirat nine nine-kirat nonbreakinghyphen notequal ntilde numbersign nya-kirat o oMatra-kirat oacute objectReplacementCharacter ocircumflex odieresis oe ogonek ograve one one-kirat onehalf onequarter onesuperior ordfeminine ordmasculine oslash otilde p pa-kirat paragraph paragraphseparator parenleft parenright partialdiff percent period periodcentered perthousand pha-kirat pi plus plusminus product punctuationspace q question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle r ra-kirat radical registered replacementCharacter ring rupee rupeeIndian s sa-kirat saat-kirat scaron section semicolon seven seven-kirat sha-kirat sidebearingleft sidebearingright six six-kirat sixperemspace slash softhyphen space sterling summation t ta-kirat ta-kirat.alt tha-kirat thinspace thorn three three-kirat threeperemspace threequarters threesuperior tilde tonpi-kirat trademark tta-kirat ttha-kirat two two-kirat twosuperior u uMatra-kirat uacute ucircumflex udieresis ueMatra-kirat ugrave underscore v va-kirat visarga-kirat w wordjoiner x y ya-kirat yacute ydieresis yen yupi-kirat z zcaron zero zero-kirat zeroWidthNoBreakSpace zerowidthjoiner zerowidthnonjoiner zerowidthspace];
-@GDEF_marks = [acutecomb breve caroncomb cedillacomb circumflexcomb dieresis dieresiscomb graphemejoinercomb gravecomb ringcomb tildecomb];
+@GDEF_bases = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Ohm Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron a a-kirat aaMatra-kirat aacute acircumflex acute adieresis ae agrave aiMatra-kirat ampersand anusvara-kirat approxequal aring asciicircum asciitilde asterisk at atilde auMatra-kirat b ba-kirat backslash bar bha-kirat blank braceleft braceright bracketleft bracketright breve brokenbar bullet bulletoperator c ca-kirat ca-kirat.alt caron ccedilla cedilla cent cha-kirat circumflex colon comma copyright currency d da-kirat dagger daggerdbl danda-kirat dda-kirat ddha-kirat degree dha-kirat dieresis divide dollar dotaccent dottedCircle doubleDanda-kirat e eMatra-kirat eacute ecircumflex edieresis egrave eight eight-kirat ellipsis emdash emquad emspace endash enquad enspace equal eth euro exclam exclamdown f fi figuredash figurespace five five-kirat fl florin four four-kirat fourperemspace foursuperior fraction g ga-kirat germandbls gha-kirat grave greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright h ha-kirat ha-kirat.alt hairspace halant-kirat horizontalbar hungarumlaut hyphen hyphenationpoint hyphentwo i iMatra-kirat iacute icircumflex idieresis idotless igrave increment infinity integral j ja-kirat jha-kirat k ka-kirat kha-kirat l la-kirat less lessequal lineseparator logicalnot lozenge m ma-kirat ma-kirat.alt macron micro minus multiply n na-kirat narrownbspace nbspace nga-kirat nine nine-kirat nonbreakinghyphen notequal ntilde numbersign nya-kirat o oMatra-kirat oacute objectReplacementCharacter ocircumflex odieresis oe ogonek ograve one one-kirat onehalf onequarter onesuperior ordfeminine ordmasculine oslash otilde p pa-kirat paragraph paragraphseparator parenleft parenright partialdiff percent period periodcentered perthousand pha-kirat pi plus plusminus product punctuationspace q question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle r ra-kirat radical registered replacementCharacter ring rupee rupeeIndian s sa-kirat saat-kirat scaron section semicolon seven seven-kirat sha-kirat sidebearingleft sidebearingright six six-kirat sixperemspace slash softhyphen space sterling summation t ta-kirat ta-kirat.alt tha-kirat thinspace thorn three three-kirat threeperemspace threequarters threesuperior tilde tonpi-kirat trademark tta-kirat ttha-kirat two two-kirat twosuperior u uMatra-kirat uacute ucircumflex udieresis ueMatra-kirat ugrave underscore v va-kirat visarga-kirat w wordjoiner x y ya-kirat yacute ydieresis yen yupi-kirat z zcaron zero zero-kirat zeroWidthNoBreakSpace zerowidthjoiner zerowidthnonjoiner zerowidthspace];
+@GDEF_marks = [VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 acutecomb caroncomb cedillacomb circumflexcomb dieresiscomb graphemejoinercomb gravecomb ringcomb tildecomb];
 @c_alt = [ca-kirat.alt ha-kirat.alt ma-kirat.alt ta-kirat.alt];
 @cno_alt = [ca-kirat ha-kirat ma-kirat ta-kirat];
 
@@ -167,7 +167,7 @@
 
 # AP: U
 @U = [A AE Aacute Acircumflex Agrave Adieresis Aring Atilde B C Ccedilla D Eth E eight figurespace five nine one seven six three Eacute Ecircumflex Egrave Edieresis F G H I Iacute Icircumflex Igrave Idieresis J K X Y L M N Ntilde O Oslash Q OE Oacute Ocircumflex Ograve Odieresis Otilde P R S Scaron T Thorn U Uacute Ucircumflex Ugrave Udieresis V W Yacute Ydieresis Z summation zero Zcaron a aacute acircumflex agrave acute adieresis ae m aring asciicircum caron atilde b c ccedilla e o oslash d dottedCircle eacute ecircumflex egrave oacute ocircumflex ograve edieresis odieresis emquad emspace enquad enspace eth k f fi fl florin four fourperemspace foursuperior threesuperior twosuperior g germandbls thorn grave h hairspace hyphen hyphentwo nonbreakinghyphen softhyphen i iacute icircumflex igrave l idieresis idotless j n narrownbspace thinspace nbspace space ntilde oe onesuperior otilde p pi punctuationspace q r s scaron sixperemspace t threeperemspace two u uacute ucircumflex ugrave udieresis v y w x yacute ydieresis z zcaron zero-kirat];
-@U_MarkBase = [acutecomb caroncomb circumflexcomb ringcomb breve dieresis dieresiscomb gravecomb tildecomb];
+@U_MarkBase = [acutecomb caroncomb circumflexcomb ringcomb dieresiscomb gravecomb tildecomb];
 # baseClass A <anchor 687 1530> @U;
 # baseClass AE <anchor 1015 1530> @U;
 # baseClass [Aacute Acircumflex Agrave] <anchor 687 2065> @U;
@@ -277,8 +277,6 @@
 # baseClass zcaron <anchor 525 1635> @U;
 # baseClass zero-kirat <anchor 555 1540> @U;
 # baseClass [acutecomb caroncomb circumflexcomb ringcomb] <anchor -570 1635> @U_MarkBase;
-# baseClass breve <anchor 375 1635> @U_MarkBase;
-# baseClass dieresis <anchor 340 1505> @U_MarkBase;
 # baseClass dieresiscomb <anchor -570 1505> @U_MarkBase;
 # baseClass gravecomb <anchor -550 1635> @U_MarkBase;
 # baseClass tildecomb <anchor -575 1475> @U_MarkBase;
@@ -318,19 +316,17 @@
 # baseClass threeperemspace <anchor 683 1000> @R;
 # baseClass [u uacute ucircumflex udieresis ugrave] <anchor 1185 1000> @R;
 
+# AP: _none
+markClass [VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 graphemejoinercomb] <anchor 0 0> @_none;
+
 # AP: _U
 markClass [acutecomb caroncomb circumflexcomb dieresiscomb] <anchor -570 1100> @_U;
-markClass breve <anchor 375 1100> @_U;
-markClass dieresis <anchor 340 1100> @_U;
 markClass gravecomb <anchor -550 1100> @_U;
 markClass ringcomb <anchor -572 1100> @_U;
 markClass tildecomb <anchor -575 1100> @_U;
 
 # AP: _H
 markClass cedillacomb <anchor -570 0> @_H;
-
-# AP: _none
-markClass graphemejoinercomb <anchor 0 0> @_none;
 #
 # Hand-crafted FEA code
 #
