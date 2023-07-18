@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="2">
-  <advance width="1022"/>
+  <advance width="1021"/>
   <unicode hex="00E7"/>
-  <anchor x="525" y="-529" name="L"/>
+  <anchor x="530" y="-526" name="L"/>
   <anchor x="1020" y="1001" name="R"/>
-  <anchor x="575" y="1101" name="U"/>
+  <anchor x="573" y="1101" name="U"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="985" yOffset="1"/>
+    <component base="cedillacomb" xOffset="1040" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="increment" format="2">
-  <advance width="1435"/>
+  <advance width="1422"/>
   <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="570" y="1460" type="line"/>
-      <point x="60" y="145" type="line"/>
-      <point x="60" y="0" type="line"/>
-      <point x="1355" y="0" type="line"/>
-      <point x="1355" y="145" type="line"/>
-      <point x="845" y="1460" type="line"/>
+      <point x="573" y="1460" type="line"/>
+      <point x="63" y="145" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="1338" y="0" type="line"/>
+      <point x="1338" y="145" type="line"/>
+      <point x="828" y="1460" type="line"/>
     </contour>
     <contour>
-      <point x="705" y="1245" type="line"/>
-      <point x="1100" y="210" type="line"/>
-      <point x="314" y="210" type="line"/>
+      <point x="698" y="1252" type="line"/>
+      <point x="1099" y="195" type="line"/>
+      <point x="301" y="195" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

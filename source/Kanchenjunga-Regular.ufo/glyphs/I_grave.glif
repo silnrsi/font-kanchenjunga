@@ -11,4 +11,10 @@
     <component base="I"/>
     <component base="gravecomb" xOffset="1027" yOffset="430"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

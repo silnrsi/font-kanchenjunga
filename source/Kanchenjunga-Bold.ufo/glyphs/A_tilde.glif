@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="2">
-  <advance width="1485"/>
+  <advance width="1455"/>
   <unicode hex="00C3"/>
-  <anchor x="735" y="0" name="H"/>
-  <anchor x="732" y="-100" name="L"/>
-  <anchor x="1495" y="0" name="O"/>
-  <anchor x="732" y="1920" name="U"/>
+  <anchor x="726" y="0" name="H"/>
+  <anchor x="717" y="-100" name="L"/>
+  <anchor x="1480" y="0" name="O"/>
+  <anchor x="717" y="1915" name="U"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb" xOffset="1312" yOffset="430"/>
+    <component base="tildecomb" xOffset="1295" yOffset="430"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

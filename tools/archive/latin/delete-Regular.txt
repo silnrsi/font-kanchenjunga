@@ -1,0 +1,10 @@
+C
+c
+m
+Ccedilla
+ccedilla
+yen
+tilde
+divisionslash
+tildecomb
+cedillacomb

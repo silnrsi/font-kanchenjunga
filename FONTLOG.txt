@@ -22,6 +22,7 @@ ChangeLog
 
 ### 2023-04-xx (SIL) Kanchenjunga version 1.000
 - Official release using provisional codepoints
+- Latin from Andika (400 and 600 weight) at 100%
 
 ### 2022-04-29 (SIL) Kanchenjunga Test A version 0.200
 - All Kirat Rai characters were added

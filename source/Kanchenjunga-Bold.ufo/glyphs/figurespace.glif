@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="figurespace" format="2">
-  <advance width="1240"/>
+  <advance width="1227"/>
   <unicode hex="2007"/>
   <anchor x="600" y="0" name="H"/>
   <anchor x="600" y="-100" name="L"/>
@@ -8,4 +8,10 @@
   <anchor x="1200" y="1000" name="R"/>
   <anchor x="600" y="1530" name="U"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

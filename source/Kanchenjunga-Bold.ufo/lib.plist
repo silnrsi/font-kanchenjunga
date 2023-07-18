@@ -402,7 +402,6 @@
     <string>caroncomb</string>
     <string>tildecomb</string>
     <string>multiply</string>
-    <string>divisionslash</string>
     <string>dieresiscomb</string>
     <string>ringcomb</string>
     <string>cedillacomb</string>
@@ -578,6 +577,8 @@
     <string>u16D64</string>
     <key>idotless</key>
     <string>dotlessi</string>
+    <key>increment</key>
+    <string>Delta</string>
     <key>ja-kirat</key>
     <string>u16D4B</string>
     <key>jha-kirat</key>

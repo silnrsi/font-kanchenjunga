@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="1485"/>
+  <advance width="1455"/>
   <unicode hex="0041"/>
-  <anchor x="735" y="0" name="H"/>
-  <anchor x="732" y="-100" name="L"/>
-  <anchor x="1495" y="0" name="O"/>
-  <anchor x="732" y="1530" name="U"/>
+  <anchor x="726" y="0" name="H"/>
+  <anchor x="717" y="-100" name="L"/>
+  <anchor x="1480" y="0" name="O"/>
+  <anchor x="717" y="1530" name="U"/>
   <outline>
     <contour>
-      <point x="350" y="0" type="line"/>
-      <point x="460" y="355" type="line"/>
-      <point x="1004" y="355" type="line"/>
-      <point x="1115" y="0" type="line"/>
-      <point x="1408" y="0" type="line"/>
-      <point x="1373" y="80"/>
-      <point x="1341" y="168"/>
-      <point x="1278" y="355" type="curve" smooth="yes"/>
-      <point x="908" y="1460" type="line"/>
-      <point x="552" y="1460" type="line"/>
-      <point x="182" y="355" type="line" smooth="yes"/>
-      <point x="119" y="166"/>
-      <point x="88" y="81"/>
-      <point x="52" y="0" type="curve"/>
+      <point x="315" y="0" type="line"/>
+      <point x="433" y="365" type="line"/>
+      <point x="1001" y="365" type="line"/>
+      <point x="1120" y="0" type="line"/>
+      <point x="1384" y="0" type="line"/>
+      <point x="1349" y="80"/>
+      <point x="1315" y="168"/>
+      <point x="1250" y="355" type="curve" smooth="yes"/>
+      <point x="870" y="1460" type="line"/>
+      <point x="561" y="1460" type="line"/>
+      <point x="181" y="355" type="line" smooth="yes"/>
+      <point x="117" y="167"/>
+      <point x="84" y="81"/>
+      <point x="48" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="936" y="570" type="line"/>
-      <point x="526" y="570" type="line"/>
-      <point x="730" y="1228" type="line"/>
+      <point x="937" y="560" type="line"/>
+      <point x="495" y="560" type="line"/>
+      <point x="715" y="1240" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

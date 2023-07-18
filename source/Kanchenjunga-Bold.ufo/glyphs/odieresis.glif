@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="2">
-  <advance width="1160"/>
+  <advance width="1153"/>
   <unicode hex="00F6"/>
-  <anchor x="578" y="0" name="H"/>
-  <anchor x="580" y="-100" name="L"/>
-  <anchor x="790" y="0" name="O"/>
-  <anchor x="1160" y="1000" name="R"/>
-  <anchor x="580" y="1585" name="U"/>
+  <anchor x="575" y="0" name="H"/>
+  <anchor x="577" y="-100" name="L"/>
+  <anchor x="805" y="0" name="O"/>
+  <anchor x="1153" y="1000" name="R"/>
+  <anchor x="577" y="1558" name="U"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="1160"/>
+    <component base="dieresiscomb" xOffset="1153"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

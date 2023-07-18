@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="2">
-  <advance width="1250"/>
+  <advance width="1243"/>
   <unicode hex="017D"/>
-  <anchor x="635" y="-100" name="L"/>
-  <anchor x="635" y="2065" name="U"/>
+  <anchor x="625" y="-100" name="L"/>
+  <anchor x="625" y="2065" name="U"/>
   <outline>
     <component base="Z"/>
-    <component base="caroncomb" xOffset="1223" yOffset="430"/>
+    <component base="caroncomb" xOffset="1207" yOffset="430"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

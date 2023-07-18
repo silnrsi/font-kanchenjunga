@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="2">
-  <advance width="1035"/>
+  <advance width="1012"/>
   <unicode hex="0161"/>
-  <anchor x="515" y="0" name="H"/>
-  <anchor x="515" y="-100" name="L"/>
-  <anchor x="530" y="1635" name="U"/>
+  <anchor x="508" y="0" name="H"/>
+  <anchor x="508" y="-100" name="L"/>
+  <anchor x="518" y="1635" name="U"/>
   <outline>
     <component base="s"/>
-    <component base="caroncomb" xOffset="1118"/>
+    <component base="caroncomb" xOffset="1100"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>
