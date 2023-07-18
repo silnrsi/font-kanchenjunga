@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ta-kirat.alt" format="2">
   <advance width="1288"/>
-  <unicode hex="E052"/>
   <outline>
     <contour>
       <point x="167" y="1149" type="line"/>

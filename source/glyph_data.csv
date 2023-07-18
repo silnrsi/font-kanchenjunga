@@ -223,6 +223,8 @@ hungarumlaut,hungarumlaut,223,20223
 ogonek,ogonek,224,20224
 caron,caron,225,20225
 euro,Euro,1260.1,21260.1
+rupee,uni20A8,1260.2,21260.2
+rupeeIndian,uni20B9,1260.3,21260.3
 eth,eth,1340.1,21340.1
 Eth,Eth,1350.72,21350.72
 thorn,thorn,2500.8,22500.8
@@ -252,15 +254,15 @@ minus,minus,5695.1,25695.1
 acutecomb,acutecomb,6000.5,26000.5
 gravecomb,gravecomb,6050.5,26050.5
 circumflexcomb,uni0302,6110.15,26110.15
-caroncomb,uni030C,6180.5,26180.5
-tildecomb,tildecomb,6200.16,26200.16
-multiply,multiply,6305.1,26305.1
-divisionslash,uni2215,6395.1,26395.1
-dieresiscomb,uni0308,6400.3,26400.3
-ringcomb,uni030A,6450.4,26450.4
-cedillacomb,uni0327,6700.2,26700.2
-blank,blank,6785.2,26785.2
-graphemejoinercomb,uni034F,9300.1,29300.1
+tildecomb,tildecomb,6200.1,26200.11
+dieresiscomb,uni0308,6200.2,26200.2
+ringcomb,uni030A,6200.3,26200.3
+caroncomb,uni030C,6200.4,26200.4
+cedillacomb,uni0327,6200.5,26200.5
+graphemejoinercomb,uni034F,6200.6,26200.6
+multiply,multiply,6395.1,26395.1
+divisionslash,uni2215,6395.2,26395.2
+blank,blank,6795.3,26795.3
 VS1,uniFE00,9401.1,29401.1
 VS2,uniFE01,9402.1,29402.1
 VS3,uniFE02,9403.1,29403.1
@@ -307,6 +309,7 @@ ga-kirat,u16D46,10004,10004
 gha-kirat,u16D47,10005,10005
 nga-kirat,u16D48,10006,10006
 ca-kirat,u16D49,10007,10007
+ca-kirat.alt,u16D49.alt,10007.1,10007.1
 cha-kirat,u16D4A,10008,10008
 ja-kirat,u16D4B,10009,10009
 jha-kirat,u16D4C,10010,10010
@@ -316,6 +319,7 @@ ttha-kirat,u16D4F,10013,10013
 dda-kirat,u16D50,10014,10014
 ddha-kirat,u16D51,10015,10015
 ta-kirat,u16D52,10016,10016
+ta-kirat.alt,u16D52.alt,10016.1,10016.1
 tha-kirat,u16D53,10017,10017
 da-kirat,u16D54,10018,10018
 dha-kirat,u16D55,10019,10019
@@ -325,6 +329,7 @@ pha-kirat,u16D58,10022,10022
 ba-kirat,u16D59,10023,10023
 bha-kirat,u16D5A,10024,10024
 ma-kirat,u16D5B,10025,10025
+ma-kirat.alt,u16D5B.alt,10025.1,10025.1
 ya-kirat,u16D5C,10026,10026
 ra-kirat,u16D5D,10027,10027
 la-kirat,u16D5E,10028,10028
@@ -332,6 +337,7 @@ va-kirat,u16D5F,10029,10029
 sa-kirat,u16D60,10030,10030
 sha-kirat,u16D61,10031,10031
 ha-kirat,u16D62,10032,10032
+ha-kirat.alt,u16D62.alt,10032.1,10032.1
 aaMatra-kirat,u16D63,10033,10033
 iMatra-kirat,u16D64,10034,10034
 uMatra-kirat,u16D65,10035,10035

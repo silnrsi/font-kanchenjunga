@@ -1,0 +1,101 @@
+#
+# Hand-crafted FEA code
+#
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+
+#**********************
+# Substitution lookups
+#
+
+# These are alternatives that are default for some languages, so we create named lookups.
+
+# None for now. Features are a straight substitution
+
+
+#**********************
+# Positioning lookups
+#
+# This is an experiment
+
+lookup PairKerning {
+	pos ka-kirat ta-kirat -113 ;
+	pos iMatra-kirat cha-kirat -183 ;
+	pos iMatra-kirat ta-kirat -183 ;
+	pos iMatra-kirat na-kirat -83 ;
+	pos iMatra-kirat ma-kirat -83 ;
+	pos uMatra-kirat ma-kirat -53 ;
+# 16D44 KIRAT RAI LETTER KA + 16D52 KIRAT RAI LETTER TA ka-kirat ta-kirat
+# 16D64 KIRAT RAI VOWEL SIGN I + 16D4A KIRAT RAI LETTER CHA iMatra-kirat cha-kirat
+# 16D64 KIRAT RAI VOWEL SIGN I + 16D52 KIRAT RAI LETTER TA iMatra-kirat ta-kirat
+# 16D64 KIRAT RAI VOWEL SIGN I + 16D56 KIRAT RAI LETTER NA iMatra-kirat na-kirat
+# 16D64 KIRAT RAI VOWEL SIGN I + 16D5B KIRAT RAI LETTER MA iMatra-kirat ma-kirat
+# 16D65 KIRAT RAI VOWEL SIGN U + 16D5B KIRAT RAI LETTER MA uMatra-kirat  ma-kirat
+
+} PairKerning ;
+
+
+lookup AttachMarks {
+	lookupflag 0;
+	pos base @U mark @_U ;
+	pos base @H mark @_H ;
+} AttachMarks ;
+
+
+#********************
+# GSUB features     *
+#********************
+
+feature cv05 {  # ca alternates
+		cvParameters {
+			FeatUILabelNameID  { name 3 1 0x0409 "Ca alternate" ; } ;
+      ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
+		} ;
+    sub ca-kirat by ca-kirat.alt ;
+#    sub u16D49 by u16D49.alt ;
+} cv05 ;
+
+feature cv15 {  # ta alternates
+		cvParameters {
+			FeatUILabelNameID  { name 3 1 0x0409 "Ta alternate" ; } ;
+      ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
+		} ;
+    sub ta-kirat by ta-kirat.alt ;
+#    sub u16D52 by u16D52.alt ;
+} cv15 ;
+
+feature cv25 {  # ma alternates
+		cvParameters {
+			FeatUILabelNameID  { name 3 1 0x0409 "Ma alternate" ; } ;
+      ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
+		} ;
+    sub ma-kirat by ma-kirat.alt ;
+#    sub u16D5B by u16D5B.alt ;
+} cv25 ;
+
+feature cv35 {  # ha alternates
+		cvParameters {
+			FeatUILabelNameID  { name 3 1 0x0409 "Ha alternate" ; } ;
+      ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
+		} ;
+    sub ha-kirat by ha-kirat.alt ;
+#    sub u16D62 by u16D62.alt ;
+} cv35 ;
+
+
+
+
+#********************
+# GPOS features     *
+#********************
+
+feature kern {
+	lookup PairKerning ;
+} kern ;
+
+feature mark {
+	lookup AttachMarks ;
+} mark ;
+

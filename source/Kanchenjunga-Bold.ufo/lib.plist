@@ -88,64 +88,6 @@
   </dict>
   <key>public.glyphOrder</key>
   <array>
-    <string>a-kirat</string>
-    <string>ka-kirat</string>
-    <string>kha-kirat</string>
-    <string>ga-kirat</string>
-    <string>gha-kirat</string>
-    <string>nga-kirat</string>
-    <string>ca-kirat</string>
-    <string>cha-kirat</string>
-    <string>ja-kirat</string>
-    <string>jha-kirat</string>
-    <string>nya-kirat</string>
-    <string>tta-kirat</string>
-    <string>ttha-kirat</string>
-    <string>dda-kirat</string>
-    <string>ddha-kirat</string>
-    <string>ta-kirat</string>
-    <string>tha-kirat</string>
-    <string>da-kirat</string>
-    <string>dha-kirat</string>
-    <string>na-kirat</string>
-    <string>pa-kirat</string>
-    <string>pha-kirat</string>
-    <string>ba-kirat</string>
-    <string>bha-kirat</string>
-    <string>ma-kirat</string>
-    <string>ya-kirat</string>
-    <string>ra-kirat</string>
-    <string>la-kirat</string>
-    <string>va-kirat</string>
-    <string>sa-kirat</string>
-    <string>sha-kirat</string>
-    <string>ha-kirat</string>
-    <string>aaMatra-kirat</string>
-    <string>iMatra-kirat</string>
-    <string>uMatra-kirat</string>
-    <string>ueMatra-kirat</string>
-    <string>eMatra-kirat</string>
-    <string>aiMatra-kirat</string>
-    <string>oMatra-kirat</string>
-    <string>auMatra-kirat</string>
-    <string>halant-kirat</string>
-    <string>anusvara-kirat</string>
-    <string>tonpi-kirat</string>
-    <string>visarga-kirat</string>
-    <string>saat-kirat</string>
-    <string>yupi-kirat</string>
-    <string>danda-kirat</string>
-    <string>doubleDanda-kirat</string>
-    <string>zero-kirat</string>
-    <string>one-kirat</string>
-    <string>two-kirat</string>
-    <string>three-kirat</string>
-    <string>four-kirat</string>
-    <string>five-kirat</string>
-    <string>six-kirat</string>
-    <string>seven-kirat</string>
-    <string>eight-kirat</string>
-    <string>nine-kirat</string>
     <string>space</string>
     <string>exclam</string>
     <string>quotedbl</string>
@@ -370,6 +312,8 @@
     <string>ogonek</string>
     <string>caron</string>
     <string>euro</string>
+    <string>rupee</string>
+    <string>rupeeIndian</string>
     <string>eth</string>
     <string>Eth</string>
     <string>thorn</string>
@@ -399,14 +343,14 @@
     <string>acutecomb</string>
     <string>gravecomb</string>
     <string>circumflexcomb</string>
-    <string>caroncomb</string>
     <string>tildecomb</string>
-    <string>multiply</string>
     <string>dieresiscomb</string>
     <string>ringcomb</string>
+    <string>caroncomb</string>
     <string>cedillacomb</string>
-    <string>blank</string>
     <string>graphemejoinercomb</string>
+    <string>multiply</string>
+    <string>blank</string>
     <string>VS1</string>
     <string>VS2</string>
     <string>VS3</string>
@@ -446,6 +390,68 @@
     <string>replacementCharacter</string>
     <string>sidebearingleft</string>
     <string>sidebearingright</string>
+    <string>a-kirat</string>
+    <string>ka-kirat</string>
+    <string>kha-kirat</string>
+    <string>ga-kirat</string>
+    <string>gha-kirat</string>
+    <string>nga-kirat</string>
+    <string>ca-kirat</string>
+    <string>ca-kirat.alt</string>
+    <string>cha-kirat</string>
+    <string>ja-kirat</string>
+    <string>jha-kirat</string>
+    <string>nya-kirat</string>
+    <string>tta-kirat</string>
+    <string>ttha-kirat</string>
+    <string>dda-kirat</string>
+    <string>ddha-kirat</string>
+    <string>ta-kirat</string>
+    <string>ta-kirat.alt</string>
+    <string>tha-kirat</string>
+    <string>da-kirat</string>
+    <string>dha-kirat</string>
+    <string>na-kirat</string>
+    <string>pa-kirat</string>
+    <string>pha-kirat</string>
+    <string>ba-kirat</string>
+    <string>bha-kirat</string>
+    <string>ma-kirat</string>
+    <string>ma-kirat.alt</string>
+    <string>ya-kirat</string>
+    <string>ra-kirat</string>
+    <string>la-kirat</string>
+    <string>va-kirat</string>
+    <string>sa-kirat</string>
+    <string>sha-kirat</string>
+    <string>ha-kirat</string>
+    <string>ha-kirat.alt</string>
+    <string>aaMatra-kirat</string>
+    <string>iMatra-kirat</string>
+    <string>uMatra-kirat</string>
+    <string>ueMatra-kirat</string>
+    <string>eMatra-kirat</string>
+    <string>aiMatra-kirat</string>
+    <string>oMatra-kirat</string>
+    <string>auMatra-kirat</string>
+    <string>halant-kirat</string>
+    <string>anusvara-kirat</string>
+    <string>tonpi-kirat</string>
+    <string>visarga-kirat</string>
+    <string>saat-kirat</string>
+    <string>yupi-kirat</string>
+    <string>danda-kirat</string>
+    <string>doubleDanda-kirat</string>
+    <string>zero-kirat</string>
+    <string>one-kirat</string>
+    <string>two-kirat</string>
+    <string>three-kirat</string>
+    <string>four-kirat</string>
+    <string>five-kirat</string>
+    <string>six-kirat</string>
+    <string>seven-kirat</string>
+    <string>eight-kirat</string>
+    <string>nine-kirat</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -501,6 +507,8 @@
     <string>uni2219</string>
     <key>ca-kirat</key>
     <string>u16D49</string>
+    <key>ca-kirat.alt</key>
+    <string>u16D49.alt</string>
     <key>caroncomb</key>
     <string>uni030C</string>
     <key>cedillacomb</key>
@@ -563,6 +571,8 @@
     <string>guillemotright</string>
     <key>ha-kirat</key>
     <string>u16D62</string>
+    <key>ha-kirat.alt</key>
+    <string>u16D62.alt</string>
     <key>hairspace</key>
     <string>uni200A</string>
     <key>halant-kirat</key>
@@ -593,6 +603,8 @@
     <string>uni2028</string>
     <key>ma-kirat</key>
     <string>u16D5B</string>
+    <key>ma-kirat.alt</key>
+    <string>u16D5B.alt</string>
     <key>micro</key>
     <string>uni00B5</string>
     <key>na-kirat</key>
@@ -629,6 +641,10 @@
     <string>uniFFFD</string>
     <key>ringcomb</key>
     <string>uni030A</string>
+    <key>rupee</key>
+    <string>uni20A8</string>
+    <key>rupeeIndian</key>
+    <string>uni20B9</string>
     <key>sa-kirat</key>
     <string>u16D60</string>
     <key>saat-kirat</key>
@@ -649,6 +665,8 @@
     <string>uni00AD</string>
     <key>ta-kirat</key>
     <string>u16D52</string>
+    <key>ta-kirat.alt</key>
+    <string>u16D52.alt</string>
     <key>tha-kirat</key>
     <string>u16D53</string>
     <key>thinspace</key>

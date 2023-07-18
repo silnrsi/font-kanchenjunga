@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ca-kirat.alt" format="2">
   <advance width="1547"/>
-  <unicode hex="E049"/>
   <outline>
     <contour>
       <point x="1225" y="0" type="curve"/>

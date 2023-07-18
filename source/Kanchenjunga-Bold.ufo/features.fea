@@ -1,0 +1,677 @@
+
+# Main Classes
+@GDEF_bases = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Ohm Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 W X Y Yacute Ydieresis Z Zcaron a a-kirat aaMatra-kirat aacute acircumflex acute adieresis ae agrave aiMatra-kirat ampersand anusvara-kirat approxequal aring asciicircum asciitilde asterisk at atilde auMatra-kirat b ba-kirat backslash bar bha-kirat blank braceleft braceright bracketleft bracketright brokenbar bullet bulletoperator c ca-kirat ca-kirat.alt caron ccedilla cedilla cent cha-kirat circumflex colon comma copyright currency d da-kirat dagger daggerdbl danda-kirat dda-kirat ddha-kirat degree dha-kirat divide dollar dotaccent dottedCircle doubleDanda-kirat e eMatra-kirat eacute ecircumflex edieresis egrave eight eight-kirat ellipsis emdash emquad emspace endash enquad enspace equal eth euro exclam exclamdown f fi figuredash figurespace five five-kirat fl florin four four-kirat fourperemspace foursuperior fraction g ga-kirat germandbls gha-kirat grave greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright h ha-kirat ha-kirat.alt hairspace halant-kirat horizontalbar hungarumlaut hyphen hyphenationpoint hyphentwo i iMatra-kirat iacute icircumflex idieresis idotless igrave increment infinity integral j ja-kirat jha-kirat k ka-kirat kha-kirat l la-kirat less lessequal lineseparator logicalnot lozenge m ma-kirat ma-kirat.alt macron micro minus multiply n na-kirat narrownbspace nbspace nga-kirat nine nine-kirat nonbreakinghyphen notequal ntilde numbersign nya-kirat o oMatra-kirat oacute objectReplacementCharacter ocircumflex odieresis oe ogonek ograve one one-kirat onehalf onequarter onesuperior ordfeminine ordmasculine oslash otilde p pa-kirat paragraph paragraphseparator parenleft parenright partialdiff percent period periodcentered perthousand pha-kirat pi plus plusminus product punctuationspace q question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle r ra-kirat radical registered replacementCharacter ring rupee rupeeIndian s sa-kirat saat-kirat scaron section semicolon seven seven-kirat sha-kirat sidebearingleft sidebearingright six six-kirat sixperemspace slash softhyphen space sterling summation t ta-kirat ta-kirat.alt tha-kirat thinspace thorn three three-kirat threeperemspace threequarters threesuperior tilde tonpi-kirat trademark tta-kirat ttha-kirat two two-kirat twosuperior u uMatra-kirat uacute ucircumflex udieresis ueMatra-kirat ugrave underscore v va-kirat visarga-kirat w wordjoiner x y ya-kirat yacute ydieresis yen yupi-kirat z zcaron zero zero-kirat zeroWidthNoBreakSpace zerowidthjoiner zerowidthnonjoiner zerowidthspace];
+@GDEF_marks = [acutecomb breve caroncomb cedillacomb circumflexcomb dieresis dieresiscomb graphemejoinercomb gravecomb ringcomb tildecomb];
+@c_alt = [ca-kirat.alt ha-kirat.alt ma-kirat.alt ta-kirat.alt];
+@cno_alt = [ca-kirat ha-kirat ma-kirat ta-kirat];
+
+# Positioning classes and statements
+
+# AP: H
+@H = [A Aacute Acircumflex Adieresis Agrave Aring Atilde C E Eacute Ecircumflex Edieresis Egrave G H I Iacute Icircumflex Idieresis Igrave K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Otilde R S Scaron T U Uacute Ucircumflex Udieresis Ugrave V a aacute acircumflex adieresis agrave aring atilde ae b c d dottedCircle e eacute ecircumflex edieresis egrave emquad emspace enquad enspace nbspace t f figurespace fourperemspace g h hairspace i iacute icircumflex idieresis idotless igrave k l m n ntilde narrownbspace thinspace o oacute ocircumflex odieresis ograve otilde oe oslash p punctuationspace r s scaron sixperemspace space threeperemspace u uacute ucircumflex udieresis ugrave v x z zcaron];
+# baseClass [A Aacute Acircumflex Adieresis Agrave Aring Atilde] <anchor 726 0> @H;
+# baseClass C <anchor 747 0> @H;
+# baseClass [E Eacute Ecircumflex Edieresis Egrave] <anchor 607 0> @H;
+# baseClass G <anchor 786 0> @H;
+# baseClass H <anchor 298 0> @H;
+# baseClass [I Iacute Icircumflex Idieresis Igrave] <anchor 506 0> @H;
+# baseClass K <anchor 303 0> @H;
+# baseClass L <anchor 611 0> @H;
+# baseClass M <anchor 1536 0> @H;
+# baseClass [N Ntilde] <anchor 1237 0> @H;
+# baseClass [O Oacute Ocircumflex Odieresis Ograve Otilde] <anchor 732 0> @H;
+# baseClass R <anchor 555 0> @H;
+# baseClass [S Scaron] <anchor 604 0> @H;
+# baseClass T <anchor 622 0> @H;
+# baseClass [U Uacute Ucircumflex Udieresis Ugrave] <anchor 724 0> @H;
+# baseClass V <anchor 713 0> @H;
+# baseClass [a aacute acircumflex adieresis agrave aring atilde] <anchor 587 0> @H;
+# baseClass ae <anchor 1121 0> @H;
+# baseClass b <anchor 603 0> @H;
+# baseClass c <anchor 563 1> @H;
+# baseClass d <anchor 598 0> @H;
+# baseClass dottedCircle <anchor 553 0> @H;
+# baseClass [e eacute ecircumflex edieresis egrave] <anchor 561 0> @H;
+# baseClass [emquad emspace] <anchor 1024 0> @H;
+# baseClass [enquad enspace nbspace t] <anchor 512 0> @H;
+# baseClass f <anchor 377 0> @H;
+# baseClass figurespace <anchor 600 0> @H;
+# baseClass fourperemspace <anchor 256 0> @H;
+# baseClass g <anchor 572 -454> @H;
+# baseClass h <anchor 270 0> @H;
+# baseClass hairspace <anchor 102 0> @H;
+# baseClass i <anchor 317 0> @H;
+# baseClass [iacute icircumflex idieresis idotless igrave] <anchor 308 0> @H;
+# baseClass k <anchor 265 0> @H;
+# baseClass l <anchor 320 0> @H;
+# baseClass m <anchor 1469 0> @H;
+# baseClass [n ntilde] <anchor 737 0> @H;
+# baseClass [narrownbspace thinspace] <anchor 205 0> @H;
+# baseClass [o oacute ocircumflex odieresis ograve otilde] <anchor 575 0> @H;
+# baseClass oe <anchor 1195 0> @H;
+# baseClass oslash <anchor 577 0> @H;
+# baseClass p <anchor 282 -435> @H;
+# baseClass punctuationspace <anchor 322 0> @H;
+# baseClass r <anchor 280 0> @H;
+# baseClass [s scaron] <anchor 508 0> @H;
+# baseClass sixperemspace <anchor 170 0> @H;
+# baseClass space <anchor 268 0> @H;
+# baseClass threeperemspace <anchor 341 0> @H;
+# baseClass [u uacute ucircumflex udieresis ugrave] <anchor 540 0> @H;
+# baseClass v <anchor 560 0> @H;
+# baseClass x <anchor 940 0> @H;
+# baseClass [z zcaron] <anchor 535 0> @H;
+
+# AP: L
+@L = [A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D E Eacute Ecircumflex Edieresis Egrave Eth K F zero G H I Iacute Icircumflex Idieresis Igrave J L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Otilde OE Oslash P germandbls Q R X S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V W Y Yacute Ydieresis Z Zcaron a aacute acircumflex adieresis agrave aring atilde ae b c ccedilla cedilla d dottedCircle e eacute ecircumflex edieresis egrave eight five nine one seven six three two emquad emspace enquad enspace nbspace t eth o oacute ocircumflex odieresis ograve oslash otilde f fi fl figurespace florin four fourperemspace foursuperior onesuperior threesuperior twosuperior g h hairspace i iacute icircumflex idieresis idotless igrave j k l m n ntilde narrownbspace thinspace oe ogonek p thorn pi punctuationspace q r space s scaron sixperemspace summation threeperemspace u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z zcaron zero-kirat];
+@L_MarkBase = [cedillacomb];
+# baseClass [A Aacute Acircumflex Adieresis Agrave Aring Atilde] <anchor 717 -100> @L;
+# baseClass AE <anchor 1012 -100> @L;
+# baseClass B <anchor 652 -100> @L;
+# baseClass C <anchor 747 -100> @L;
+# baseClass Ccedilla <anchor 713 -527> @L;
+# baseClass D <anchor 752 -100> @L;
+# baseClass [E Eacute Ecircumflex Edieresis Egrave] <anchor 607 -100> @L;
+# baseClass [Eth K] <anchor 725 -100> @L;
+# baseClass [F zero] <anchor 618 -100> @L;
+# baseClass G <anchor 786 -100> @L;
+# baseClass H <anchor 738 -100> @L;
+# baseClass [I Iacute Icircumflex Idieresis Igrave] <anchor 503 -100> @L;
+# baseClass J <anchor 413 -100> @L;
+# baseClass L <anchor 611 -100> @L;
+# baseClass M <anchor 905 -100> @L;
+# baseClass [N Ntilde] <anchor 756 -100> @L;
+# baseClass [O Oacute Ocircumflex Odieresis Ograve Otilde] <anchor 732 -100> @L;
+# baseClass OE <anchor 995 -100> @L;
+# baseClass Oslash <anchor 730 -100> @L;
+# baseClass [P germandbls] <anchor 669 -100> @L;
+# baseClass Q <anchor 737 -270> @L;
+# baseClass [R X] <anchor 663 -100> @L;
+# baseClass [S Scaron] <anchor 604 -100> @L;
+# baseClass T <anchor 622 -100> @L;
+# baseClass Thorn <anchor 679 -100> @L;
+# baseClass [U Uacute Ucircumflex Udieresis Ugrave] <anchor 724 -100> @L;
+# baseClass V <anchor 705 -100> @L;
+# baseClass W <anchor 1044 -100> @L;
+# baseClass [Y Yacute Ydieresis] <anchor 665 -100> @L;
+# baseClass [Z Zcaron] <anchor 625 -100> @L;
+# baseClass [a aacute acircumflex adieresis agrave aring atilde] <anchor 587 -100> @L;
+# baseClass ae <anchor 858 -100> @L;
+# baseClass b <anchor 603 -100> @L;
+# baseClass c <anchor 577 -99> @L;
+# baseClass ccedilla <anchor 530 -526> @L;
+# baseClass cedilla <anchor 122 -527> @L;
+# baseClass d <anchor 598 -100> @L;
+# baseClass dottedCircle <anchor 553 -100> @L;
+# baseClass [e eacute ecircumflex edieresis egrave] <anchor 583 -100> @L;
+# baseClass [eight five nine one seven six three two] <anchor 617 -100> @L;
+# baseClass [emquad emspace] <anchor 1024 -100> @L;
+# baseClass [enquad enspace nbspace t] <anchor 512 -100> @L;
+# baseClass [eth o oacute ocircumflex odieresis ograve oslash otilde] <anchor 577 -100> @L;
+# baseClass f <anchor 378 -100> @L;
+# baseClass [fi fl] <anchor 1025 -100> @L;
+# baseClass figurespace <anchor 600 -100> @L;
+# baseClass florin <anchor 304 -500> @L;
+# baseClass four <anchor 619 -100> @L;
+# baseClass fourperemspace <anchor 256 -100> @L;
+# baseClass [foursuperior onesuperior threesuperior twosuperior] <anchor 420 615> @L;
+# baseClass g <anchor 572 -535> @L;
+# baseClass h <anchor 608 -100> @L;
+# baseClass hairspace <anchor 102 -100> @L;
+# baseClass [i iacute icircumflex idieresis idotless igrave] <anchor 308 -100> @L;
+# baseClass j <anchor 135 -500> @L;
+# baseClass k <anchor 581 -100> @L;
+# baseClass l <anchor 320 -100> @L;
+# baseClass m <anchor 882 -100> @L;
+# baseClass [n ntilde] <anchor 613 -100> @L;
+# baseClass [narrownbspace thinspace] <anchor 205 -100> @L;
+# baseClass oe <anchor 940 -100> @L;
+# baseClass ogonek <anchor 368 -400> @L;
+# baseClass [p thorn] <anchor 713 -100> @L;
+# baseClass pi <anchor 681 -100> @L;
+# baseClass punctuationspace <anchor 322 -100> @L;
+# baseClass q <anchor 450 -100> @L;
+# baseClass [r space] <anchor 268 -100> @L;
+# baseClass [s scaron] <anchor 508 -100> @L;
+# baseClass sixperemspace <anchor 170 -100> @L;
+# baseClass summation <anchor 595 -100> @L;
+# baseClass threeperemspace <anchor 341 -100> @L;
+# baseClass [u uacute ucircumflex udieresis ugrave] <anchor 606 -100> @L;
+# baseClass v <anchor 555 -100> @L;
+# baseClass w <anchor 782 -100> @L;
+# baseClass x <anchor 574 -100> @L;
+# baseClass [y yacute ydieresis] <anchor 828 -100> @L;
+# baseClass [z zcaron] <anchor 535 -100> @L;
+# baseClass zero-kirat <anchor 555 -90> @L;
+# baseClass cedillacomb <anchor -510 -527> @L_MarkBase;
+
+# AP: O
+@O = [A Aacute Acircumflex Adieresis Agrave Aring Atilde E Eacute Ecircumflex Edieresis Egrave U Uacute Ucircumflex Udieresis Ugrave I Iacute Icircumflex Idieresis Igrave O Oacute Ocircumflex Odieresis Ograve Otilde V a aacute acircumflex adieresis agrave aring atilde ae dottedCircle e eacute ecircumflex edieresis egrave emquad emspace enquad enspace nbspace figurespace fourperemspace hairspace i iacute icircumflex idieresis idotless igrave m narrownbspace thinspace o oacute ocircumflex odieresis ograve otilde oe oslash punctuationspace sixperemspace space threeperemspace u uacute ucircumflex udieresis ugrave v];
+# baseClass [A Aacute Acircumflex Adieresis Agrave Aring Atilde] <anchor 1480 0> @O;
+# baseClass [E Eacute Ecircumflex Edieresis Egrave U Uacute Ucircumflex Udieresis Ugrave] <anchor 975 0> @O;
+# baseClass [I Iacute Icircumflex Idieresis Igrave] <anchor 699 0> @O;
+# baseClass [O Oacute Ocircumflex Odieresis Ograve Otilde] <anchor 982 0> @O;
+# baseClass V <anchor 913 0> @O;
+# baseClass [a aacute acircumflex adieresis agrave aring atilde] <anchor 1165 0> @O;
+# baseClass ae <anchor 1584 0> @O;
+# baseClass dottedCircle <anchor 810 0> @O;
+# baseClass [e eacute ecircumflex edieresis egrave] <anchor 908 0> @O;
+# baseClass [emquad emspace] <anchor 1074 0> @O;
+# baseClass [enquad enspace nbspace] <anchor 562 0> @O;
+# baseClass figurespace <anchor 650 0> @O;
+# baseClass fourperemspace <anchor 306 0> @O;
+# baseClass hairspace <anchor 153 0> @O;
+# baseClass i <anchor 553 0> @O;
+# baseClass [iacute icircumflex idieresis idotless igrave] <anchor 560 0> @O;
+# baseClass m <anchor 1090 0> @O;
+# baseClass [narrownbspace thinspace] <anchor 255 0> @O;
+# baseClass [o oacute ocircumflex odieresis ograve otilde] <anchor 805 0> @O;
+# baseClass oe <anchor 1606 0> @O;
+# baseClass oslash <anchor 833 0> @O;
+# baseClass punctuationspace <anchor 372 0> @O;
+# baseClass sixperemspace <anchor 220 0> @O;
+# baseClass space <anchor 319 0> @O;
+# baseClass threeperemspace <anchor 392 0> @O;
+# baseClass [u uacute ucircumflex udieresis ugrave] <anchor 857 0> @O;
+# baseClass v <anchor 742 0> @O;
+
+# AP: U
+@U = [A AE Aacute Acircumflex Adieresis Agrave Aring Ucircumflex Atilde B C Ccedilla D E Eacute Ecircumflex Edieresis Egrave Eth F zero G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Oslash Otilde P Q R S Scaron T Thorn U Uacute Udieresis Ugrave V W X Y Yacute Zcaron Ydieresis Z a aacute acircumflex acute adieresis ae agrave aring k asciicircum atilde b egrave ograve c ccedilla caron d h dottedCircle e o oslash eacute oacute ecircumflex ocircumflex edieresis odieresis eight five nine one seven six three emquad emspace enquad enspace eth f fi figurespace fl florin four fourperemspace foursuperior onesuperior threesuperior twosuperior g germandbls grave hairspace hyphen nonbreakinghyphen softhyphen hyphentwo i iacute icircumflex idieresis idotless igrave j l m n narrownbspace thinspace nbspace ntilde oe otilde p pi punctuationspace q r s scaron sixperemspace space summation t thorn threeperemspace two u uacute ucircumflex udieresis ugrave v y w x yacute ydieresis z zcaron zero-kirat];
+@U_MarkBase = [acutecomb breve caroncomb circumflexcomb dieresis dieresiscomb gravecomb ringcomb tildecomb];
+# baseClass A <anchor 717 1530> @U;
+# baseClass AE <anchor 1012 1530> @U;
+# baseClass Aacute <anchor 677 2065> @U;
+# baseClass Acircumflex <anchor 712 2065> @U;
+# baseClass Adieresis <anchor 717 1988> @U;
+# baseClass Agrave <anchor 744 2065> @U;
+# baseClass [Aring Ucircumflex] <anchor 718 2065> @U;
+# baseClass Atilde <anchor 717 1915> @U;
+# baseClass B <anchor 652 1530> @U;
+# baseClass [C Ccedilla] <anchor 747 1530> @U;
+# baseClass D <anchor 752 1530> @U;
+# baseClass E <anchor 607 1530> @U;
+# baseClass Eacute <anchor 567 2065> @U;
+# baseClass Ecircumflex <anchor 601 2065> @U;
+# baseClass Edieresis <anchor 607 1988> @U;
+# baseClass Egrave <anchor 633 2065> @U;
+# baseClass Eth <anchor 725 1530> @U;
+# baseClass [F zero] <anchor 618 1530> @U;
+# baseClass G <anchor 786 1530> @U;
+# baseClass H <anchor 738 1530> @U;
+# baseClass I <anchor 506 1530> @U;
+# baseClass Iacute <anchor 466 2065> @U;
+# baseClass Icircumflex <anchor 500 2065> @U;
+# baseClass Idieresis <anchor 506 1988> @U;
+# baseClass Igrave <anchor 532 2065> @U;
+# baseClass J <anchor 695 1530> @U;
+# baseClass K <anchor 700 1530> @U;
+# baseClass L <anchor 611 1530> @U;
+# baseClass M <anchor 905 1530> @U;
+# baseClass N <anchor 756 1530> @U;
+# baseClass Ntilde <anchor 756 1915> @U;
+# baseClass O <anchor 732 1530> @U;
+# baseClass OE <anchor 995 1530> @U;
+# baseClass Oacute <anchor 692 2065> @U;
+# baseClass Ocircumflex <anchor 727 2065> @U;
+# baseClass Odieresis <anchor 732 1988> @U;
+# baseClass Ograve <anchor 759 2065> @U;
+# baseClass Oslash <anchor 730 1530> @U;
+# baseClass Otilde <anchor 732 1915> @U;
+# baseClass P <anchor 669 1530> @U;
+# baseClass Q <anchor 737 1530> @U;
+# baseClass R <anchor 643 1530> @U;
+# baseClass S <anchor 604 1530> @U;
+# baseClass Scaron <anchor 604 2065> @U;
+# baseClass T <anchor 622 1530> @U;
+# baseClass Thorn <anchor 659 1530> @U;
+# baseClass U <anchor 724 1530> @U;
+# baseClass Uacute <anchor 684 2065> @U;
+# baseClass Udieresis <anchor 724 1988> @U;
+# baseClass Ugrave <anchor 750 2065> @U;
+# baseClass V <anchor 705 1530> @U;
+# baseClass W <anchor 1044 1530> @U;
+# baseClass X <anchor 663 1530> @U;
+# baseClass Y <anchor 665 1530> @U;
+# baseClass [Yacute Zcaron] <anchor 625 2065> @U;
+# baseClass Ydieresis <anchor 665 1988> @U;
+# baseClass Z <anchor 625 1530> @U;
+# baseClass a <anchor 587 1100> @U;
+# baseClass aacute <anchor 547 1635> @U;
+# baseClass acircumflex <anchor 581 1635> @U;
+# baseClass acute <anchor 187 1635> @U;
+# baseClass adieresis <anchor 587 1558> @U;
+# baseClass ae <anchor 916 1100> @U;
+# baseClass agrave <anchor 613 1635> @U;
+# baseClass [aring k] <anchor 587 1635> @U;
+# baseClass asciicircum <anchor 440 1635> @U;
+# baseClass atilde <anchor 587 1485> @U;
+# baseClass [b egrave ograve] <anchor 603 1635> @U;
+# baseClass [c ccedilla] <anchor 573 1101> @U;
+# baseClass caron <anchor 435 1635> @U;
+# baseClass [d h] <anchor 608 1635> @U;
+# baseClass dottedCircle <anchor 553 1000> @U;
+# baseClass [e o oslash] <anchor 577 1100> @U;
+# baseClass [eacute oacute] <anchor 537 1635> @U;
+# baseClass [ecircumflex ocircumflex] <anchor 571 1635> @U;
+# baseClass [edieresis odieresis] <anchor 577 1558> @U;
+# baseClass [eight five nine one seven six three] <anchor 617 1530> @U;
+# baseClass [emquad emspace] <anchor 1024 1530> @U;
+# baseClass [enquad enspace] <anchor 512 1530> @U;
+# baseClass eth <anchor 577 1635> @U;
+# baseClass f <anchor 472 1635> @U;
+# baseClass fi <anchor 1021 1635> @U;
+# baseClass figurespace <anchor 600 1530> @U;
+# baseClass fl <anchor 1025 1635> @U;
+# baseClass florin <anchor 580 1635> @U;
+# baseClass four <anchor 619 1530> @U;
+# baseClass fourperemspace <anchor 256 1530> @U;
+# baseClass [foursuperior onesuperior threesuperior twosuperior] <anchor 420 1675> @U;
+# baseClass g <anchor 548 1100> @U;
+# baseClass germandbls <anchor 693 1635> @U;
+# baseClass grave <anchor 463 1635> @U;
+# baseClass hairspace <anchor 102 1530> @U;
+# baseClass [hyphen nonbreakinghyphen softhyphen] <anchor 443 1100> @U;
+# baseClass hyphentwo <anchor 437 1100> @U;
+# baseClass i <anchor 307 1100> @U;
+# baseClass iacute <anchor 268 1635> @U;
+# baseClass icircumflex <anchor 303 1635> @U;
+# baseClass idieresis <anchor 308 1558> @U;
+# baseClass idotless <anchor 308 1100> @U;
+# baseClass igrave <anchor 335 1635> @U;
+# baseClass j <anchor 341 1100> @U;
+# baseClass l <anchor 308 1635> @U;
+# baseClass m <anchor 882 1100> @U;
+# baseClass n <anchor 613 1100> @U;
+# baseClass [narrownbspace thinspace] <anchor 205 1530> @U;
+# baseClass nbspace <anchor 512 1500> @U;
+# baseClass ntilde <anchor 613 1485> @U;
+# baseClass oe <anchor 940 1100> @U;
+# baseClass otilde <anchor 577 1485> @U;
+# baseClass p <anchor 623 1100> @U;
+# baseClass pi <anchor 681 1100> @U;
+# baseClass punctuationspace <anchor 322 1530> @U;
+# baseClass q <anchor 585 1100> @U;
+# baseClass [r s] <anchor 518 1100> @U;
+# baseClass scaron <anchor 518 1635> @U;
+# baseClass sixperemspace <anchor 170 1530> @U;
+# baseClass space <anchor 268 1530> @U;
+# baseClass summation <anchor 595 1530> @U;
+# baseClass t <anchor 348 1360> @U;
+# baseClass thorn <anchor 606 1635> @U;
+# baseClass threeperemspace <anchor 341 1530> @U;
+# baseClass two <anchor 603 1530> @U;
+# baseClass u <anchor 606 1100> @U;
+# baseClass uacute <anchor 566 1635> @U;
+# baseClass ucircumflex <anchor 601 1635> @U;
+# baseClass udieresis <anchor 606 1558> @U;
+# baseClass ugrave <anchor 633 1635> @U;
+# baseClass [v y] <anchor 555 1100> @U;
+# baseClass w <anchor 782 1100> @U;
+# baseClass x <anchor 591 1100> @U;
+# baseClass yacute <anchor 515 1635> @U;
+# baseClass ydieresis <anchor 555 1558> @U;
+# baseClass z <anchor 535 1100> @U;
+# baseClass zcaron <anchor 535 1635> @U;
+# baseClass zero-kirat <anchor 555 1540> @U;
+# baseClass acutecomb <anchor -590 1635> @U_MarkBase;
+# baseClass breve <anchor 395 1632> @U_MarkBase;
+# baseClass [caroncomb circumflexcomb] <anchor -582 1635> @U_MarkBase;
+# baseClass dieresis <anchor 393 1558> @U_MarkBase;
+# baseClass dieresiscomb <anchor -577 1558> @U_MarkBase;
+# baseClass [gravecomb ringcomb] <anchor -577 1635> @U_MarkBase;
+# baseClass tildecomb <anchor -578 1485> @U_MarkBase;
+
+# AP: R
+@R = [E Eacute Ecircumflex Edieresis Egrave I Iacute Icircumflex Idieresis Igrave L O Oacute Ocircumflex Odieresis Ograve Otilde U Uacute Ucircumflex Udieresis Ugrave a aacute acircumflex adieresis agrave aring atilde ae b c ccedilla d e eacute ecircumflex edieresis egrave emquad emspace enquad enspace nbspace fi figurespace fl fourperemspace g hairspace i iacute icircumflex idieresis idotless igrave k l narrownbspace thinspace o oacute ocircumflex odieresis ograve otilde oe oslash p punctuationspace q sixperemspace space t threeperemspace u uacute ucircumflex udieresis ugrave y yacute ydieresis];
+# baseClass [E Eacute Ecircumflex Edieresis Egrave] <anchor 1218 1200> @R;
+# baseClass [I Iacute Icircumflex Idieresis Igrave] <anchor 1001 1200> @R;
+# baseClass L <anchor 613 1200> @R;
+# baseClass [O Oacute Ocircumflex Odieresis Ograve Otilde] <anchor 1473 1200> @R;
+# baseClass [U Uacute Ucircumflex Udieresis Ugrave] <anchor 1453 1200> @R;
+# baseClass [a aacute acircumflex adieresis agrave aring atilde] <anchor 1177 1000> @R;
+# baseClass ae <anchor 1792 1000> @R;
+# baseClass b <anchor 1195 1000> @R;
+# baseClass [c ccedilla] <anchor 1020 1001> @R;
+# baseClass d <anchor 1253 1000> @R;
+# baseClass [e eacute ecircumflex edieresis egrave] <anchor 1118 1000> @R;
+# baseClass [emquad emspace] <anchor 2048 1000> @R;
+# baseClass [enquad enspace nbspace] <anchor 1024 1000> @R;
+# baseClass fi <anchor 1332 1000> @R;
+# baseClass figurespace <anchor 1200 1000> @R;
+# baseClass fl <anchor 1345 1000> @R;
+# baseClass fourperemspace <anchor 512 1000> @R;
+# baseClass g <anchor 1156 1000> @R;
+# baseClass hairspace <anchor 205 1000> @R;
+# baseClass i <anchor 612 1000> @R;
+# baseClass [iacute icircumflex idieresis idotless igrave] <anchor 610 1000> @R;
+# baseClass k <anchor 1105 1000> @R;
+# baseClass l <anchor 623 1000> @R;
+# baseClass [narrownbspace thinspace] <anchor 410 1000> @R;
+# baseClass [o oacute ocircumflex odieresis ograve otilde] <anchor 1153 1000> @R;
+# baseClass oe <anchor 1845 1000> @R;
+# baseClass oslash <anchor 1167 1000> @R;
+# baseClass p <anchor 1213 1000> @R;
+# baseClass punctuationspace <anchor 645 1000> @R;
+# baseClass q <anchor 1183 1000> @R;
+# baseClass sixperemspace <anchor 341 1000> @R;
+# baseClass space <anchor 537 1000> @R;
+# baseClass t <anchor 868 1000> @R;
+# baseClass threeperemspace <anchor 683 1000> @R;
+# baseClass [u uacute ucircumflex udieresis ugrave] <anchor 1234 1000> @R;
+# baseClass [y yacute ydieresis] <anchor 1143 1000> @R;
+
+# AP: _U
+markClass acutecomb <anchor -550 1100> @_U;
+markClass breve <anchor 395 1100> @_U;
+markClass caroncomb <anchor -582 1100> @_U;
+markClass [circumflexcomb dieresiscomb ringcomb] <anchor -577 1100> @_U;
+markClass dieresis <anchor 393 1100> @_U;
+markClass gravecomb <anchor -603 1100> @_U;
+markClass tildecomb <anchor -578 1100> @_U;
+
+# AP: _H
+markClass cedillacomb <anchor -477 0> @_H;
+
+# AP: _none
+markClass graphemejoinercomb <anchor 0 0> @_none;
+#
+# Hand-crafted FEA code
+#
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+#**********************
+# Substitution lookups
+#
+# These are alternatives that are default for some languages, so we create named lookups.
+# None for now. Features are a straight substitution
+#**********************
+# Positioning lookups
+#
+# This is an experiment
+lookup PairKerning {
+    pos ka-kirat ta-kirat -113;
+    pos iMatra-kirat cha-kirat -183;
+    pos iMatra-kirat ta-kirat -183;
+    pos iMatra-kirat na-kirat -83;
+    pos iMatra-kirat ma-kirat -83;
+    pos uMatra-kirat ma-kirat -53;
+    # 16D44 KIRAT RAI LETTER KA + 16D52 KIRAT RAI LETTER TA ka-kirat ta-kirat
+    # 16D64 KIRAT RAI VOWEL SIGN I + 16D4A KIRAT RAI LETTER CHA iMatra-kirat cha-kirat
+    # 16D64 KIRAT RAI VOWEL SIGN I + 16D52 KIRAT RAI LETTER TA iMatra-kirat ta-kirat
+    # 16D64 KIRAT RAI VOWEL SIGN I + 16D56 KIRAT RAI LETTER NA iMatra-kirat na-kirat
+    # 16D64 KIRAT RAI VOWEL SIGN I + 16D5B KIRAT RAI LETTER MA iMatra-kirat ma-kirat
+    # 16D65 KIRAT RAI VOWEL SIGN U + 16D5B KIRAT RAI LETTER MA uMatra-kirat  ma-kirat
+} PairKerning;
+
+lookup AttachMarks {
+    lookupflag 0;
+    pos base A <anchor 717 1530> mark @_U;
+    pos base AE <anchor 1012 1530> mark @_U;
+    pos base Aacute <anchor 677 2065> mark @_U;
+    pos base Acircumflex <anchor 712 2065> mark @_U;
+    pos base Adieresis <anchor 717 1988> mark @_U;
+    pos base Agrave <anchor 744 2065> mark @_U;
+    pos base [Aring Ucircumflex] <anchor 718 2065> mark @_U;
+    pos base Atilde <anchor 717 1915> mark @_U;
+    pos base B <anchor 652 1530> mark @_U;
+    pos base [C Ccedilla] <anchor 747 1530> mark @_U;
+    pos base D <anchor 752 1530> mark @_U;
+    pos base E <anchor 607 1530> mark @_U;
+    pos base Eacute <anchor 567 2065> mark @_U;
+    pos base Ecircumflex <anchor 601 2065> mark @_U;
+    pos base Edieresis <anchor 607 1988> mark @_U;
+    pos base Egrave <anchor 633 2065> mark @_U;
+    pos base Eth <anchor 725 1530> mark @_U;
+    pos base [F zero] <anchor 618 1530> mark @_U;
+    pos base G <anchor 786 1530> mark @_U;
+    pos base H <anchor 738 1530> mark @_U;
+    pos base I <anchor 506 1530> mark @_U;
+    pos base Iacute <anchor 466 2065> mark @_U;
+    pos base Icircumflex <anchor 500 2065> mark @_U;
+    pos base Idieresis <anchor 506 1988> mark @_U;
+    pos base Igrave <anchor 532 2065> mark @_U;
+    pos base J <anchor 695 1530> mark @_U;
+    pos base K <anchor 700 1530> mark @_U;
+    pos base L <anchor 611 1530> mark @_U;
+    pos base M <anchor 905 1530> mark @_U;
+    pos base N <anchor 756 1530> mark @_U;
+    pos base Ntilde <anchor 756 1915> mark @_U;
+    pos base O <anchor 732 1530> mark @_U;
+    pos base OE <anchor 995 1530> mark @_U;
+    pos base Oacute <anchor 692 2065> mark @_U;
+    pos base Ocircumflex <anchor 727 2065> mark @_U;
+    pos base Odieresis <anchor 732 1988> mark @_U;
+    pos base Ograve <anchor 759 2065> mark @_U;
+    pos base Oslash <anchor 730 1530> mark @_U;
+    pos base Otilde <anchor 732 1915> mark @_U;
+    pos base P <anchor 669 1530> mark @_U;
+    pos base Q <anchor 737 1530> mark @_U;
+    pos base R <anchor 643 1530> mark @_U;
+    pos base S <anchor 604 1530> mark @_U;
+    pos base Scaron <anchor 604 2065> mark @_U;
+    pos base T <anchor 622 1530> mark @_U;
+    pos base Thorn <anchor 659 1530> mark @_U;
+    pos base U <anchor 724 1530> mark @_U;
+    pos base Uacute <anchor 684 2065> mark @_U;
+    pos base Udieresis <anchor 724 1988> mark @_U;
+    pos base Ugrave <anchor 750 2065> mark @_U;
+    pos base V <anchor 705 1530> mark @_U;
+    pos base W <anchor 1044 1530> mark @_U;
+    pos base X <anchor 663 1530> mark @_U;
+    pos base Y <anchor 665 1530> mark @_U;
+    pos base [Yacute Zcaron] <anchor 625 2065> mark @_U;
+    pos base Ydieresis <anchor 665 1988> mark @_U;
+    pos base Z <anchor 625 1530> mark @_U;
+    pos base a <anchor 587 1100> mark @_U;
+    pos base aacute <anchor 547 1635> mark @_U;
+    pos base acircumflex <anchor 581 1635> mark @_U;
+    pos base acute <anchor 187 1635> mark @_U;
+    pos base adieresis <anchor 587 1558> mark @_U;
+    pos base ae <anchor 916 1100> mark @_U;
+    pos base agrave <anchor 613 1635> mark @_U;
+    pos base [aring k] <anchor 587 1635> mark @_U;
+    pos base asciicircum <anchor 440 1635> mark @_U;
+    pos base atilde <anchor 587 1485> mark @_U;
+    pos base [b egrave ograve] <anchor 603 1635> mark @_U;
+    pos base [c ccedilla] <anchor 573 1101> mark @_U;
+    pos base caron <anchor 435 1635> mark @_U;
+    pos base [d h] <anchor 608 1635> mark @_U;
+    pos base dottedCircle <anchor 553 1000> mark @_U;
+    pos base [e o oslash] <anchor 577 1100> mark @_U;
+    pos base [eacute oacute] <anchor 537 1635> mark @_U;
+    pos base [ecircumflex ocircumflex] <anchor 571 1635> mark @_U;
+    pos base [edieresis odieresis] <anchor 577 1558> mark @_U;
+    pos base [eight five nine one seven six three] <anchor 617 1530> mark @_U;
+    pos base [emquad emspace] <anchor 1024 1530> mark @_U;
+    pos base [enquad enspace] <anchor 512 1530> mark @_U;
+    pos base eth <anchor 577 1635> mark @_U;
+    pos base f <anchor 472 1635> mark @_U;
+    pos base fi <anchor 1021 1635> mark @_U;
+    pos base figurespace <anchor 600 1530> mark @_U;
+    pos base fl <anchor 1025 1635> mark @_U;
+    pos base florin <anchor 580 1635> mark @_U;
+    pos base four <anchor 619 1530> mark @_U;
+    pos base fourperemspace <anchor 256 1530> mark @_U;
+    pos base [foursuperior onesuperior threesuperior twosuperior] <anchor 420 1675> mark @_U;
+    pos base g <anchor 548 1100> mark @_U;
+    pos base germandbls <anchor 693 1635> mark @_U;
+    pos base grave <anchor 463 1635> mark @_U;
+    pos base hairspace <anchor 102 1530> mark @_U;
+    pos base [hyphen nonbreakinghyphen softhyphen] <anchor 443 1100> mark @_U;
+    pos base hyphentwo <anchor 437 1100> mark @_U;
+    pos base i <anchor 307 1100> mark @_U;
+    pos base iacute <anchor 268 1635> mark @_U;
+    pos base icircumflex <anchor 303 1635> mark @_U;
+    pos base idieresis <anchor 308 1558> mark @_U;
+    pos base idotless <anchor 308 1100> mark @_U;
+    pos base igrave <anchor 335 1635> mark @_U;
+    pos base j <anchor 341 1100> mark @_U;
+    pos base l <anchor 308 1635> mark @_U;
+    pos base m <anchor 882 1100> mark @_U;
+    pos base n <anchor 613 1100> mark @_U;
+    pos base [narrownbspace thinspace] <anchor 205 1530> mark @_U;
+    pos base nbspace <anchor 512 1500> mark @_U;
+    pos base ntilde <anchor 613 1485> mark @_U;
+    pos base oe <anchor 940 1100> mark @_U;
+    pos base otilde <anchor 577 1485> mark @_U;
+    pos base p <anchor 623 1100> mark @_U;
+    pos base pi <anchor 681 1100> mark @_U;
+    pos base punctuationspace <anchor 322 1530> mark @_U;
+    pos base q <anchor 585 1100> mark @_U;
+    pos base [r s] <anchor 518 1100> mark @_U;
+    pos base scaron <anchor 518 1635> mark @_U;
+    pos base sixperemspace <anchor 170 1530> mark @_U;
+    pos base space <anchor 268 1530> mark @_U;
+    pos base summation <anchor 595 1530> mark @_U;
+    pos base t <anchor 348 1360> mark @_U;
+    pos base thorn <anchor 606 1635> mark @_U;
+    pos base threeperemspace <anchor 341 1530> mark @_U;
+    pos base two <anchor 603 1530> mark @_U;
+    pos base u <anchor 606 1100> mark @_U;
+    pos base uacute <anchor 566 1635> mark @_U;
+    pos base ucircumflex <anchor 601 1635> mark @_U;
+    pos base udieresis <anchor 606 1558> mark @_U;
+    pos base ugrave <anchor 633 1635> mark @_U;
+    pos base [v y] <anchor 555 1100> mark @_U;
+    pos base w <anchor 782 1100> mark @_U;
+    pos base x <anchor 591 1100> mark @_U;
+    pos base yacute <anchor 515 1635> mark @_U;
+    pos base ydieresis <anchor 555 1558> mark @_U;
+    pos base z <anchor 535 1100> mark @_U;
+    pos base zcaron <anchor 535 1635> mark @_U;
+    pos base zero-kirat <anchor 555 1540> mark @_U;
+    pos base [A Aacute Acircumflex Adieresis Agrave Aring Atilde] <anchor 726 0> mark @_H;
+    pos base C <anchor 747 0> mark @_H;
+    pos base [E Eacute Ecircumflex Edieresis Egrave] <anchor 607 0> mark @_H;
+    pos base G <anchor 786 0> mark @_H;
+    pos base H <anchor 298 0> mark @_H;
+    pos base [I Iacute Icircumflex Idieresis Igrave] <anchor 506 0> mark @_H;
+    pos base K <anchor 303 0> mark @_H;
+    pos base L <anchor 611 0> mark @_H;
+    pos base M <anchor 1536 0> mark @_H;
+    pos base [N Ntilde] <anchor 1237 0> mark @_H;
+    pos base [O Oacute Ocircumflex Odieresis Ograve Otilde] <anchor 732 0> mark @_H;
+    pos base R <anchor 555 0> mark @_H;
+    pos base [S Scaron] <anchor 604 0> mark @_H;
+    pos base T <anchor 622 0> mark @_H;
+    pos base [U Uacute Ucircumflex Udieresis Ugrave] <anchor 724 0> mark @_H;
+    pos base V <anchor 713 0> mark @_H;
+    pos base [a aacute acircumflex adieresis agrave aring atilde] <anchor 587 0> mark @_H;
+    pos base ae <anchor 1121 0> mark @_H;
+    pos base b <anchor 603 0> mark @_H;
+    pos base c <anchor 563 1> mark @_H;
+    pos base d <anchor 598 0> mark @_H;
+    pos base dottedCircle <anchor 553 0> mark @_H;
+    pos base [e eacute ecircumflex edieresis egrave] <anchor 561 0> mark @_H;
+    pos base [emquad emspace] <anchor 1024 0> mark @_H;
+    pos base [enquad enspace nbspace t] <anchor 512 0> mark @_H;
+    pos base f <anchor 377 0> mark @_H;
+    pos base figurespace <anchor 600 0> mark @_H;
+    pos base fourperemspace <anchor 256 0> mark @_H;
+    pos base g <anchor 572 -454> mark @_H;
+    pos base h <anchor 270 0> mark @_H;
+    pos base hairspace <anchor 102 0> mark @_H;
+    pos base i <anchor 317 0> mark @_H;
+    pos base [iacute icircumflex idieresis idotless igrave] <anchor 308 0> mark @_H;
+    pos base k <anchor 265 0> mark @_H;
+    pos base l <anchor 320 0> mark @_H;
+    pos base m <anchor 1469 0> mark @_H;
+    pos base [n ntilde] <anchor 737 0> mark @_H;
+    pos base [narrownbspace thinspace] <anchor 205 0> mark @_H;
+    pos base [o oacute ocircumflex odieresis ograve otilde] <anchor 575 0> mark @_H;
+    pos base oe <anchor 1195 0> mark @_H;
+    pos base oslash <anchor 577 0> mark @_H;
+    pos base p <anchor 282 -435> mark @_H;
+    pos base punctuationspace <anchor 322 0> mark @_H;
+    pos base r <anchor 280 0> mark @_H;
+    pos base [s scaron] <anchor 508 0> mark @_H;
+    pos base sixperemspace <anchor 170 0> mark @_H;
+    pos base space <anchor 268 0> mark @_H;
+    pos base threeperemspace <anchor 341 0> mark @_H;
+    pos base [u uacute ucircumflex udieresis ugrave] <anchor 540 0> mark @_H;
+    pos base v <anchor 560 0> mark @_H;
+    pos base x <anchor 940 0> mark @_H;
+    pos base [z zcaron] <anchor 535 0> mark @_H;
+} AttachMarks;
+
+#********************
+# GSUB features     *
+#********************
+feature cv05 {
+    # ca alternates
+        cvParameters {
+                FeatUILabelNameID {
+            name "Ca alternate";
+        };
+
+                ParamUILabelNameID {
+            name "Alternate";
+        };
+
+    };
+
+    sub ca-kirat by ca-kirat.alt;
+    #    sub u16D49 by u16D49.alt ;
+} cv05;
+
+feature cv15 {
+    # ta alternates
+        cvParameters {
+                FeatUILabelNameID {
+            name "Ta alternate";
+        };
+
+                ParamUILabelNameID {
+            name "Alternate";
+        };
+
+    };
+
+    sub ta-kirat by ta-kirat.alt;
+    #    sub u16D52 by u16D52.alt ;
+} cv15;
+
+feature cv25 {
+    # ma alternates
+        cvParameters {
+                FeatUILabelNameID {
+            name "Ma alternate";
+        };
+
+                ParamUILabelNameID {
+            name "Alternate";
+        };
+
+    };
+
+    sub ma-kirat by ma-kirat.alt;
+    #    sub u16D5B by u16D5B.alt ;
+} cv25;
+
+feature cv35 {
+    # ha alternates
+        cvParameters {
+                FeatUILabelNameID {
+            name "Ha alternate";
+        };
+
+                ParamUILabelNameID {
+            name "Alternate";
+        };
+
+    };
+
+    sub ha-kirat by ha-kirat.alt;
+    #    sub u16D62 by u16D62.alt ;
+} cv35;
+
+#********************
+# GPOS features     *
+#********************
+feature kern {
+    lookup PairKerning;
+} kern;
+
+feature mark {
+    lookup AttachMarks;
+} mark;
