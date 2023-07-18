@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>250</fontscale>
+    <fontsrc label="Kan (inst)">local(Kanchenjunga)</fontsrc>
+    <fontsrc label="1.0">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+   <styles>
+      <style feats="'cv05' 1" name="cv05_1"/>
+      <style feats="'cv15' 1" name="cv15_1"/>
+      <style feats="'cv25' 1" name="cv25_1"/>
+      <style feats="'cv35' 1" name="cv35_1"/>
+    </styles>
+     <title>Kerning</title>
+  </head>
+  <testgroup label="Kerning pairs">
+    <test label="U+16D44 U+16D52">
+      <comment>ka-kirat ta-kirat</comment>
+      <string>\u16D44\u16D52</string>
+    </test>
+    <test label="U+16D64 U+16D4A">
+      <comment>iMatra-kirat cha-kirat</comment>
+      <string>\u16D64\u16D4A</string>
+    </test>
+    <test label="U+16D64 U+16D52">
+      <comment>iMatra-kirat ta-kirat</comment>
+      <string>\u16D64\u16D52</string>
+    </test>
+    <test label="U+16D64 U+16D56">
+      <comment>iMatra-kirat na-kirat</comment>
+      <string>\u16D64\u16D56</string>
+    </test>
+    <test label="U+16D64 U+16D5B">
+      <comment>iMatra-kirat ma-kirat</comment>
+      <string>\u16D64\u16D5B</string>
+    </test>
+    <test label="U+16D65 U+16D5B">
+      <comment>uMatra-kirat ma-kirat</comment>
+      <string>\u16D65\u16D5B</string>
+    </test>
+  </testgroup>
+</ftml>

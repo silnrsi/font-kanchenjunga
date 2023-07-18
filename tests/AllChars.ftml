@@ -5,8 +5,13 @@
     <fontscale>250</fontscale>
     <fontsrc label="Kan (inst)">local(Kanchenjunga)</fontsrc>
     <fontsrc label="1.0">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
-    <styles/>
-    <title>AllChars</title>
+   <styles>
+      <style feats="'cv05' 1" name="cv05_1"/>
+      <style feats="'cv15' 1" name="cv15_1"/>
+      <style feats="'cv25' 1" name="cv25_1"/>
+      <style feats="'cv35' 1" name="cv35_1"/>
+    </styles>
+     <title>AllChars</title>
   </head>
   <testgroup label="Encoded characters">
     <test label="U+0020">
@@ -137,17 +142,29 @@
       <comment>circumflex</comment>
       <string>\u0002C6 \u0002C7</string>
     </test>
-    <test label="U+02C9">
-      <comment>firsttonechinese</comment>
-      <string>\u0002C9</string>
-    </test>
-    <test label="U+02D0">
-      <comment>colontriangularmod</comment>
-      <string>\u0002D0</string>
-    </test>
     <test label="U+02D8">
       <comment>breve</comment>
       <string>\u0002D8 \u0002D9 \u0002DA \u0002DB \u0002DC \u0002DD</string>
+    </test>
+    <test label="U+0300">
+      <comment>gravecom</comment>
+      <string>\u0025CC\u000300 \u0025CC\u000301 \u0025CC\u000302 \u0025CC\u000303</string>
+    </test>
+    <test label="U+0308">
+      <comment>gravecomb</comment>
+      <string>\u0025CC\u000308</string>
+    </test>
+    <test label="U+030A">
+      <comment>circumflexcomb</comment>
+      <string>\u0025CC\u00030A</string>
+    </test>
+    <test label="U+030C">
+      <comment>caroncomb</comment>
+      <string>\u0025CC\u00030C</string>
+    </test>
+    <test label="U+0327">
+      <comment>cedillacomb</comment>
+      <string>\u0025CC\u000327</string>
     </test>
     <test label="U+03C0">
       <comment>pi</comment>
@@ -189,21 +206,21 @@
       <comment>wordjoiner</comment>
       <string>\u002060</string>
     </test>
-    <test label="U+2066">
-      <comment>lefttorightisolate</comment>
-      <string>\u002066 \u002067 \u002068 \u002069</string>
-    </test>
-    <test label="U+206C">
-      <comment>inhibitformshaping-ar</comment>
-      <string>\u00206C \u00206D</string>
-    </test>
     <test label="U+2074">
       <comment>foursuperior</comment>
       <string>\u002074</string>
     </test>
+    <test label="U+20A8">
+      <comment>rupee</comment>
+      <string>\u0020A8</string>
+    </test>
     <test label="U+20AC">
       <comment>euro</comment>
       <string>\u0020AC</string>
+    </test>
+    <test label="U+20B9">
+      <comment>rupeeIndian</comment>
+      <string>\u0020B9</string>
     </test>
     <test label="U+2122">
       <comment>trademark</comment>
@@ -232,10 +249,6 @@
     <test label="U+2212">
       <comment>minus</comment>
       <string>\u002212</string>
-    </test>
-    <test label="U+2215">
-      <comment>divisionslash</comment>
-      <string>\u002215</string>
     </test>
     <test label="U+2219">
       <comment>bulletoperator</comment>
@@ -281,10 +294,6 @@
       <comment>dottedCircle</comment>
       <string>\u0025CC</string>
     </test>
-    <test label="U+29F5">
-      <comment>reverseSolidusOperator</comment>
-      <string>\u0029F5</string>
-    </test>
     <test label="U+F130">
       <comment>sidebearingleft</comment>
       <string>\u00F130 \u00F131</string>
@@ -311,15 +320,63 @@
     </test>
     <test label="U+16D43">
       <comment>a-kirat</comment>
-      <string>\u16D43 \u16D44 \u16D45 \u16D46 \u16D47 \u16D48 \u16D49 \u16D4a \u16D4b \u16D4c \u16D4d \u16D4e \u16D4f</string>
+      <string>\u16D43</string>
+    </test>
+    <test label="U+16D44">
+      <comment>ka-kirat</comment>
+      <string>\u16D44 \u16D45 \u16D46 \u16D47 \u16D48 \u16D49 \u16D4a \u16D4b \u16D4c \u16D4d \u16D4e \u16D4f</string>
+    </test>
+    <test label="U+16D49">
+      <comment>ca-kirat</comment>
+      <string>\u16D49</string>
+    </test>
+    <test label="U+16D49" stylename="cv05_1">
+      <comment>ca-kirat</comment>
+      <string>\u16D49</string>
+    </test>
+    <test label="U+16D4A">
+      <comment>cha-kirat</comment>
+      <string>\u16D4a \u16D4b \u16D4c \u16D4d \u16D4e \u16D4f</string>
     </test>
     <test label="U+16D50">
       <comment>dda-kirat</comment>
-      <string>\u16D50 \u16D51 \u16D52 \u16D53 \u16D54 \u16D55 \u16D56 \u16D57 \u16D58 \u16D59 \u16D5a \u16D5b \u16D5c \u16D5d \u16D5e \u16D5f</string>
+      <string>\u16D50 \u16D51</string>
+    </test>
+    <test label="U+16D52">
+      <comment>ta-kirat</comment>
+      <string>\u16D52</string>
+    </test>
+    <test label="U+16D52" stylename="cv15_1">
+      <comment>ta-kirat</comment>
+      <string>\u16D52</string>
+    </test>
+    <test label="U+16D53">
+      <comment>tha-kirat</comment>
+      <string>\u16D53 \u16D54 \u16D55 \u16D56 \u16D57 \u16D58 \u16D59 \u16D5a</string>
+    </test>
+    <test label="U+16D5B">
+      <comment>ma-kirat</comment>
+      <string>\u16D5b</string>
+    </test>
+    <test label="U+16D5B" stylename="cv25_1">
+      <comment>ma-kirat</comment>
+      <string>\u16D5b</string>
+    </test>
+    <test label="U+16D5C">
+      <comment>ya-kirat</comment>
+      <string>\u16D5c \u16D5d \u16D5e \u16D5f</string>
     </test>
     <test label="U+16D60">
       <comment>sa-kirat</comment>
-      <string>\u16D60 \u16D61 \u16D62</string>
+      <string>\u16D60 \u16D61</string>
+    </test>
+    <test label="U+16D62">
+      <comment>ha-kirat</comment>
+      <string>\u16D62</string>
+    </test>
+    <test label="U+16D62" stylename="cv35_1">
+      <comment>ha-kirat</comment>
+      <string>\u16D62</string>
     </test>
     <test label="U+16D63">
       <comment>aaMatra-kirat</comment>
