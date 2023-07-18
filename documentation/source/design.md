@@ -5,10 +5,10 @@ fontversion: 1.000
 
 Kanchenjunga is a font loosely based on the handwriting style of Kirat Rai which was used in some of the early reading primers for Kirat Rai.
 
-One font from this typeface family is included in the *Kanchenjunga* release:
+Two fonts for this typeface family are included in the *Kanchenjunga* release:
 
 - Kanchenjunga Regular
-
+- Kanchenjunga Bold
 
 ## Type Samples
 

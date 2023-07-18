@@ -1,3 +1,14 @@
+#**********************************
+# This file is part of Kanchenjunga font family (https://software.sil.org/kanchenjunga/) 
+# and is Copyright (c) 2021-2023 SIL International (https://www.sil.org/),
+# with Reserved Font Names "Kanchenjunga", "Andika", and "SIL".
+#
+# This Font Software is licensed under the SIL Open Font License, Version 1.1.
+#
+# You should have received a copy of the license along with this Font Software.
+# If this is not the case, go to (https://scripts.sil.org/OFL) for all the
+# details including an FAQ.
+#**********************************
 #
 # Hand-crafted FEA code
 #
@@ -22,11 +33,15 @@ languagesystem latn dflt;
 
 lookup PairKerning {
 	pos ka-kirat ta-kirat -113 ;
+	pos ka-kirat ta-kirat.alt -93 ;
 	pos iMatra-kirat cha-kirat -183 ;
 	pos iMatra-kirat ta-kirat -183 ;
+	pos iMatra-kirat ta-kirat.alt -133 ;
 	pos iMatra-kirat na-kirat -83 ;
 	pos iMatra-kirat ma-kirat -83 ;
+	pos iMatra-kirat ma-kirat.alt -113 ;
 	pos uMatra-kirat ma-kirat -53 ;
+	pos uMatra-kirat ma-kirat.alt -93 ;
 # 16D44 KIRAT RAI LETTER KA + 16D52 KIRAT RAI LETTER TA ka-kirat ta-kirat
 # 16D64 KIRAT RAI VOWEL SIGN I + 16D4A KIRAT RAI LETTER CHA iMatra-kirat cha-kirat
 # 16D64 KIRAT RAI VOWEL SIGN I + 16D52 KIRAT RAI LETTER TA iMatra-kirat ta-kirat

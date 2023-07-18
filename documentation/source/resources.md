@@ -15,7 +15,7 @@ Install the font by decompressing the .zip archive and installing the font using
 
 ## Keyboarding and character set support
 
-The font packaged does not include any keyboarding helps or utilities. If you cannot use the built-in keyboards of the operating system, you will need to install the appropriate keyboard and input method for the characters of the language you wish to use. If you want to enter characters that are not supported by any system keyboard, the [Keyman program](https://keyman.com/) can be helpful on Windows, macOS, Linux, Android and iOS systems. Also available for Windows is [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134). For other platforms, [XKB](http://www.x.org/wiki/XKB/) or [Ukelele](https://software.sil.org/ukelele/) can be helpful.
+This font package does not include any keyboarding helps or utilities. If you cannot use the built-in keyboards of the operating system, you will need to install the appropriate keyboard and input method for the characters of the language you wish to use. If you want to enter characters that are not supported by any system keyboard, the [Keyman program](https://keyman.com/) can be helpful on Windows, macOS, Linux, Android and iOS systems. Also available for Windows is [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134). For other platforms, [XKB](http://www.x.org/wiki/XKB/) or [Ukelele](https://software.sil.org/ukelele/) can be helpful.
 
 If you want to enter characters that are not supported by any system keyboard, and to access the full Unicode range, we suggest you use gucharmap, kcharselect on Ubuntu or similar software. Another method of entering some symbols is provided by a few applications such as Adobe InDesign. They can display a glyph palette that shows all the glyphs (symbols) in a font and allow you to enter them by clicking on the glyph you want.
 
@@ -25,7 +25,7 @@ See [Character set support](charset.md) for details of the Unicode characters su
 
 ## Rendering and application support
 
-This Kirat Rai script, and this font, does not require any special rendering.
+This Kirat Rai script, and this font, does not require any special rendering. However, there are a few OpenType character variants in the font, and selecting a character variant will require an application that supports that selection. The font also includes some kerning.
 
 Other suggestions are listed here: [Applications Support](https://software.sil.org/arabicfonts/support/application-support/) and here: [Using Font Features](https://software.sil.org/fonts/features/). 
 

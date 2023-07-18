@@ -8,6 +8,11 @@ Open Font License, Version 1.1 (https://scripts.sil.org/OFL).
     font-family: Kanchenjunga-R;
     src: url("../../../web/Kanchenjunga-Regular.woff2") format("woff2");
 }
+@font-face {
+    font-family: Kanchenjunga-B;
+    src: url("../../../web/Kanchenjunga-Bold.woff2") format("woff2");
+}
 
 
 .Kanchenjunga-R { font-family: Kanchenjunga-R; }
+.Kanchenjunga-B { font-family: Kanchenjunga-B; }
