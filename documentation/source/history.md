@@ -4,7 +4,7 @@ fontversion: 1.000
 ---
 
 ### 2023-08-xx (WSTech team) Kanchenjunga Version 1.000 
-- Official release using provisional codepoints
+- Official release of Regular and Bold using provisional codepoints
 - Latin glyphs reimported from the Andika project (400 and 600 weight) at 100%
 
 ### 29 Apr 2022 (SIL) Kanchenjunga Test A version 0.200 (test release)

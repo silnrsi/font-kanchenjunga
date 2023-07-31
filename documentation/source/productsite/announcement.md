@@ -7,10 +7,8 @@ _Please note that this font is using codepoints that are not officially accepted
 
 - Official release using provisional codepoints
 
-Both desktop and web fonts are provided in a single, all-platforms package on the [Download Page](https://software.sil.org/kanchenjunga).
-
 #### Known issues
 
 - Because this font uses the provisional Unicode codepoints, there is a chance that the codepoints in this font will change. If you use this font, and codepoints are changed, your data will need converting to the new codepoints.
 
-
+Download the release package from the [Download Page](https://software.sil.org/kanchenjunga/download/).

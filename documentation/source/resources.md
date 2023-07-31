@@ -3,11 +3,11 @@ title: Kanchenjunga - Resources
 fontversion: 1.000
 ---
 
-This font is encoded based on a draft encoding of Unicode. At this point it is not in Unicode.
+This font is encoded based on _provisional_ Unicode codepoints assigned to the Kirat Rai script. At this point it is not in Unicode.
 
 ## Requirements
 
-This font is supported by all major operating systems (macOS, Windows, Linux-based, iOS, and Android), however the extent of that support depends on the individual OS and application.
+This font is supported by all major desktop operating systems (macOS, Windows, and Linux-based). However, it will have limited support on mobile devices such as iOS and Android. The extent of that support depends on the individual OS and application.
 
 ## Installation
 
@@ -35,7 +35,7 @@ Web font versions of this font (in WOFF and WOFF2 formats) are available in the 
 
 ## Text conversion
 
-Since this script is newly encoded, people may wish to convert documents from custom-encoded fonts to Unicode. TECkit is one program that can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings. The TECkit package is available for download from SIL’s [TECkit](https://software.sil.org/teckit/) Web site. The [SIL Converters](https://software.sil.org/silconverters/) software will be an important tool in data conversion.
+Since this script is provisionally encoded, people may wish to convert documents from custom-encoded fonts to the provisional Unicode codepoints. TECkit is one program that can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings. The TECkit package is available for download from SIL’s [TECkit](https://software.sil.org/teckit/) Web site. The [SIL Converters](https://software.sil.org/silconverters/) software will be an important tool in data conversion.
 
 Other suggestions are listed here: [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
 
