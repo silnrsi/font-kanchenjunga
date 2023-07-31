@@ -35,3 +35,9 @@ Since this script is provisionally encoded, people may wish to convert documents
 
 Other suggestions are listed here: [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
 
+Two TECKit mapping files are currently available. Both of them should still be considered experimental. Feedback through the Github repository is welcomed.
+
+- [Kirat Rai AKRS to Unicode](https://github.com/silnrsi/wsresources/tree/master/scripts/KiratRai/legacy/kiratraifontnew/mappings)
+- [Devanagari to Kirat Rai (using provisional Kirat Rai Unicode codepoints)](https://github.com/silnrsi/wsresources/tree/master/scripts/KiratRai/mappings)
+
+
