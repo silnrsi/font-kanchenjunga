@@ -4,7 +4,8 @@
   <head>
     <fontscale>250</fontscale>
     <fontsrc label="Kan (inst)">local(Kanchenjunga)</fontsrc>
-    <fontsrc label="1.0">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+    <fontsrc label="1.0 (Reg)">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+    <fontsrc label="1.0 (Bld)">url(../results/Kanchenjunga-Bold.ttf)</fontsrc>
    <styles>
       <style feats="'cv05' 1" name="cv05_1"/>
       <style feats="'cv15' 1" name="cv15_1"/>
@@ -13,7 +14,7 @@
     </styles>
      <title>AllChars</title>
   </head>
-  <testgroup label="Encoded characters">
+  <testgroup label="Kanchenjunga characters">
     <test label="U+0020">
       <comment>space</comment>
       <string>\u00F130 \u00F131 ! " # $ % &amp; '</string>

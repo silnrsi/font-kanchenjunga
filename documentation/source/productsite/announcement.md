@@ -5,7 +5,7 @@ _Please note that this font is using codepoints that are not officially accepted
 
 #### Changes
 
-- Official release using provisional codepoints
+- Official release of Regular and Bold using provisional codepoints
 
 #### Known issues
 

@@ -20,8 +20,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-### 2023-08-xx (SIL) Kanchenjunga version 1.000
-- Official release using provisional codepoints
+### 2023-08-04 (SIL) Kanchenjunga version 1.000
+- Official release of Regular and Bold using provisional codepoints
 - Latin glyphs reimported from the Andika project (400 and 600 weight) at 100%
 
 ### 2022-04-29 (SIL) Kanchenjunga Test A version 0.200

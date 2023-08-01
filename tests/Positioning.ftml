@@ -4,14 +4,15 @@
   <head>
     <fontscale>250</fontscale>
     <fontsrc label="Kan (inst)">local(Kanchenjunga)</fontsrc>
-    <fontsrc label="1.0">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+   <fontsrc label="1.0 (Reg)">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+    <fontsrc label="1.0 (Bld)">url(../results/Kanchenjunga-Bold.ttf)</fontsrc>
    <styles>
       <style feats="'cv05' 1" name="cv05_1"/>
       <style feats="'cv15' 1" name="cv15_1"/>
       <style feats="'cv25' 1" name="cv25_1"/>
       <style feats="'cv35' 1" name="cv35_1"/>
     </styles>
-     <title>Positioning</title>
+     <title>Kanchenjunga Positioning</title>
   </head>
   <testgroup label="Kerning pairs">
     <test label="U+16D44 U+16D52">
