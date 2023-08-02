@@ -15,7 +15,13 @@ wait
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters -q source/Kanchenjunga.designspace 
 
-# echo "-----Updating woff metadata file..."
-# psfmakewoffmetadata -q -n "Andika" -i "org.sil.fonts" source/Andika-Regular.ufo
+echo "Updating woff metadata files..."
+psfmakewoffmetadata -q -n  Kanchenjunga        -i org.sil.fonts source/*-Regular.ufo  -o "source/Kanchenjunga-WOFF-metadata.xml"
+
+echo "Building internal fea..."
+psfmakefea -q -o source/Kanchenjunga-Regular.ufo/features.fea -l source/logs/Kanchenjunga-Regular-psfmakefea.log -i source/opentype/master.feax --omitaps "R, O, L" source/Kanchenjunga-Regular.ufo &
+psfmakefea -q -o source/Kanchenjunga-Bold.ufo/features.fea    -l source/logs/Kanchenjunga-Bold-psfmakefea.log    -i source/opentype/master.feax --omitaps "R, O, L" source/Kanchenjunga-Bold.ufo    &
+
+wait
 
 echo "-----Preflight completed!"

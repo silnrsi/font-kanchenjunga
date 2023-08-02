@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.kanchenjunga.0.100" />
+  <uniqueid id="org.sil.fonts.Kanchenjunga.1.000" />
   <vendor name="SIL International" url="https://www.sil.org/" />
   <credits>
     <credit
@@ -14,30 +14,18 @@
       role="Font production"
     />
   </credits>
-  <description>
+  <description url="https://software.sil.org/kanchenjunga/">
     <text lang="en">
       Kanchenjunga is a font family for the Kirat Rai script of South Asia. It is named after the third highest mountain in the world.
       
-      _Please note that this font is not yet encoded according to The Unicode Standard, as the Kirat Rai script has not yet been accepted into the standard. The letters are currently given temporary assignments while encoding proposals are in process. Once the script is accepted into Unicode the encoding assignments may change._
+      _Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
       
-      _This font should be considered a work in progress. Glyphs shapes and metrics may change considerably prior to a final Unicode release._
-      
-      
-      ChangeLog
-      ---------
-      (This should list both major and minor changes, most recent first.)
-      
-      29 Apr 2022 (SIL) Kanchenjunga Test A version 0.200
-      - All Kirat Rai characters were added
-      
-      7 Sep 2021 (SIL) Kanchenjunga Test A version 0.100
-      - New public repository and open source build workflow
-      - Latin glyphs imported from the Andika project
+      _This font should be considered a work in progress. Glyphs shapes and metrics may change prior to a final Unicode release._
     </text>
   </description>
   <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
-      Copyright (c) 2021-2022 SIL International (https://www.sil.org/) with Reserved Font Names "Kanchenjunga", "Andika", and "SIL".
+      Copyright (c) 2021-2023 SIL International (https://www.sil.org/) with Reserved Font Names "Kanchenjunga", "Andika", and "SIL".
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
       
@@ -84,7 +72,7 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 2021-2022 SIL International
+      Copyright (c) 2021-2023 SIL International
     </text>
   </copyright>
   <trademark>

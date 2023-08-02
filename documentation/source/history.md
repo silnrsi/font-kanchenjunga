@@ -3,7 +3,7 @@ title: Kanchenjunga - Version History
 fontversion: 1.000
 ---
 
-### 2023-08-04 (WSTech team) Kanchenjunga Version 1.000 
+### 2023-08-02 (WSTech team) Kanchenjunga Version 1.000 
 - Official release of Regular and Bold using provisional codepoints
 - Latin glyphs reimported from the Andika project (400 and 600 weight) at 100%
 

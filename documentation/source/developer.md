@@ -38,16 +38,17 @@ After base characters to the font, the following files will also need updating:
 
 ### Generated test files
 
-After adding characters or additional behaviors to the font, test files should be created or enhanced to test the new behaviors. The test files:
+After adding characters or additional behaviors to the font, test files should be created or enhanced to test the new behaviors. The test files are manually created:
 - `tests/AllChars.ftml`
 - `tests/Positioning.ftml`
+
 
 `tools/ftml.xsl` can be used to view ftml documents directly in Firefox (which supports both Graphite and OpenType rendering).
 
 ### About ftml tests
 
-After a successful build, the results/ folder will contain, along with the built ttf and woff fonts, a number of
-test files in an xml-based format called FTML. Examples are AllChars.ftml, Positioning.ftml. 
+After a successful build, the results/ folder will contain, along with the built ttf and woff fonts, a number of test files in an xml-based format called FTML. Examples are AllChars.ftml, Positioning.ftml. 
+
 There is an ftml.xsl file that can be used to view these ftml documents directly in Firefox. 
 
 However, in order for Firefox to access the .xsl file, you need to relax its "strict URI" policy by going to about:config and setting [security.fileuri.strict_origin_policy](http://kb.mozillazine.org/Security.fileuri.strict_origin_policy) to false.
