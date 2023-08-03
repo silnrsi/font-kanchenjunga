@@ -4,8 +4,9 @@
   <head>
     <fontscale>250</fontscale>
     <fontsrc label="Kan (inst)">local(Kanchenjunga)</fontsrc>
-    <fontsrc label="1.0 (Reg)">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
-    <fontsrc label="1.0 (Bld)">url(../results/Kanchenjunga-Bold.ttf)</fontsrc>
+    <fontsrc label="1.0">url(../references/Kanchenjunga-Regular.ttf)</fontsrc>
+    <fontsrc label="Reg">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+    <fontsrc label="Bld">url(../results/Kanchenjunga-Bold.ttf)</fontsrc>
    <styles>
       <style feats="'cv05' 1" name="cv05_1"/>
       <style feats="'cv15' 1" name="cv15_1"/>
