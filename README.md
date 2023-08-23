@@ -8,7 +8,7 @@ To download the font visit the [Kanchenjunga downloads page](https://software.si
 
 For more information on using and developing the fonts see the full project documentation. This is available in three forms:
 
-- *local HTML* - Download the release or source package and open the file `documentation/index.html` in a browser
+- *local HTML* - Download the release package and open the file `documentation/index.html` in a browser
 - *local PDF* - Download the release or source package and open the file `documentation/pdf/index.pdf`
 - *Web site* - Visit the [Kanchenjunga web site](https://software.sil.org/kanchenjunga) 
 
