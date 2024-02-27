@@ -23,7 +23,7 @@
       _This font should be considered a work in progress. Glyphs shapes and metrics may change prior to a final Unicode release._
     </text>
   </description>
-  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://openfontlicense.org" id="org.openfontlicense.1.1">
     <text lang="en">
       Copyright (c) 2021-2024 SIL International (https://www.sil.org/) with Reserved Font Names "Kanchenjunga", "Andika", and "SIL".
       
