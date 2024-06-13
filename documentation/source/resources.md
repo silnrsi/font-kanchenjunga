@@ -41,7 +41,7 @@ Other suggestions are listed here: [Introduction to Text Conversion and Translit
 
 Two TECKit mapping files are currently available. Both of them should still be considered experimental. Feedback through the Github repository is welcomed.
 
-- [Kirat Rai AKRS to Unicode](https://github.com/silnrsi/wsresources/tree/master/scripts/KiratRai/legacy/kiratraifontnew/mappings)
-- [Devanagari to Kirat Rai (using provisional Kirat Rai Unicode codepoints)](https://github.com/silnrsi/wsresources/tree/master/scripts/KiratRai/mappings)
+- [Kirat Rai AKRS to Unicode](https://github.com/silnrsi/wsresources/tree/master/scripts/Krai/legacy/kiratraifontnew/mappings)
+- [Devanagari to Kirat Rai (using provisional Kirat Rai Unicode codepoints)](https://github.com/silnrsi/wsresources/tree/master/scripts/Krai/mappings)
 
 

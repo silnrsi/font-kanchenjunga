@@ -27,3 +27,10 @@ Kanchenjunga is world’s third highest mountain situated on the border between 
 
 This font is using codepoints that are not officially in the Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is in a published version of Unicode the encoding assignments may change. If you use this font, and codepoints are changed, this font will be updated and your data will need converting to the new codepoints.
 
+#### *I used a Kirat Rai font which was custom encoded. How can I convert my data from the custom encoding to Unicode?*
+
+Data which was created with the a custom encoded font will not be automatically converted to Unicode by switching fonts. The data must be converted to Unicode using a data conversion routine. See "Text conversion" in [Resources](resources.md) for information on converting your data.
+
+#### *I have text in Bantawa using the Devanagari script. How can I convert my data from Devanagari to Kirat Rai?*
+
+A TECKit converter to convert text from Devanagari script to Kirat Rai is available. See "Text conversion" in [Resources](resources.md) for information on converting your data.
