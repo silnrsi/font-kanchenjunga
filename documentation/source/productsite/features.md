@@ -17,36 +17,36 @@ There are some character shape differences which can be accessed by using OpenTy
 <span class='affects'>Affects: U+16D49</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D49;</span>| `cv05=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv05-1-R normal'>&#x16D49;</span>| `cv05=1`
+:------------- | :--------------- | :------------- 
+Standard | <span class='Kanchenjunga-R normal'>&#x16D49;</span>| `cv05=0`
+Alternate | <span class='Kanchenjunga-cv05-1-R normal'>&#x16D49;</span>| `cv05=1`
 
 #### Ta 
 
 <span class='affects'>Affects: U+16D52</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D52;</span>| `cv15=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv15-1-R normal'>&#x16D52;</span>| `cv15=1`
+:------------- | :--------------- | :------------- 
+Standard | <span class='Kanchenjunga-R normal'>&#x16D52;</span>| `cv15=0`
+Alternate | <span class='Kanchenjunga-cv15-1-R normal'>&#x16D52;</span>| `cv15=1`
 
 #### Ma 
 
 <span class='affects'>Affects: U+16D5B</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D5B;</span>| `cv25=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv25-1-R normal'>&#x16D5B;</span>| `cv25=1`
+:------------- | :--------------- | :------------- 
+Standard | <span class='Kanchenjunga-R normal'>&#x16D5B;</span>| `cv25=0`
+Alternate | <span class='Kanchenjunga-cv25-1-R normal'>&#x16D5B;</span>| `cv25=1`
 
 #### Ha 
 
 <span class='affects'>Affects: U+16D62</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D62;</span>| `cv35=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv35-1-R normal'>&#x16D62;</span>| `cv35=1`
+:------------- | :--------------- | :------------- 
+Standard | <span class='Kanchenjunga-R normal'>&#x16D62;</span>| `cv35=0`
+Alternate | <span class='Kanchenjunga-cv35-1-R normal'>&#x16D62;</span>| `cv35=1`
 
 
 

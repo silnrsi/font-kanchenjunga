@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - Frequently Asked Questions
-fontversion: 1.000
+fontversion: 2.000
 ---
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
@@ -23,9 +23,9 @@ Many questions can be answered by consulting the following FAQ pages. Here are a
 
 Kanchenjunga is world’s third highest mountain situated on the border between Sikkim state, and eastern Nepal. Etymology of this name is found in Britannica: The name Kanchenjunga is derived from four words of Tibetan origin, usually rendered Kang-chen-dzo-nga or Yang-chhen-dzö-nga and interpreted in Sikkim as the “Five Treasuries of the Great Snow.” This peak represents the geographical distribution of the Bantawa language quite well.
 
-#### *Since the Kirat Rai script is not officially in the Unicode Standard, what are the problems I might encounter?*
+#### *How is this font different from v1.000 which was released before it was officially in the Unicode Standard?*
 
-This font is using codepoints that are not officially in the Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is in a published version of Unicode the encoding assignments may change. If you use this font, and codepoints are changed, this font will be updated and your data will need converting to the new codepoints.
+The Kirat Rai script was officially encoded in the Unicode Standard version 17.0. Kanchenjunga version 1.000 was released in 2023 with provisional codepoints. However, those codepoints did not change, so if you used Kanchenjunga version 1.000, no data conversion will be necessary. The only difference is that the font now includes a Medium and SemiBold weight in addition to the Regular and Bold that were released with version 1.000.
 
 #### *I used a Kirat Rai font which was custom encoded. How can I convert my data from the custom encoding to Unicode?*
 

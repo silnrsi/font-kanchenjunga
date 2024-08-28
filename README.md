@@ -1,6 +1,6 @@
 ### Kanchenjunga [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_Kanchenjunga/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_Kanchenjunga&guest=1)
 
-_Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
+_The Kirat Rai script was officially encoded in the Unicode Standard version 17.0. Kanchenjunga version 1.000 was released in 2023 with provisional codepoints. However, those codepoints did not change, so if you used Kanchenjunga version 1.000, no data conversion will be necessary._
 
 Kanchenjunga is a font for the Kirat Rai script. 
 

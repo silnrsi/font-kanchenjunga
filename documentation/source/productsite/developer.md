@@ -20,6 +20,7 @@ Full instructions for setting up the tools and building SIL fonts are available 
 ## Building
 
 The Kanchenjunga project can be built from source using [smith](https://github.com/silnrsi/smith). This is done via the sequence:
+
 ```
     smith distclean
     smith configure
