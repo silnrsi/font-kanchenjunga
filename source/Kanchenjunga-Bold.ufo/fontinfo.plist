@@ -87,11 +87,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
-    <integer>1</integer>
-    <integer>2</integer>
-    <integer>4</integer>
-    <integer>7</integer>
-    <integer>8</integer>
     <integer>29</integer>
   </array>
   <key>openTypeOS2Panose</key>
