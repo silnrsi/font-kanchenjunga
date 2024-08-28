@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!--
+    Axis-based designpsace for SIL's Kanchenjunga font family
+
+-->
 <designspace format="3">
     <axes>
         <axis default="400.0" maximum="700.0" minimum="400.0" name="weight" tag="wght">
-            <map input="400.0" output="400.0" />
-            <map input="700.0" output="700.0" />
+            <map input="400.0" output="400.0" /> <!-- Regular -->
+            <map input="500.0" output="500.0" /> <!-- Medium -->
+            <map input="600.0" output="600.0" /> <!-- SemiBold -->
+            <map input="700.0" output="700.0" /> <!-- Bold -->
             <labelname xml:lang="en">Weight</labelname>
         </axis>
         <axis default="100.0" maximum="100.0" minimum="100.0" name="width" tag="wdth">
@@ -16,7 +22,10 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Kanchenjunga" filename="Kanchenjunga-Regular.ufo" name="Kanchenjunga Regular" stylename="Regular">
+        <source     name="Kanchenjunga Regular" 
+        	    familyname="Kanchenjunga"
+        	      filename="Kanchenjunga-Regular.ufo"
+        	     stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -27,7 +36,10 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Kanchenjunga" filename="Kanchenjunga-Bold.ufo" name="Kanchenjunga Bold" stylename="Bold">
+        <source     name="Kanchenjunga Bold" 
+        	    familyname="Kanchenjunga"
+        	      filename="Kanchenjunga-Bold.ufo"
+        	      stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -36,7 +48,17 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Kanchenjunga" filename="Kanchenjunga-Regular.ufo" name="Kanchenjunga Regular" stylemapfamilyname="Kanchenjunga" stylemapstylename="regular" stylename="Regular">
+        <!-- stylemapfamilyname: use <familyname> for Regular and Bold, else copy <name> -->
+        <!-- stylemapstylename: use "regular" for all styles except B: use "bold" -->
+
+        <!-- Kanchenjunga Regular -->
+        <instance familyname="Kanchenjunga" 
+        	          filename="instances/Kanchenjunga-Regular.ufo" 
+        	              name="Kanchenjunga Regular" 
+        	stylemapfamilyname="Kanchenjunga" 
+        	 stylemapstylename="regular" 
+        	         stylename="Regular">
+          postscriptfontname="Kanchenjunga-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -45,7 +67,44 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Kanchenjunga" filename="Kanchenjunga-Bold.ufo" name="Kanchenjunga Bold" stylemapfamilyname="Kanchenjunga" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Kanchenjunga"
+                    filename="instances/Kanchenjunga-Medium.ufo"
+                        name="Kanchenjunga Medium"
+          stylemapfamilyname="Kanchenjunga Medium"
+           stylemapstylename="regular"
+                   stylename="Medium"
+          postscriptfontname="Kanchenjunga-Medium">
+            <location>
+                <dimension name="weight" xvalue="500.000000" />
+                <dimension name="width"  xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info/>
+            <kerning/>
+        </instance>
+        <instance familyname="Kanchenjunga"
+                    filename="instances/Kanchenjunga-SemiBold.ufo"
+                        name="Kanchenjunga SemiBold"
+          stylemapfamilyname="Kanchenjunga SemiBold"
+           stylemapstylename="regular"
+                   stylename="SemiBold"
+          postscriptfontname="Kanchenjunga-SemiBold">
+            <location>
+                <dimension name="weight" xvalue="600.000000" />
+                <dimension name="width"  xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info/>
+            <kerning/>
+        </instance>
+ 
+        <instance familyname="Kanchenjunga" 
+        	          filename="instances/Kanchenjunga-Bold.ufo" 
+        	              name="Kanchenjunga Bold" 
+        	stylemapfamilyname="Kanchenjunga" 
+        	 stylemapstylename="bold" 
+        	         stylename="Bold">
+          postscriptfontname="Kanchenjunga-Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />

@@ -5,6 +5,7 @@
 
 # set the default output folders
 DOCDIR = ["documentation", "web"]
+genout = "generated/"
 
 # set the font name and description
 APPNAME = 'Kanchenjunga'
@@ -15,14 +16,22 @@ DESC_SHORT = "Font for the Kirat Rai script"
 getufoinfo('source/' + FAMILY + '-Regular' + '.ufo')
 
 # Set up the FTML tests
-# ftmlTest('tools/ftml-smith.xsl')
+ftmlTest('tools/ftml-smith.xsl')
 
-designspace('source/' + FAMILY + '.designspace',
+# APs to omit:
+omitaps = '--omitaps "L,O,R"'
+
+designspace('source/Kanchenjunga.designspace',
+    instanceparams='-l ' + genout + '${DS:FILENAME_BASE}_createinstances.log',
     target = process('${DS:FILENAME_BASE}.ttf',
-       cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/${DS:FILENAME_BASE}.ufo'])),
+        cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']),
+    ),
+    version=VERSION,  # Needed to ensure dev information on version string
+    ap = genout + '${DS:FILENAME_BASE}.xml',
     opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/opentype/master.feax", to_ufo = 'True'),
+    script='krai',
+    pdf = fret(params='-oi'),
     woff = woff('web/${DS:FILENAME_BASE}.woff',
-                    metadata=f'../source/{FAMILY}-WOFF-metadata.xml'),
-    pdf = fret(params='-oi')
-)
-
+        metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
+        ),
+    )

@@ -3,9 +3,10 @@
 <ftml version="1.0">
   <head>
     <fontscale>250</fontscale>
-    <fontsrc label="Kan (inst)">local(Kanchenjunga)</fontsrc>
     <fontsrc label="1.0">url(../references/Kanchenjunga-Regular.ttf)</fontsrc>
     <fontsrc label="Reg">url(../results/Kanchenjunga-Regular.ttf)</fontsrc>
+    <fontsrc label="Med">url(../results/Kanchenjunga-Medium.ttf)</fontsrc>
+    <fontsrc label="S-Bld">url(../results/Kanchenjunga-SemiBold.ttf)</fontsrc>
     <fontsrc label="Bld">url(../results/Kanchenjunga-Bold.ttf)</fontsrc>
    <styles>
       <style feats="'cv05' 1" name="cv05_1"/>

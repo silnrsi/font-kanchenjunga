@@ -5,13 +5,13 @@
   <anchor x="-582" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-352" y="1600" type="line"/>
-      <point x="-577" y="1353" type="line"/>
-      <point x="-802" y="1600" type="line"/>
       <point x="-1012" y="1600" type="line"/>
       <point x="-705" y="1190" type="line"/>
       <point x="-448" y="1190" type="line"/>
       <point x="-142" y="1600" type="line"/>
+      <point x="-352" y="1600" type="line"/>
+      <point x="-577" y="1353" type="line"/>
+      <point x="-802" y="1600" type="line"/>
     </contour>
   </outline>
   <lib>
