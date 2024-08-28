@@ -23,6 +23,12 @@ Kanchenjunga is world’s third highest mountain situated on the border between 
 
 The Kirat Rai script was officially encoded in the Unicode Standard version 17.0. Kanchenjunga version 1.000 was released in 2023 with provisional codepoints. However, those codepoints did not change, so if you used Kanchenjunga version 1.000, no data conversion will be necessary. The only difference is that the font now includes a Medium and SemiBold weight in addition to the Regular and Bold that were released with version 1.000.
 
+#### *I would like to use the variants defined in Character Variants. How do I type these using the Kanchenjunga font? How do I use these variants?*
+
+You should type the character the same way you would type the standard form of the character. Then, you need to select the variants to be displayed. If your application supports the OpenType Character Variant features, you can use these to access the font features built into the font. See [Font Features](features) page for more details.
+
+If your application does not support the OpenType Character Variants, you can use TypeTunerWeb to customize the font with the variants you require. See [Font Features](features) page for more details. 
+
 #### *I used a Kirat Rai font which was custom encoded. How can I convert my data from the custom encoding to Unicode?*
 
 Data which was created with the a custom encoded font will not be automatically converted to Unicode by switching fonts. The data must be converted to Unicode using a data conversion routine. See "Text conversion" in [Resources](resources) for information on converting your data.

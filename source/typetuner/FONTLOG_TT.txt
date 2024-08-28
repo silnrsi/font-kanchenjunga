@@ -1,4 +1,4 @@
-FONTLOG
+﻿FONTLOG
 Kanchenjunga
 ===================
 
@@ -15,10 +15,36 @@ Kanchenjunga is a font family for the Kirat Rai script of South Asia. It is name
 
 _Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
 
+A Note Regarding the Open Font License and TypeTuner
+----------------------------------------------------
+
+The OFL prohibits the use of Reserved Font Names "Kanchenjunga" and "SIL" in
+the name of any font that is derived from the Original Version of 
+Kanchenjunga. However, SIL International (the Copyright Holder) grants 
+through this separate written agreement the right to use the Reserved Font
+Names in any Modified Version of this font created by using TypeTuner as 
+long as the feature information contained in the Original Version is used, 
+unmodified, as the source for TypeTuner feature information, and 
+"Kanchenjunga" is not the resulting font family name.
+
+TypeTuner-produced fonts created in this manner are still bound by the
+terms of the OFL. Specifically, the use of Reserved Font Names is
+prohibited when making derivatives of a TypeTuner-produced font. Anyone
+making a derivative of a TypeTuner font will need to find a different
+name. For example a TypeTuner-produced font may be named 
+"Kanchenjunga SomeFarAwayPlace" but a derivative of that font made 
+with other tools would not be allowed to use the "Kanchenjunga" and "SIL" 
+Reserved Font Names and would have to be named something like "Sikkim Kirat Rai".
+
 
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
+
+%DATE% (SIL TypeTuner) Tuned version of Kanchenjunga Version 2.000
+- Tuned and delivered by SIL TypeTuner 
+(https://scripts.sil.org/ttw/fonts2go.cgi).
+- See included xml file for details of feature changes.
 
 ### 2024-09-10 (WSTech team) Kanchenjunga Version 2.000 
 - Official release of Regular, Medium, SemiBold, and Bold using official Unicode codepoints

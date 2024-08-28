@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE all_features SYSTEM "feat_all.dtd">
+<all_features version="1.0">
+
+	<!-- cv05 -->
+	<feature name="Ca" value="Standard" tag="Ca">
+		<value name="Standard" tag="Std">
+			<cmd name="null" args="null"/>
+		</value>
+		<value name="Alternate" tag="Alt">
+			<cmd name="encode" args="16D49 u16D49.alt"/>
+		</value>
+	</feature>
+
+	<!-- cv15 -->
+	<feature name="Ta" value="Standard" tag="Ta">
+		<value name="Standard" tag="Std">
+			<cmd name="null" args="null"/>
+		</value>
+		<value name="Alternate" tag="Alt">
+			<cmd name="encode" args="16D52 u16D52.alt"/>
+		</value>
+	</feature>
+
+	<!-- cv25 -->
+	<feature name="Ma" value="Standard" tag="Ma">
+		<value name="Standard" tag="Std">
+			<cmd name="null" args="null"/>
+		</value>
+		<value name="Alternate" tag="Alt">
+			<cmd name="encode" args="16D5B u16D5B.alt"/>
+		</value>
+	</feature>
+
+	<!-- cv35 -->
+	<feature name="Ha" value="Standard" tag="Ha">
+		<value name="Standard" tag="Std">
+			<cmd name="null" args="null"/>
+		</value>
+		<value name="Alternate" tag="Alt">
+			<cmd name="encode" args="16D62 u16D62.alt"/>
+		</value>
+	</feature>
+
+</all_features>
