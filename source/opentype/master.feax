@@ -14,6 +14,8 @@
 #
 languagesystem DFLT dflt;
 languagesystem latn dflt;
+languagesystem krai dflt;
+
 
 
 
@@ -66,6 +68,7 @@ lookup AttachMarks {
 feature cv05 {  # ca alternates
 		cvParameters {
 			FeatUILabelNameID  { name 3 1 0x0409 "Ca alternate" ; } ;
+  ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
       ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
 		} ;
     sub ca-kirat by ca-kirat.alt ;
@@ -75,6 +78,7 @@ feature cv05 {  # ca alternates
 feature cv15 {  # ta alternates
 		cvParameters {
 			FeatUILabelNameID  { name 3 1 0x0409 "Ta alternate" ; } ;
+  ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
       ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
 		} ;
     sub ta-kirat by ta-kirat.alt ;
@@ -84,6 +88,7 @@ feature cv15 {  # ta alternates
 feature cv25 {  # ma alternates
 		cvParameters {
 			FeatUILabelNameID  { name 3 1 0x0409 "Ma alternate" ; } ;
+  ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
       ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
 		} ;
     sub ma-kirat by ma-kirat.alt ;
@@ -93,6 +98,7 @@ feature cv25 {  # ma alternates
 feature cv35 {  # ha alternates
 		cvParameters {
 			FeatUILabelNameID  { name 3 1 0x0409 "Ha alternate" ; } ;
+  ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
       ParamUILabelNameID { name 3 1 0x0409 "Alternate" ; } ;
 		} ;
     sub ha-kirat by ha-kirat.alt ;

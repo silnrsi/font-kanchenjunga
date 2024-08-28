@@ -386,6 +386,7 @@ markClass cedillacomb <anchor -477 0> @_H;
 #
 languagesystem DFLT dflt;
 languagesystem latn dflt;
+languagesystem krai dflt;
 #**********************
 # Substitution lookups
 #
@@ -615,6 +616,7 @@ feature cv05 {
             name "Ca alternate";
         };
 
+        ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
                 ParamUILabelNameID {
             name "Alternate";
         };
@@ -632,6 +634,7 @@ feature cv15 {
             name "Ta alternate";
         };
 
+        ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
                 ParamUILabelNameID {
             name "Alternate";
         };
@@ -649,6 +652,7 @@ feature cv25 {
             name "Ma alternate";
         };
 
+        ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
                 ParamUILabelNameID {
             name "Alternate";
         };
@@ -666,6 +670,7 @@ feature cv35 {
             name "Ha alternate";
         };
 
+        ### ParamUILabelNameID { name 3 1 0x0409 "Standard" ; };
                 ParamUILabelNameID {
             name "Alternate";
         };
