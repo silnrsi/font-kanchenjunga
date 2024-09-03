@@ -13,7 +13,7 @@ Install the font by decompressing the .zip archive and installing the font using
 
 ## Keyboarding and character set support
 
-This font does not include keyboards or other software for entering text. To type the symbols in this font use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) is a cross-platform keyboarding system and one Kirat Rai keyboard is available:
+This font does not include keyboards or other software for entering text. To type the symbols in this font, use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) is a cross-platform keyboarding system and one Kirat Rai keyboard is available:
 
 - [Kirat Rai Inscript keyboard](https://keyman.com/keyboards/kirat_rai_inscript)
 
@@ -23,7 +23,7 @@ See [Character set support](charset.md) for details of the Unicode characters su
 
 ## Rendering and application support
 
-This Kirat Rai script, and this font, does not require any special rendering. However, there are a few OpenType character variants in the font, and selecting a character variant will require an application that supports that selection. The font also includes some kerning.
+The Kirat Rai script, and this font, does not require any special rendering. However, there are a few OpenType character variants in the font, and selecting a character variant will require an application that supports that selection. The font also includes some kerning.
 
 Other suggestions are listed here: [Using Font Features](https://software.sil.org/fonts/features/). 
 

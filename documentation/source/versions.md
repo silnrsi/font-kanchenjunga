@@ -17,4 +17,4 @@ This font package is also available in the [SIL software repository for Ubuntu](
 
 ## Change history
 
-A detailed list of changes for each version of the fonts is on the [Version history page](history.md).
+A detailed list of changes for each version of the fonts is on the [Version History page](history.md).

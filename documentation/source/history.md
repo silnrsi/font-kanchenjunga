@@ -5,7 +5,7 @@ fontversion: 2.000
 
 ### 2024-09-10 (WSTech team) Kanchenjunga Version 2.000 
 - Official release of Regular, Medium, SemiBold, and Bold using official Unicode codepoints
-- Added support for Typetuner
+- Added support for TypeTuner
 
 ### 2023-08-02 (WSTech team) Kanchenjunga Version 1.000 
 - Official release of Regular and Bold using provisional codepoints
