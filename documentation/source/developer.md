@@ -34,12 +34,14 @@ The Kanchenjunga project can be built from source using [smith](https://github.c
 ### Adding characters
 
 After base characters to the font, the following files will also need updating:
+
 - `glyph_data.csv` -- used to set glyph orders and psnames in the built font
 - `tests/*.ftml` -- see below
 
 ### Generated test files
 
 After adding characters or additional behaviors to the font, test files should be created or enhanced to test the new behaviors. The test files are manually created:
+
 - `tests/AllChars.ftml`
 - `tests/Positioning.ftml`
 

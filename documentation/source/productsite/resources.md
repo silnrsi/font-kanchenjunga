@@ -9,9 +9,9 @@ Install the font by decompressing the .zip archive and installing the font using
 
 ## Keyboarding and character set support
 
-This font does not include keyboards or other software for entering text. To type the symbols in this font use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) is a cross-platform keyboarding system and one Kirat Rai keyboard is available:
+This font does not include keyboards or other software for entering text. To type the symbols in this font, use the keyboarding systems provided in your OS or use a separate utility. [Keyman](https://keyman.com/) is a cross-platform keyboarding system and one Kirat Rai keyboard is available:
 
-- [Kirat Rai Inscript keyboard](https://keyman.com/keyboards/kirat_rai_inscript)
+- [Kirat Rai Inscript](https://keyman.com/keyboards/kirat_rai_inscript)
 
 Various other means may be available for different operating-system platforms to create additional input methods. Some suggestions are listed here: [Keyboard Systems Overview](https://scriptsource.org/entry/ytr8g8n6sw).
 
@@ -19,7 +19,7 @@ See [Character set support](charset) for details of the Unicode characters suppo
 
 ## Rendering and application support
 
-This Kirat Rai script, and this font, does not require any special rendering. However, there are a few OpenType character variants in the font, and selecting a character variant will require an application that supports that selection. The font also includes some kerning.
+The Kirat Rai script, and this font, does not require any special rendering. However, there are a few OpenType character variants in the font, and selecting a character variant will require an application that supports that selection. The font also includes some kerning.
 
 Other suggestions are listed here: [Using Font Features](https://software.sil.org/fonts/features/). 
 
@@ -36,6 +36,6 @@ Other suggestions are listed here: [Introduction to Text Conversion and Translit
 Two TECKit mapping files are currently available. Both of them should still be considered experimental. Feedback through the Github repository is welcomed.
 
 - [Kirat Rai AKRS to Unicode](https://github.com/silnrsi/wsresources/tree/master/scripts/Krai/legacy/kiratraifontnew/mappings)
-- [Devanagari to Kirat Rai (using provisional Kirat Rai Unicode codepoints)](https://github.com/silnrsi/wsresources/tree/master/scripts/Krai/mappings)
+- [Devanagari to Kirat Rai](https://github.com/silnrsi/wsresources/tree/master/scripts/Krai/mappings)
 
 

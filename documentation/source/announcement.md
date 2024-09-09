@@ -13,3 +13,7 @@ _The Kirat Rai script was officially encoded in the Unicode Standard version 17.
 - Added support for TypeTuner
 
 Download the release package from the [Download Page](https://software.sil.org/kanchenjunga/download/).
+
+A Keyman keyboard for the Kirat Rai script is also available:
+
+- [Kirat Rai Inscript](https://keyman.com/keyboards/kirat_rai_inscript)

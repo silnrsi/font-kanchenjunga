@@ -3,11 +3,11 @@ title: Kanchenjunga - Version History
 fontversion: 2.000
 ---
 
-### 2024-09-10 (WSTech team) Kanchenjunga Version 2.000 
+### 10 Sep 2024 (WSTech team) Kanchenjunga Version 2.000 
 - Official release of Regular, Medium, SemiBold, and Bold using official Unicode codepoints
 - Added support for TypeTuner
 
-### 2023-08-02 (WSTech team) Kanchenjunga Version 1.000 
+### 02 Aug 2023 (WSTech team) Kanchenjunga Version 1.000 
 - Official release of Regular and Bold using provisional codepoints
 - Latin glyphs reimported from the Andika project (400 and 600 weight) at 100%
 

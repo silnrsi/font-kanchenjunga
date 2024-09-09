@@ -21,7 +21,7 @@ Many questions can be answered by consulting the following FAQ pages. Here are a
 
 #### *Where does the name Kanchenjunga come from?*
 
-Kanchenjunga is world’s third highest mountain, situated on the border between Sikkim state in northeast India and eastern Nepal. Etymology of this name is found in Britannica: The name Kanchenjunga is derived from four words of Tibetan origin, usually rendered Kang-chen-dzo-nga or Yang-chhen-dzö-nga and interpreted in Sikkim as the “Five Treasuries of the Great Snow.” This peak represents the geographical distribution of the Bantawa language quite well.
+Kanchenjunga is the world’s third highest mountain, situated on the border between Sikkim state in northeast India and eastern Nepal. Etymology of this name is found in Britannica: The name Kanchenjunga is derived from four words of Tibetan origin, usually rendered Kang-chen-dzo-nga or Yang-chhen-dzö-nga and interpreted in Sikkim as the “Five Treasuries of the Great Snow.” This peak represents the geographical distribution of the Bantawa language quite well.
 
 #### *How is this font different from v1.000 which was released before it was officially in the Unicode Standard?*
 
@@ -29,7 +29,7 @@ The Kirat Rai script was officially encoded in the Unicode Standard version 17.0
 
 #### *I would like to use the variants defined in Character Variants. How do I type these using the Kanchenjunga font? How do I use these variants?*
 
-Type the character the same way you would type its standard form. Then select the variants to be displayed. If your application supports the OpenType Character Variant features, you can use these to access the font features built into the font. See [Font Features](features.md) page for more details.
+Type the character the same way you would type its standard form (see "Keyboarding and character set support" in [Resources](resources.md) for a keyboard). Then select the variants to be displayed. If your application supports the OpenType Character Variant features, you can use these to access the font features built into the font. See [Font Features](features.md) page for more details.
 
 If your application does not support the OpenType Character Variants, you can use TypeTunerWeb to customize the font with the variants you require. See [Font Features](features.md) page for more details. 
 

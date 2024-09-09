@@ -39,7 +39,7 @@
     <p>The fonts are built using a completely free and open source
     workflow using industry-standard tools (<a
     href="https://github.com/fonttools/fonttools">fonttools</a>), a
-    package of custom python scripts (<a
+    package of custom Python scripts (<a
     href="https://github.com/silnrsi/pysilfont">pysilfont</a>), and a
     build and packaging system (<a
     href="https://github.com/silnrsi/smith">Smith</a>). The whole
@@ -57,14 +57,20 @@
     smith build</code></pre>
     <h3 id="adding-characters">Adding characters</h3>
     <p>After base characters to the font, the following files will also
-    need updating: - <code>glyph_data.csv</code> -- used to set glyph
-    orders and psnames in the built font - <code>tests/*.ftml</code> --
-    see below</p>
+    need updating:</p>
+    <ul>
+    <li><code>glyph_data.csv</code> -- used to set glyph orders and
+    psnames in the built font</li>
+    <li><code>tests/*.ftml</code> -- see below</li>
+    </ul>
     <h3 id="generated-test-files">Generated test files</h3>
     <p>After adding characters or additional behaviors to the font, test
     files should be created or enhanced to test the new behaviors. The
-    test files are manually created: - <code>tests/AllChars.ftml</code>
-    - <code>tests/Positioning.ftml</code></p>
+    test files are manually created:</p>
+    <ul>
+    <li><code>tests/AllChars.ftml</code></li>
+    <li><code>tests/Positioning.ftml</code></li>
+    </ul>
     <p><code>tools/ftml.xsl</code> can be used to view ftml documents
     directly in Firefox (which supports both Graphite and OpenType
     rendering).</p>

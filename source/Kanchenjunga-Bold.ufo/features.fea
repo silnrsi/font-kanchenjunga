@@ -386,7 +386,8 @@ markClass cedillacomb <anchor -477 0> @_H;
 #
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem krai dflt;
+# Add in when Harfbuzz and FontBakery support krai
+# languagesystem krai dflt;
 #**********************
 # Substitution lookups
 #
