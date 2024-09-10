@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kanchenjunga</string>
   <key>openTypeHeadCreated</key>
-  <string>2024/02/13 15:10:27</string>
+  <string>2024/09/10 13:58:29</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Kanchenjunga Regular: 2024</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.000</string>
+  <string>Version 2.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -223,7 +223,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>
