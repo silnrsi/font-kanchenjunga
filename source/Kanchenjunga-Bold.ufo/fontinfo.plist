@@ -253,10 +253,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
       <dict>
         <key>text</key>
         <string>Kanchenjunga is a font family for the Kirat Rai script of South Asia. It is named after the third highest mountain in the world.
-
-_Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
-
-_This font should be considered a work in progress. Glyphs shapes and metrics may change prior to a final Unicode release._
 </string>
       </dict>
     </array>
