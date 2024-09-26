@@ -13,7 +13,7 @@ Install the font by decompressing the .zip archive and installing the font using
 
 ## Keyboarding and character set support
 
-This font does not include keyboards or other software for entering text. To type the symbols in this font, use the keyboarding systems provided in your OS or use a separate utility. [Keyman](https://keyman.com/) is a cross-platform keyboarding system and one Kirat Rai keyboard is available:
+This font package does not include keyboards or other software for entering text. To type the symbols in this font, use the keyboarding systems provided in your OS or use a separate utility. [Keyman](https://keyman.com/) is a cross-platform keyboarding system and one Kirat Rai keyboard is available:
 
 - [Kirat Rai Inscript](https://keyman.com/keyboards/kirat_rai_inscript)
 
