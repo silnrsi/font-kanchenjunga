@@ -17,7 +17,7 @@ This font package does not include keyboards or other software for entering text
 
 - [Kirat Rai Inscript](https://keyman.com/keyboards/kirat_rai_inscript)
 
-Various other means may be available for different operating-system platforms to create additional input methods. Some suggestions are listed here: [Keyboard Systems Overview](https://scriptsource.org/entry/ytr8g8n6sw).
+Various other means may be available for different operating system platforms to create additional input methods. Some suggestions are listed here: [Keyboards and Tools](https://writingsystems.info/topics/input/keyboards-and-tools/#keyboard-tools).
 
 See [Character set support](charset.md) for details of the Unicode characters supported by this font.
 
@@ -35,7 +35,7 @@ Web font versions of this font (in WOFF and WOFF2 formats) are available in the 
 
 Since this script was only encoded in 2024, people may wish to convert documents from custom-encoded fonts to the provisional Unicode codepoints. TECkit is one program that can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings. The TECkit package is available for download from SIL’s [TECkit](https://software.sil.org/teckit/) Web site. The [SIL Converters](https://software.sil.org/silconverters/) software will be an important tool in data conversion.
 
-Other suggestions are listed here: [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
+Other suggestions are listed here: [Encoding Conversion](http://writingsystems.info/topics/encoding/encoding-conversion/).
 
 Two TECKit mapping files are currently available. Both of them should still be considered experimental. Feedback through the Github repository is welcomed.
 

@@ -18,7 +18,7 @@ A Note Regarding the Open Font License and TypeTuner
 
 The OFL prohibits the use of Reserved Font Names "Kanchenjunga" and "SIL" in
 the name of any font that is derived from the Original Version of 
-Kanchenjunga. However, SIL International (the Copyright Holder) grants 
+Kanchenjunga. However, SIL Global (the Copyright Holder) grants 
 through this separate written agreement the right to use the Reserved Font
 Names in any Modified Version of this font created by using TypeTuner as 
 long as the feature information contained in the Original Version is used, 
@@ -41,7 +41,7 @@ ChangeLog
 
 %DATE% (SIL TypeTuner) Tuned version of Kanchenjunga Version 2.000
 - Tuned and delivered by SIL TypeTuner 
-(https://scripts.sil.org/ttw/fonts2go.cgi).
+(https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi).
 - See included xml file for details of feature changes.
 
 ### 11 Sep 2024 (WSTech team) Kanchenjunga Version 2.001 
@@ -80,6 +80,6 @@ W: https://software.sil.org/kanchenjunga
 D: Font production
 
 
-The Kanchenjunga project is maintained by SIL International.
+The Kanchenjunga project is maintained by SIL Global.
 
-For more information please visit SIL International's website: https://software.sil.org/fonts/
+For more information please visit SIL Global's website: https://software.sil.org/fonts/

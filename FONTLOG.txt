@@ -56,6 +56,6 @@ W: https://software.sil.org/kanchenjunga
 D: Font production
 
 
-The Kanchenjunga project is maintained by SIL International.
+The Kanchenjunga project is maintained by SIL Global.
 
-For more information please visit SIL International's website: https://software.sil.org/fonts/
+For more information please visit SIL Global's website: https://software.sil.org/fonts/
